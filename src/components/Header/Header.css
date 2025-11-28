@@ -1,0 +1,116 @@
+.header {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.top-bar {
+  width: 100%;
+  background-color: #eee;
+  color: #333;
+  font-size: 0.7rem; 
+  padding: 0.3rem 2rem; 
+  text-align: left;
+  box-sizing: border-box;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-header {
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.main-header nav ul {
+  display: flex;
+  list-style: none;
+  gap: 1.5rem;
+}
+
+.main-header nav li a {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+               Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+  font-weight: 400;
+  font-size: 0.95rem;     
+  letter-spacing: 0.3px;   
+  color: #444;              
+  text-decoration: none;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.main-header nav li a:hover {
+  color: #1f8a93;           
+  transform: translateY(-1px); 
+}
+
+/* Texte coordonnées */
+.contact-info {
+  margin: 0;
+}
+
+.top-bar .contact-info {
+  margin-left: 30px;
+}
+
+/* Lien Urgences */
+.urgent-link {
+  margin-left: 1rem;
+  padding: 5px 10px;
+  font-weight: bold;
+  text-decoration: none;
+  border-radius: 4px;
+  color: inherit;
+  background-color: transparent;
+}
+
+.urgent-link:hover {
+  cursor: pointer;
+  color: gray;
+}
+
+/*Icone + texte */
+.branding {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.branding:hover {
+  color: inherit;         
+  text-decoration: none;  
+}
+
+.main-header .branding {
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.tooth-icon {
+  width: 80px;
+  height: auto;
+}
+
+.brand-text {
+  display: flex;
+  flex-direction: column;
+  line-height: 1.1;
+}
+
+.brand-title {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.brand-subtitle {
+  font-size: 0.9rem;
+  margin: 0;
+}
+
+

@@ -1,0 +1,40 @@
+.team {
+  padding: 2rem;
+  text-align: center;
+  background-color: #f0f4f8;
+}
+
+.team h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: #1f8a93;
+}
+
+.team-list {
+  display: flex;
+  justify-content: center;
+}
+
+.team-member {
+  width: 220px;
+  padding: 1rem;
+  border-radius: 10px;
+  background-color: #f9f9f9;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+.team-photo {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.team-member h3 {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.team-role {
+  font-size: 0.9rem;
+  color: #555;
+}

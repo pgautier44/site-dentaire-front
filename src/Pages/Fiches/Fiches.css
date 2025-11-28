@@ -1,0 +1,77 @@
+.pc-container {
+  margin: auto;
+  padding: 60px 40px;
+  background-color: #f0f4f8;
+  box-sizing: border-box;
+}
+
+.pc-hero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.pc-hero h1 {
+  font-size: 2.2rem;
+  color: #1f8a93; 
+  margin-bottom: 15px;
+}
+
+.pc-hero p {
+  font-size: 1.1rem;
+  color: #333;
+}
+
+.pc-section {
+  background: #ffffff;
+  padding: 25px 30px;
+  margin-bottom: 30px;
+  border-radius: 12px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.pc-section:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 25px rgba(0,0,0,0.15);
+}
+
+.pc-section h2 {
+  margin-top: 0;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #1f8a93;
+  font-size: 1.4rem;
+}
+
+.pc-list {
+  padding-left: 18px;
+}
+
+.pc-list li {
+  margin-bottom: 8px;
+  color: #333;
+}
+
+.pc-cta {
+  text-align: center;
+  margin-top: 30px;
+}
+
+.pc-button {
+  background-color: #1abc9c;
+  color: white;
+  padding: 12px 24px;
+  border: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.pc-button:hover {
+  background-color: #16a085;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}

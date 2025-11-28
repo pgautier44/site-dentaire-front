@@ -1,0 +1,95 @@
+.footer {
+  background-color: #f6f1ed;
+  color: #666666;
+  padding: 25px 20px;
+  padding: 25px 0 0 0;
+  font-size: 0.95rem;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+}
+
+/* --- Layout --- */
+.footer-container {
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 80px;
+}
+
+.footer-column {
+  flex: 1;
+  max-width: 400px;
+}
+
+.footer-column p,
+.footer-column ul li {
+  font-size: 0.8rem;
+}
+
+/* Titles */
+.footer-column h2 {
+  margin-bottom: 6px;
+  font-size: 1.5rem;
+  font-weight: 600;
+  border-bottom: 1px solid #d7ccc7;
+  padding-bottom: 3px;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  color: #333333;
+}
+
+.footer-column h5 {
+  margin: 4px 0;
+  font-size: 0.95rem;
+  font-weight: 600;
+  padding-left: 15px;
+  position: relative;
+  color: #666666;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  margin-bottom: 10px;
+}
+
+/* Lists */
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 4px;
+  line-height: 1.2rem;
+}
+
+.horaires-section h5::before {
+  content: "•";
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.1rem;
+  color: #666666;
+}
+
+.horaires-section {
+  margin-bottom: 12px;
+}
+
+/* Bottom */
+.footer-bottom {
+  width: 100%;
+  background-color: #3e979c;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 0.8rem;
+  margin-top: 20px;
+}
+
+.footer-bottom a {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.footer-bottom a:hover {
+  color: #ffdcdc; 
+}
