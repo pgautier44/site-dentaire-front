@@ -9,7 +9,7 @@ function Header() {
       {/* Barre grise en haut */}
       <div className="top-bar">
         <p className="contact-info">
-          Docteure LUCAS Capucine | Orthodontiste - 4 Boulevard du Trieux - 35740 PACE - 02 99 23 54 55
+          Docteure LUCAS Capucine | Orthodontiste - 4 Boulevard du Trieux - 35740 PACE - 02 99 23 54 44
         </p>
         <Link to="/urgences" className="urgent-link">Urgences</Link>
       </div>
