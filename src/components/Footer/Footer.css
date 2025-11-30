@@ -63,11 +63,11 @@
 
 .horaires-section h5::before {
   content: "•";
-  position: absolute;
-  left: 0;
-  top: 0;
+  display: inline-block;
+  margin-right: 6px;
   font-size: 1.1rem;
   color: #666666;
+  position: static;
 }
 
 .horaires-section {
@@ -92,4 +92,41 @@
 
 .footer-bottom a:hover {
   color: #ffdcdc; 
+}
+
+/* Media query pour mobile */
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    gap: 20px;              
+    padding: 0 15px;       
+  }
+
+  .footer-column {
+    max-width: 100%;
+  }
+
+  .footer-column h2 {
+    text-align: center; 
+  }
+
+  .footer-column p,
+  .footer-column ul li {
+    text-align: center;  
+  }
+
+  .horaires-section h5 {
+    padding-left: 0;     
+    text-align: center;
+  }
+
+  .horaires-section h5::before {
+    left: 50%;             
+    transform: translateX(-50%);
+  }
+
+  .footer-bottom {
+    padding: 15px 10px;
+    font-size: 0.75rem;
+  }
 }
