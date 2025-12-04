@@ -11,10 +11,9 @@ const LegalNotice = () => {
         <p>
           Le présent site est édité par le <strong>Cabinet d’orthodontie du Dr Capucine LUCAS</strong>,
           situé :
+          <strong> 4 Boulevard du Trieux – 35740 Pacé</strong>
           <br />
-          <strong>4 Boulevard du Trieux – 35740 Pacé</strong>
-          <br />
-          Téléphone : 02 99 23 54 54
+          Téléphone : XX XX XX XX XX
           <br />
           Responsable de la publication : Dr Capucine LUCAS, chirurgien-dentiste spécialisée en orthodontie.
         </p>
@@ -24,12 +23,15 @@ const LegalNotice = () => {
         <h2>Hébergement du site</h2>
         <p>
           Le site est hébergé par :
+          Vercel, Inc.
           <br />
-          <strong>[Nom de l’hébergeur]</strong>
+          Adresse : 340 S Lemon Ave #4133, Walnut, CA 91789, États-Unis
           <br />
-          Adresse : [Adresse complète]
+          Site internet : https://vercel.com
           <br />
-          Site internet : [URL de l’hébergeur]
+          Téléphone : +1 (888) 982-5835
+          <br />
+          Email : support@vercel.com
         </p>
       </section>
 

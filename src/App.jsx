@@ -5,12 +5,14 @@ import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
 
 import routesConfig from "./routes/routesConfig.jsx";
+import ScrollToTop from "./components/Scroll/ScrollToTop";
 
 import "./App.css";
 
 function App() {
   return (
     <Router>
+      <ScrollToTop />
       <div className="App">
         <Header />
 

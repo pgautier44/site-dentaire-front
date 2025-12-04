@@ -57,20 +57,23 @@
   margin-left: 30px;
 }
 
-/* Lien Urgences */
 .urgent-link {
   margin-left: 1rem;
-  padding: 5px 10px;
-  font-weight: bold;
+  padding: 4px 12px;
+  font-weight: 500;
   text-decoration: none;
-  border-radius: 4px;
-  color: inherit;
-  background-color: transparent;
+  border-radius: 6px;
+  color: #1f8a93;                     
+  border: 1px solid #1f8a93;          
+  background-color: #f0f4f8;          
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
 .urgent-link:hover {
+  background-color: #e0ebf0;           
+  color: #175d63;                      
+  transform: translateY(-1px);         
   cursor: pointer;
-  color: gray;
 }
 
 /*Icone + texte */

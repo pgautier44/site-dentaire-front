@@ -15,38 +15,38 @@ import Orthodontie_Technique from "../../assets/Orthodontie_Technique.png";
 const fiches = [
   {
     id: 1,
+    title: "Qu’est-ce que l’orthodontie ?",
+    img: Orthodontie_definition,
+    desc: "Comprendre l’orthodontie, ses objectifs et le rôle des praticiens spécialisés.",
+    link: "/orthodontie-presentation"
+  },
+  {
+    id: 2,
     title: "Première Consultation Orthodontique",
     img: PremiereConsultImg,
     desc: "Découvrez le déroulement de votre première visite et les étapes clés du bilan orthodontique.",
     link: "/premiere-consultation"
   },
   {
-    id: 2,
+    id: 3,
     title: "Bagues et Appareils Multi‑attaches",
     img: BaguesImg,
     desc: "Fonctionnement des bagues, conseils d’entretien et bonnes pratiques pour un traitement efficace.",
     link: "/bagues"
   },
   {
-    id: 3,
+    id: 4,
     title: "Appareils Amovibles",
     img: AppareilAmovibleImg,
     desc: "Guide pratique sur le port des appareils amovibles et comment maintenir une hygiène optimale.",
     link: "/appareils-amovibles"
   },
   {
-    id: 4,
+    id: 5,
     title: "Techniques d’appareils fixes",
     img: AlimentationFixeImg,
     desc: "Tout savoir sur les appareils fixes : pose, ajustements et soins recommandés.",
     link: "/appareils-fixes"
-  },
-  {
-    id: 5,
-    title: "Qu’est-ce que l’orthodontie ?",
-    img: Orthodontie_definition,
-    desc: "Comprendre l’orthodontie, ses objectifs et le rôle des praticiens spécialisés.",
-    link: "/orthodontie-presentation"
   },
   {
     id: 6,

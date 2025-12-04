@@ -21,7 +21,7 @@ function Contact() {
 
           <p>
             <strong>Téléphone :</strong><br />
-            02 99 23 54 54
+            XX XX XX XX XX
           </p>
 
           <p>

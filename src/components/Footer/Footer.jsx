@@ -36,7 +36,7 @@ function Footer() {
           <h2>Coordonnées</h2>
           <p>Cabinet d'orthodontie du Dr LUCAS Capucine</p>
           <p>Adresse. 4 Boulevard du Trieux - 35740 PACE</p>
-          <p>Tél. 02 99 23 54 54</p>
+          <p>Tél. XX XX XX XX XX</p>
         </div>
       </div>
 
