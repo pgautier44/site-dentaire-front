@@ -30,7 +30,7 @@ function Contact() {
           </p>
 
           <h3>Horaires</h3>
-          <p>Lundi – Vendredi : 9h00 – 18h00</p>
+          <p>Lundi – Vendredi : 09h – 13h30 / 14h30 – 18h</p>
         </div>
 
         {/* --- GOOGLE MAP --- */}

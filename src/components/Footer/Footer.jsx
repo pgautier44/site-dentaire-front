@@ -14,21 +14,21 @@ function Footer() {
             <div className="horaires-section">
               <h5>Accueil</h5>
               <ul>
-                <li>lundi 10h – 14h / 15h – 19h</li>
-                <li>mardi 10h – 14h / 15h – 19h</li>
-                <li>mercredi 9h30 – 13h / 14h – 18h</li>
-                <li>jeudi 10h – 14h / 15h – 19h</li>
-                <li>vendredi 10h30 – 14h / 15h – 19h</li>
+                <li>lundi 09h – 13h30 / 14h30 – 18h</li>
+                <li>mardi 09h – 13h30 / 14h30 – 18h</li>
+                <li>mercredi 09h – 13h30 / 14h30 – 18h</li>
+                <li>jeudi Fermé</li>
+                <li>vendredi 09h – 13h30 / 14h30 – 18h</li>
               </ul>
             </div>
 
-            <div className="horaires-section">
+            {/* <div className="horaires-section">
               <h5>Standard téléphonique</h5>
               <ul>
                 <li>Lundi au jeudi 10h-13h / 15h-18h</li>
                 <li>Vendredi 10h30-13h / 15h-18h</li>
               </ul>
-            </div>
+            </div> */}
         </div>
 
         {/* Coordonnées */}
