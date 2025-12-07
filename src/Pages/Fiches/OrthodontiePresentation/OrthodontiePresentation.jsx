@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -16,7 +17,10 @@ const OrthodontiePresentation = () => {
 
   return (
     <div className="pc-container">
-
+      <Seo
+        title="Présentation de l'orthodontie – Cabinet Dr Capucine Lucas"
+        description="Découvrez l’orthodontie au Cabinet Dr Capucine Lucas à Pacé : objectifs, types de traitements pour enfants et adultes, et conseils pour un suivi optimal."
+      />
       <header className="pc-hero">
         <h1>Qu’est-ce que l’orthodontie ?</h1>
         <p>

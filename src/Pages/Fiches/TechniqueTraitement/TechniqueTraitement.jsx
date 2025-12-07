@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -16,6 +17,10 @@ const TechniqueTraitement = () => {
 
   return (
     <div className="pc-container">
+      <Seo
+        title="Techniques de traitement orthodontique – Cabinet Dr Capucine Lucas"
+        description="Découvrez les différentes techniques de traitement orthodontique utilisées au Cabinet Dr Capucine Lucas à Pacé : appareils fixes, amovibles, multi-attaches, et conseils pratiques pour enfants et adultes."
+      />
       <header className="pc-hero">
         <h1>Techniques de traitement orthodontique</h1>
         <p>

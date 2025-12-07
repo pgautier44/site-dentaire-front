@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
 Calendar,
@@ -16,6 +17,10 @@ window.open("[https://app.my-orthoadvance.com/#/cabinets/lucas](https://app.my-o
 };
 
 return ( <div className="pc-container">
+   <Seo
+        title="Appareils multi‑attaches – Cabinet Dr Capucine Lucas"
+        description="Tout savoir sur les appareils multi‑attaches (bagues) au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : pose, adaptation, entretien, durée du traitement et conseils pratiques pour enfants et adultes."
+      />
 
 ```
   <header className="pc-hero">

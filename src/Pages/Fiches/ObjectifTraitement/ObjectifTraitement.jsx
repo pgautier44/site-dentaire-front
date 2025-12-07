@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -17,6 +18,10 @@ const ObjectifTraitement = () => {
 
   return (
     <div className="pc-container">
+      <Seo
+        title="Objectifs du traitement orthodontique – Cabinet Dr Capucine Lucas"
+        description="Découvrez les objectifs des traitements orthodontiques au Cabinet Dr Capucine Lucas à Pacé : alignement des dents, correction des malocclusions, amélioration de la fonction masticatoire et esthétique."
+      />
       <header className="pc-hero">
         <h1>Pourquoi un traitement orthodontique ?</h1>
         <p>

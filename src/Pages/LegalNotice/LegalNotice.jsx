@@ -1,9 +1,14 @@
 import React from "react";
+import Seo from "../../components/Seo/Seo";
 import "./LegalNotice.css";
 
 const LegalNotice = () => {
   return (
     <div className="legal-container">
+      <Seo
+        title="Mentions légales – Cabinet d'Orthodontie Dr Capucine Lucas"
+        description="Mentions légales du site du Cabinet d'Orthodontie Dr Capucine Lucas à Pacé. Informations sur l'éditeur, l'hébergement et les droits de propriété intellectuelle."
+      />
       <h1 className="legal-title">Mentions légales</h1>
 
       <section className="legal-section">

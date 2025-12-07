@@ -1,9 +1,14 @@
 import React from "react";
+import Seo from "../../components/Seo/Seo";
 import "./UrgencesOrthodontie.css";
 
 function UrgencesOrthodontie() {
   return (
     <div className="urgences-ortho-page">
+      <Seo
+        title="Urgence orthodontique spécifique – Cabinet Dr Capucine Lucas"
+        description="Conseils et procédures pour gérer les urgences orthodontiques : appareils cassés, fils irritants, douleurs. Informations pratiques pour contacter le cabinet Dr Capucine Lucas à Pacé."
+      />
       {/* En-tête / Hero */}
       <section className="hero">
         <div className="hero-background"></div>

@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css"; 
 import {
   Calendar,
@@ -16,7 +17,10 @@ const PremiereConsultation = () => {
 };
   return (
     <div className="pc-container">
-
+      <Seo
+        title="Première consultation – Cabinet d'Orthodontie Dr Capucine Lucas"
+        description="Tout ce qu’il faut savoir pour préparer la première consultation au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : déroulement, examens, conseils et informations pratiques pour enfants et adultes."
+      />
       <header className="pc-hero">
         <h1>Première consultation & bilan orthodontique</h1>
         <p>Un premier rendez-vous pour évaluer, diagnostiquer et vous accompagner — en toute transparence.</p>

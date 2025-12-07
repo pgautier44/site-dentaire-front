@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../components/Seo/Seo";
 import { Link } from "react-router-dom";
 import "./Conseils.css";
 
@@ -74,6 +75,10 @@ const fiches = [
 function Conseils() {
   return (
     <section className="conseils-page">
+      <Seo
+        title="Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas"
+        description="Retrouvez les fiches conseils du Cabinet d'Orthodontie Dr Capucine Lucas : soins à domicile, hygiène bucco-dentaire, recommandations pour appareils orthodontiques, pour enfants et adultes."
+      />
       <h1 className="conseils-title">Fiches Conseil</h1>
       <div className="conseils-container">
         {fiches.map((fiche) => (

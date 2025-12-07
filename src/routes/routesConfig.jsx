@@ -1,12 +1,7 @@
 import React from "react";
 
-// src/routes/routesConfig.js
-// Composants
-import HomeHero from "../components/Home/HomeHero";
-import Welcome from "../components/Welcome/Welcome";
-import Team from "../components/Team/Team";
-
 // Pages
+import HomePage from "../Pages/HomePage/HomePage";
 import Urgences from "../Pages/Urgences/Urgences";
 import UrgencesOrthodontie from "../Pages/UrgencesOrthodontie/UrgencesOrthodontie";
 import LegalNotice from "../Pages/LegalNotice/LegalNotice";
@@ -27,13 +22,7 @@ import TechniqueTraitement from "../Pages/Fiches/TechniqueTraitement/TechniqueTr
 const routesConfig = [
   {
     path: "/",
-    element: (
-      <>
-        <HomeHero />
-        <Welcome />
-        <Team />
-      </>
-    ),
+    element: <HomePage />,
   },
   { path: "/urgences", element: <Urgences /> },
   { path: "/urgences-orthodontie", element: <UrgencesOrthodontie /> },

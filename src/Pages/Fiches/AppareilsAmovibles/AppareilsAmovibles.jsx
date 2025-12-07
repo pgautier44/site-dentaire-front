@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -17,7 +18,10 @@ const AppareilsAmovibles = () => {
 
   return (
     <div className="pc-container">
-
+      <Seo
+        title="Appareils amovibles – Cabinet Dr Capucine Lucas"
+        description="Informations complètes sur les appareils amovibles au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : types d’appareils, utilisation, entretien et conseils pratiques pour enfants et adultes."
+      />
       <header className="pc-hero">
         <h1>Appareils amovibles</h1>
         <p>

@@ -1,10 +1,14 @@
 import React from "react";
+import Seo from "../../components/Seo/Seo";
 import "./Contact.css";
 
 function Contact() {
   return (
     <section className="contact-page">
-
+      <Seo
+        title="Contact – Cabinet d'Orthodontie Dr Capucine Lucas"
+        description="Contactez le Cabinet d'Orthodontie Dr Capucine Lucas à Pacé pour prendre rendez-vous, poser vos questions ou obtenir des informations sur les traitements orthodontiques pour enfants et adultes."
+      />
       <h1 className="contact-title">Contact & Accès</h1>
 
       <div className="contact-container">

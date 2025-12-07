@@ -1,4 +1,5 @@
 import React from "react";
+import Seo from "../../../components/Seo/Seo";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -16,6 +17,10 @@ const UrgencesEtIncident = () => {
 
   return (
     <div className="pc-container">
+      <Seo
+        title="Urgences et incidents orthodontiques – Cabinet Dr Capucine Lucas"
+        description="Guide pour gérer les urgences et incidents liés aux traitements orthodontiques au Cabinet Dr Capucine Lucas à Pacé : appareils cassés, fils irritants, douleurs et conseils pratiques pour enfants et adultes."
+      />
       <header className="pc-hero">
         <h1>Incidents & urgences orthodontiques</h1>
         <p>
