@@ -29,7 +29,7 @@ function Header() {
         <nav className="desktop-menu">
           <ul>
             <li><Link to="/">Accueil</Link></li>
-            <li><Link to="/conseils">Fiches Conseil</Link></li>
+            <li><Link to="/conseils">Fiches conseils</Link></li>
             <li><Link to="/team">Équipe</Link></li>
             <li><Link to="/contact">Contact</Link></li>
           </ul>
