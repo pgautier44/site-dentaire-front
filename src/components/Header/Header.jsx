@@ -1,6 +1,8 @@
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
 import logoIcon from "../../assets/Logo.png";
+import RdvButton from "../../components/RdvButton/RdvButton";
+
 import "./Header.css";
 
 function Header() {
@@ -8,12 +10,17 @@ function Header() {
 
   return (
     <header className="header">
-      {/* Barre grise en haut */}
+
       <div className="top-bar">
         <p className="contact-info">
-           Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE {/*- XX XX XX XX */}
+          Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE
         </p>
-        <Link to="/urgences" className="urgent-link">Urgences</Link>
+
+        <div className="top-buttons">
+          <Link to="/urgences" className="urgent-link">Urgences</Link>
+
+          <RdvButton />
+        </div>
       </div>
 
       <div className="main-header">
@@ -25,7 +32,6 @@ function Header() {
           </div>
         </Link>
 
-        {/* Desktop navigation */}
         <nav className="desktop-menu">
           <ul>
             <li><Link to="/">Accueil</Link></li>
@@ -35,12 +41,10 @@ function Header() {
           </ul>
         </nav>
 
-        {/* Burger pour mobile */}
         <div className="burger" onClick={() => setMenuOpen(!menuOpen)}>
           ☰
         </div>
 
-        {/* Menu mobile */}
         {menuOpen && (
           <nav className="mobile-menu">
             <ul>
@@ -48,6 +52,17 @@ function Header() {
               <li><Link to="/conseils" onClick={() => setMenuOpen(false)}>Fiches Conseil</Link></li>
               <li><Link to="/team" onClick={() => setMenuOpen(false)}>Équipe</Link></li>
               <li><Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
+              <li>
+                <button
+                  className="mobile-rdv"
+                  onClick={() => {
+                    setMenuOpen(false);
+                    handleRedirect();
+                  }}
+                >
+                  Rendez-vous
+                </button>
+              </li>
             </ul>
           </nav>
         )}

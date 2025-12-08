@@ -1,13 +1,13 @@
 .team {
   padding: 2rem;
   text-align: center;
-  background-color: #f0f4f8;
+  background-color: #ecebe5;
 }
 
 .team h2 {
   font-size: 2rem;
   margin-bottom: 2rem;
-  color: #1f8a93;
+  color: #418C6B;
 }
 
 .team-list {
@@ -40,4 +40,31 @@
 .team-role {
   font-size: 0.9rem;
   color: #555;
+}
+
+.team-more-btn {
+  margin-top: 1rem;
+  background: none;
+  border: none;
+  color: #418C6B;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.team-more-btn:hover {
+  text-decoration: underline;
+}
+
+
+.team-highlights {
+  margin-top: 1rem;
+  padding-left: 1.2rem;
+  text-align: left;
+  font-size: 0.9rem;
+  color: #444;
+}
+
+.team-highlights li {
+  margin-bottom: 0.5rem;
+  line-height: 1.4;
 }

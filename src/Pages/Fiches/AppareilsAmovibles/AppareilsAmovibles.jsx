@@ -1,5 +1,6 @@
 import React from "react";
 import Seo from "../../../components/Seo/Seo";
+import RdvButton from "../../../components/RdvButton/RdvButton";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -12,10 +13,6 @@ import {
 } from "lucide-react";
 
 const AppareilsAmovibles = () => {
-  const handleRedirect = () => {
-    window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank");
-  };
-
   return (
     <div className="pc-container">
       <Seo
@@ -111,9 +108,7 @@ const AppareilsAmovibles = () => {
       </section>
 
       <div className="pc-cta">
-        <button className="pc-button" onClick={handleRedirect}>
-          Prendre rendez-vous
-        </button>
+        <RdvButton />
       </div>
 
     </div>

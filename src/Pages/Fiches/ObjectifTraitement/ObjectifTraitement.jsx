@@ -1,5 +1,6 @@
 import React from "react";
 import Seo from "../../../components/Seo/Seo";
+import RdvButton from "../../../components/RdvButton/RdvButton";
 import "../../Fiches/Fiches.css";
 import {
   Info,
@@ -77,9 +78,7 @@ const ObjectifTraitement = () => {
       </section>
 
       <div className="pc-cta">
-        <button className="pc-button" onClick={handleRedirect}>
-          Prendre rendez-vous
-        </button>
+        <RdvButton />
       </div>
 
     </div>

@@ -4,7 +4,7 @@
   line-height: 1.6;
   color: #333;
   font-family: Arial, sans-serif;
-  background-color: #f0f4f8;
+  background-color: #FFFEFA;
 }
 
 /* Titre principal */
@@ -12,7 +12,7 @@
   text-align: center;
   font-size: 2.2rem;
   margin-bottom: 30px;
-  color: #1f8a93;
+  color: #418C6B;
   font-weight: bold;
 }
 
@@ -25,7 +25,7 @@
 .legal-section h2 {
   font-size: 1.4rem;
   margin-bottom: 12px;
-  color: #1f8a93;
+  color: #418C6B;
 }
 
 /* Paragraphe */

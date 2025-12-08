@@ -1,14 +1,14 @@
 .conseils-page {
   margin: auto;
   padding: 60px 40px;
-  background-color: #f0f4f8;
+  background-color: #ecebe5;
 }
 
 .conseils-title {
   font-size: 2.2rem;
   margin-bottom: 40px;
   text-align: center;
-  color: #1f8a93;
+  color: #418C6B;
 }
 
 .conseils-container {
@@ -46,7 +46,7 @@
 .fiche-content h2 {
   font-size: 1.2rem;
   margin-bottom: 10px;
-  color: #1f8a93;
+  color: #418C6B;
 }
 
 .fiche-content p {

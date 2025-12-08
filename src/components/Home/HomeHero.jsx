@@ -1,27 +1,19 @@
 import React from "react";
+import RdvButton from "../../components/RdvButton/RdvButton";
 import "./HomeHero.css";
 
 function HomeHero() {
-  const handleRedirect = () => {
-  window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank");
-};
-
   return (
     <section className="home-hero">
       <div className="home-hero-background"></div>
 
       <div className="home-hero-overlay">
-        <h1 className="home-hero-title">L’élégance d’un sourire harmonieux</h1>
+        <h1 className="home-hero-title">L'orée du sourire</h1>
         <p className="home-hero-subtitle">
-          Soins orthodontiques personnalisés dans un environnement moderne et accueillant.
+          "Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, adaptés à chaque étape de la vie."
         </p>
 
-        <button
-          className="home-hero-button"
-          onClick={handleRedirect}
-        >
-          Prendre rendez-vous
-        </button>
+        <RdvButton />
       </div>
     </section>
   );

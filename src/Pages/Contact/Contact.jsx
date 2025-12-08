@@ -1,5 +1,6 @@
 import React from "react";
 import Seo from "../../components/Seo/Seo";
+import RdvButton from "../../components/RdvButton/RdvButton";
 import "./Contact.css";
 
 function Contact() {
@@ -49,6 +50,9 @@ function Contact() {
           ></iframe>
         </div>
 
+      <div className="pc-cta">
+        <RdvButton />
+      </div>
 
       </div>
     </section>

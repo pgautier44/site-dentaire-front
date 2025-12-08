@@ -1,5 +1,5 @@
 .urgences-page {
-  background-color: #f5f5f5;
+  background-color: #ecebe5;
   padding: 20px;
   line-height: 1.6;
   font-family: Arial, sans-serif;
@@ -10,14 +10,14 @@
 /* Titres */
 .urgences-title {
   font-size: 2rem;
-  color: #1f8a93;
+  color: #418C6B;
   margin-bottom: 25px;
   text-align: center;
 }
 
 /* Sections avec fond blanc et card-style */
 .urgences-section {
-  background-color: #fff;
+  background-color: #f9f9f9;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 25px;
@@ -42,6 +42,6 @@
 }
 
 .highlight-blue {
-  color: #1f8a93;
+  color: #418C6B;
 }
 
