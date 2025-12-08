@@ -11,7 +11,7 @@ function Header() {
       {/* Barre grise en haut */}
       <div className="top-bar">
         <p className="contact-info">
-           Docteure LUCAS Capucine | Orthodontiste - 4, boulevard du Trieux - 35740 PACE {/*- XX XX XX XX */}
+           Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE {/*- XX XX XX XX */}
         </p>
         <Link to="/urgences" className="urgent-link">Urgences</Link>
       </div>
