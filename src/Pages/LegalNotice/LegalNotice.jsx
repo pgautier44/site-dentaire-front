@@ -16,9 +16,9 @@ const LegalNotice = () => {
         <p>
           Le présent site est édité par le <strong>Cabinet d’orthodontie du Dr Capucine LUCAS</strong>,
           situé :
-          <strong> 4 Boulevard du Trieux – 35740 Pacé</strong>
+          <strong> 4, boulevard du Trieux – 35740 Pacé</strong>
           <br />
-          Téléphone : XX XX XX XX XX
+          Téléphone : {/* XX XX XX XX XX */}
           <br />
           Responsable de la publication : Dr Capucine LUCAS, chirurgien-dentiste spécialisée en orthodontie.
         </p>
@@ -90,7 +90,7 @@ const LegalNotice = () => {
           Conformément au RGPD, vous disposez d’un droit d’accès, de rectification, d’opposition et de
           suppression de vos données.
           <br />
-          Pour toute demande : <strong>[Adresse email du cabinet]</strong>.
+          Pour toute demande : Drlucas@orthodontiepace.com.
         </p>
       </section>
 

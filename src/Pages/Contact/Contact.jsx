@@ -19,22 +19,23 @@ function Contact() {
 
           <p>
             <strong>Adresse :</strong><br />
-            4 Boulevard du Trieux<br />
+            4, boulevard du Trieux<br />
             35740 Pacé
           </p>
 
           <p>
             <strong>Téléphone :</strong><br />
-            XX XX XX XX XX
+            {/* XX XX XX XX XX */}
           </p>
 
           <p>
             <strong>Email :</strong><br />
-            contact@cabinet-orthodontie.fr
+            Drlucas@orthodontiepace.com
           </p>
 
           <h3>Horaires</h3>
-          <p>Lundi – Vendredi : 09h – 13h30 / 14h30 – 18h</p>
+          <p>Lundi – Mardi : 09h – 13h30 / 14h30 – 18h</p>
+          <p>Mercredi – Vendredi : 09h – 13h30 / 14h30 – 18h30</p>
         </div>
 
         {/* --- GOOGLE MAP --- */}

@@ -79,7 +79,7 @@ function Conseils() {
         title="Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Retrouvez les fiches conseils du Cabinet d'Orthodontie Dr Capucine Lucas : soins à domicile, hygiène bucco-dentaire, recommandations pour appareils orthodontiques, pour enfants et adultes."
       />
-      <h1 className="conseils-title">Fiches Conseil</h1>
+      <h1 className="conseils-title">Fiches conseils</h1>
       <div className="conseils-container">
         {fiches.map((fiche) => (
           <Link key={fiche.id} to={fiche.link || "#"} className="fiche-card">

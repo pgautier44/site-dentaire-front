@@ -16,9 +16,9 @@ function Footer() {
               <ul>
                 <li>lundi 09h – 13h30 / 14h30 – 18h</li>
                 <li>mardi 09h – 13h30 / 14h30 – 18h</li>
-                <li>mercredi 09h – 13h30 / 14h30 – 18h</li>
+                <li>mercredi 09h – 13h30 / 14h30 – 18h30</li>
                 <li>jeudi Fermé</li>
-                <li>vendredi 09h – 13h30 / 14h30 – 18h</li>
+                <li>vendredi 09h – 13h30 / 14h30 – 18h30</li>
               </ul>
             </div>
 
@@ -34,15 +34,15 @@ function Footer() {
         {/* Coordonnées */}
         <div className="footer-column">
           <h2>Coordonnées</h2>
-          <p>Cabinet d'orthodontie du Dr LUCAS Capucine</p>
-          <p>Adresse. 4 Boulevard du Trieux - 35740 PACE</p>
-          <p>Tél. XX XX XX XX XX</p>
+          <p>Cabinet d'orthodontie du Dr Capucine LUCAS</p>
+          <p>Adresse. 4, boulevard du Trieux - 35740 PACE</p>
+          {/* <p>Tél. XX XX XX XX XX</p> */}
         </div>
       </div>
 
       <div className="footer-bottom">
         <p>
-          © {new Date().getFullYear()} Docteur LUCAS Capucine – Orthodontiste &nbsp;|&nbsp; 
+          © {new Date().getFullYear()} Docteur Capucine LUCAS – Orthodontiste &nbsp;|&nbsp; 
           <Link to="/legal-notice">Mentions légales</Link>
         </p>
       </div>
