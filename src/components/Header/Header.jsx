@@ -61,7 +61,8 @@ function Header() {
 
       <div className="info-banner">
         Site et cabinet en construction, nous serons heureux de vous accueillir à partir du <strong>2 février 2026 !</strong> 
-        <br>Vous pouvez d'ores et déjà prendre rendez vous</br>
+        <br></br>
+        Vous pouvez d'ores et déjà prendre rendez vous
       </div>
 
 
