@@ -36,7 +36,7 @@ function Header() {
           <ul>
             <li><Link to="/">Accueil</Link></li>
             <li><Link to="/conseils">Fiches conseils</Link></li>
-            <li><Link to="/team">Équipe</Link></li>
+            <li><Link to="/team">Equipe & cabinet</Link></li>
             <li><Link to="/contact">Contact</Link></li>
           </ul>
         </nav>
@@ -50,7 +50,7 @@ function Header() {
             <ul>
               <li><Link to="/" onClick={() => setMenuOpen(false)}>Accueil</Link></li>
               <li><Link to="/conseils" onClick={() => setMenuOpen(false)}>Fiches Conseil</Link></li>
-              <li><Link to="/team" onClick={() => setMenuOpen(false)}>Équipe</Link></li>
+              <li><Link to="/team" onClick={() => setMenuOpen(false)}>Equipe & cabinet</Link></li>
               <li><Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
               <li><Link to="/urgences" onClick={() => setMenuOpen(false)}>Urgences</Link></li>
               <li><a onClick={() => {setMenuOpen(false);window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank");}}>Rendez-vous</a></li>

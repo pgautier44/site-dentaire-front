@@ -1,22 +1,80 @@
 .welcome {
-  padding: 2rem 2rem;
-  background-color: #f9f5f0;
-  text-align: center;
+  width: 100%;
+  padding: 4rem 0;
+  background-color: #ecebe5;
+  display: flex;
+  justify-content: center;
+}
+
+.full-width {
+  width: 100%;
 }
 
 .welcome-content {
-  max-width: 800px;
-  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 1400px;
+  width: 100%;
+  padding: 0 3rem;
+  gap: 3rem;
+}
+
+/* --- TEXTE --- */
+
+.welcome-text {
+  flex: 1;
+  text-align: left;
 }
 
 .welcome h2 {
-  font-size: 2rem;
-  margin-bottom: 1rem;
-  color: #418C6B;
+  font-size: 2.0rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  color: #2c5544; /* vert sérieux, médical */
 }
 
 .welcome p {
-  font-size: 1.1rem;
-  line-height: 1.6;
+  font-size: 1.15rem;
+  line-height: 1.8;
   color: #333;
+  white-space: pre-line;
+}
+
+/* --- IMAGE --- */
+
+.welcome-image {
+  flex: 1;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.welcome-image img {
+  width: 100%;
+  max-width: 550px;
+  border-radius: 12px;
+  object-fit: cover;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
+}
+
+/* --- RESPONSIVE --- */
+
+@media (max-width: 1000px) {
+  .welcome-content {
+    flex-direction: column;
+    text-align: center;
+    padding: 0 1.5rem;
+  }
+
+  .welcome-text {
+    text-align: center;
+  }
+
+  .welcome-image {
+    justify-content: center;
+  }
+
+  .welcome-image img {
+    max-width: 400px;
+  }
 }

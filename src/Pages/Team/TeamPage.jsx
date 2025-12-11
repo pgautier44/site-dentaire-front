@@ -1,6 +1,7 @@
 import React from "react";
 import Seo from "../../components/Seo/Seo";
 import Team from "../../components/Team/Team";
+import Galerie from "../../components/Galerie/Galerie";
 import "../../components/Team/Team.css";
 
 function TeamPage() {
@@ -11,6 +12,7 @@ function TeamPage() {
         description="Découvrez l'équipe du Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : Docteure Capucine Lucas et ses collaborateurs, spécialistes en orthodontie pour enfants et adultes."
       />
       <Team />
+      <Galerie />
     </div>
   );
 }

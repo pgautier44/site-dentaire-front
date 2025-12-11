@@ -26,12 +26,19 @@ function Team() {
 
           {showMore && (
             <ul className="team-highlights">
-              <li>Spécialiste qualifiée en orthopédie dento-faciale</li>
-              <li>Ancienne chef de clinique au CHU de Rennes</li>
-              <li>Orthodontie de l’enfant, de l’adolescent et de l’adulte</li>
-              <li>Traitements complexes avec chirurgie orthognathique</li>
-              <li>Formation des internes en orthodontie</li>
-              <li>Approche attentive et accompagnement des familles</li>
+              <li>Ancienne chef de clinique des hôpitaux de Renne</li>
+              <li>Internat d’ orthopédie dento-faciale de Montpellier</li>
+              <br></br>
+              <li>Formation aux aligneurs Spark</li>
+              <li>Formation au lingual 2D®</li>
+              <li>Formation aux aligneurs Spark®</li>
+              <li>Formation Tweed course – Tucson USA</li>
+              <li>Certification Liberty Lingual®</li>
+              <li>DU d’Hypnose</li>
+              <br></br>
+              <li>Victoire au grand prix de l’Orthodontie</li>
+              <li>Participation au collège Européen d’Orthodontie,</li>
+              <li>Membre du club « Toujours tout droit »</li>
             </ul>
           )}
 
