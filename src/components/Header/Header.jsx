@@ -52,21 +52,18 @@ function Header() {
               <li><Link to="/conseils" onClick={() => setMenuOpen(false)}>Fiches Conseil</Link></li>
               <li><Link to="/team" onClick={() => setMenuOpen(false)}>Équipe</Link></li>
               <li><Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
-              <li>
-                <button
-                  className="mobile-rdv"
-                  onClick={() => {
-                    setMenuOpen(false);
-                    handleRedirect();
-                  }}
-                >
-                  Rendez-vous
-                </button>
-              </li>
+              <li><Link to="/urgences" onClick={() => setMenuOpen(false)}>Urgences</Link></li>
+              <li><a onClick={() => {setMenuOpen(false);window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank");}}>Rendez-vous</a></li>
             </ul>
           </nav>
         )}
       </div>
+
+      <div className="info-banner">
+        Site et cabinet en construction, nous serons heureux de vous accueillir à partir du <strong>2 février 2026 !</strong>  !
+      </div>
+
+
     </header>
   );
 }
