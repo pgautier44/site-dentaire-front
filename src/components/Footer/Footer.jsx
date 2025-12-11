@@ -42,7 +42,7 @@ function Footer() {
 
       <div className="footer-bottom">
         <p>
-          © {new Date().getFullYear()} Docteur Capucine LUCAS – Orthodontiste &nbsp;|&nbsp; 
+          © {new Date().getFullYear()} Docteure Capucine LUCAS – Orthodontiste &nbsp;|&nbsp; 
           <Link to="/legal-notice">Mentions légales</Link>
         </p>
       </div>
