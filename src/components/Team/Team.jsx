@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./Team.css";
-import CapucinePhoto from "../../assets/Capucine.png";
+import CapucinePhoto from "../../assets/Capucine_Travail.jpg";
 import PlaceholderPhoto from "../../assets/placeholder.jpg";
 
 function Team() {

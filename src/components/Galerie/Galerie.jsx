@@ -7,8 +7,10 @@ import img3 from "../../assets/Galerie/Salle_Attente.jpg";
 import img4 from "../../assets/Galerie/Salle_De_Soins.jpg";
 import img5 from "../../assets/Galerie/Salle_Radio.jpg";
 import img6 from "../../assets/Galerie/Sterilisation.jpg";
+import img7 from "../../assets/Capucine_Travail.jpg";
+import img8 from "../../assets/Cabinet_Accueil.jpg";
 
-const images = [img1, img2, img3, img4, img5, img6];
+const images = [img1, img2, img3, img4, img5, img6, img7, img8];
 
 function Galerie() {
   return (
