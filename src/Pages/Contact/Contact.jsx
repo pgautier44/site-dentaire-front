@@ -1,6 +1,7 @@
 import React from "react";
 import Seo from "../../components/Seo/Seo";
 import RdvButton from "../../components/RdvButton/RdvButton";
+import ContactButton from "../../components/ContactButton/ContactButton";
 import "./Contact.css";
 
 function Contact() {
@@ -10,6 +11,29 @@ function Contact() {
         title="Contact – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Contactez le Cabinet d'Orthodontie Dr Capucine Lucas à Pacé pour prendre rendez-vous, poser vos questions ou obtenir des informations sur les traitements orthodontiques pour enfants et adultes."
       />
+
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: `
+      {
+        "@context": "https://schema.org",
+        "@type": "Dentist",
+        "name": "Dr Capucine Lucas",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "4, boulevard du Trieux",
+          "addressLocality": "Pacé",
+          "postalCode": "35740",
+          "addressCountry": "FR"
+        },
+        "telephone": "02 XX XX XX XX",
+        "email": "Drlucas@orthodontiepace.com",
+        "url": "https://dr-capucine-lucas.vercel.app"
+      }
+        ` }}
+      />
+
+
       <h1 className="contact-title">Contact & Accès</h1>
 
       <div className="contact-container">
@@ -52,6 +76,7 @@ function Contact() {
 
       <div className="pc-cta">
         <RdvButton />
+        <ContactButton />
       </div>
 
       </div>

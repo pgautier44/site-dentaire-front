@@ -26,7 +26,7 @@ function Team() {
 
           {showMore && (
             <ul className="team-highlights">
-              <li>Ancienne chef de clinique des hôpitaux de Renne</li>
+              <li>Ancienne chef de clinique des hôpitaux de Rennes</li>
               <li>Internat d’ orthopédie dento-faciale de Montpellier</li>
               <br></br>
               <li>Formation aux aligneurs Spark</li>

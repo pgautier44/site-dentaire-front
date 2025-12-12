@@ -1,6 +1,7 @@
 import React from "react";
 import "./Welcome.css";
-import accueilImg from "../../assets/Cabinet_accueil.jpg";
+import accueilImg from "../../assets/Capucine_Travail.jpg";
+import ContactButton from "../../components/ContactButton/ContactButton";
 
 function Welcome() {
   return (
@@ -9,12 +10,12 @@ function Welcome() {
         <div className="welcome-text">
           <h2>Bienvenue sur le site du Docteur LUCAS</h2>
           <p>
-            Toute l’équipe du cabinet d’orthodontie de Pacé est à votre disposition pour vous accompagner et vous conseiller.<br /><br />
-            Spécialiste qualifiée en orthopédie dento-faciale, ancienne chef de clinique au CHU de Rennes, le Dr Lucas prend en charge l’orthodontie de l’enfant, de l’adolescent et de l’adulte. Elle réalise également les traitements complexes nécessitant une chirurgie orthognathique et participe activement à la formation des internes en orthodontie.<br /><br />
-            Notre approche se veut attentive, pédagogique et centrée sur l’accompagnement des familles. Lors de votre première visite, nous recueillerons les informations nécessaires pour établir un diagnostic précis et vous proposer un plan de traitement adapté.
+            Toute l’équipe du cabinet d’orthodontie du Dr Capucine Lucas, spécialiste qualifiée en Orthopédie Dento-Faciale, est à votre écoute pour vous accompagner avec bienveillance tout au long de votre parcours de soins.
+            Nous prenons en charge aussi bien les enfants que les adolescents et les adultes, en proposant une large gamme d’appareils amovibles, fixes (technique vestibulaire classique ou linguale) ainsi que des gouttières invisibles adaptées à chaque profil.
+            Lors de votre première visite, nous recueillerons les informations nécessaires à un diagnostic précis afin d’élaborer un plan de traitement personnalisé, qui tiendra compte de vos attentes et de la spécificité de votre cas.
+            Au cabinet, nous accordons une grande importance à la relation patient-parent-praticien, garantissant un suivi attentif et une prise en charge respectueuse, pour un sourire harmonieux et fonctionnel à chaque étape de la vie.
           </p>
-          <a
-            className="urgent-link" onClick={() => window.open("/contact", "_self")}role="button">Nous contacter</a>
+          <ContactButton />
         </div>
         <div className="welcome-image">
           <img src={accueilImg} alt="Accueil du cabinet" />
