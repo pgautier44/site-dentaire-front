@@ -18,7 +18,28 @@ const AppareilsFixes = () => {
       <Seo
         title="Appareils fixes – Cabinet Dr Capucine Lucas"
         description="Tout savoir sur les appareils fixes au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : pose, adaptation, entretien, suivi et conseils pratiques pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Appareils fixes – Cabinet Dr Capucine Lucas",
+          "description": "Tout savoir sur les appareils fixes : pose, adaptation, entretien et suivi pour enfants et adultes.",
+          "url": "https://dr-capucine-lucas.vercel.app/appareils-fixes",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Appareils fixes (multi-attaches / bagues)</h1>
         <p>

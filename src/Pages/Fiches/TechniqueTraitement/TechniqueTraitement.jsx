@@ -17,7 +17,28 @@ const TechniqueTraitement = () => {
       <Seo
         title="Techniques de traitement orthodontique – Cabinet Dr Capucine Lucas"
         description="Découvrez les différentes techniques de traitement orthodontique utilisées au Cabinet Dr Capucine Lucas à Pacé : appareils fixes, amovibles, multi-attaches, et conseils pratiques pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Techniques de traitement orthodontique – Cabinet Dr Capucine Lucas",
+          "description": "Détails sur les techniques de traitement orthodontique : appareils fixes, amovibles, multi-attaches, gouttières invisibles et suivi personnalisé.",
+          "url": "https://dr-capucine-lucas.vercel.app/technique-traitement",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Techniques de traitement orthodontique</h1>
         <p>

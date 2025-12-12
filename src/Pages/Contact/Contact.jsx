@@ -10,29 +10,27 @@ function Contact() {
       <Seo
         title="Contact – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Contactez le Cabinet d'Orthodontie Dr Capucine Lucas à Pacé pour prendre rendez-vous, poser vos questions ou obtenir des informations sur les traitements orthodontiques pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "ContactPage",
+          "name": "Contact – Cabinet d'Orthodontie Dr Capucine Lucas",
+          "description": "Contactez le cabinet d'orthodontie pour toute question, rendez-vous ou information.",
+          "url": "https://dr-capucine-lucas.vercel.app/contact",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "email": "Drlucas@orthodontiepace.com",
+            "telephone": "02 XX XX XX XX"
+          }
+        }}
       />
-
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: `
-      {
-        "@context": "https://schema.org",
-        "@type": "Dentist",
-        "name": "Dr Capucine Lucas",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "4, boulevard du Trieux",
-          "addressLocality": "Pacé",
-          "postalCode": "35740",
-          "addressCountry": "FR"
-        },
-        "telephone": "02 XX XX XX XX",
-        "email": "Drlucas@orthodontiepace.com",
-        "url": "https://dr-capucine-lucas.vercel.app"
-      }
-        ` }}
-      />
-
 
       <h1 className="contact-title">Contact & Accès</h1>
 

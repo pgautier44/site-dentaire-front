@@ -78,6 +78,23 @@ function Conseils() {
       <Seo
         title="Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Retrouvez les fiches conseils du Cabinet d'Orthodontie Dr Capucine Lucas : soins à domicile, hygiène bucco-dentaire, recommandations pour appareils orthodontiques, pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          "name": "Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas",
+          "description": "Fiches conseils orthodontiques : hygiène, appareils, urgences, informations pratiques.",
+          "url": "https://dr-capucine-lucas.vercel.app/conseils",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740"
+            }
+          }
+        }}
       />
       <h1 className="conseils-title">Fiches conseils</h1>
       <div className="conseils-container">

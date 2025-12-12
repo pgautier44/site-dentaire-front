@@ -15,9 +15,29 @@ HelpCircle
 const AppareilsMultiAttaches = () => {
 return ( <div className="pc-container">
    <Seo
-        title="Appareils multi‑attaches – Cabinet Dr Capucine Lucas"
-        description="Tout savoir sur les appareils multi‑attaches (bagues) au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : pose, adaptation, entretien, durée du traitement et conseils pratiques pour enfants et adultes."
-      />
+  title="Appareils multi‑attaches – Cabinet Dr Capucine Lucas"
+  description="Tout savoir sur les appareils multi‑attaches (bagues) au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : pose, adaptation, entretien, durée du traitement et conseils pratiques pour enfants et adultes."
+  jsonLd={{
+    "@context": "https://schema.org",
+    "@type": "MedicalWebPage",
+    "name": "Appareils multi‑attaches – Cabinet Dr Capucine Lucas",
+    "description": "Guide complet sur les appareils multi‑attaches : pose, adaptation, entretien et suivi pour enfants et adultes.",
+    "url": "https://dr-capucine-lucas.vercel.app/appareils-multi-attaches",
+    "publisher": {
+      "@type": "Dentist",
+      "name": "Dr Capucine Lucas",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "4 Boulevard du Trieux",
+        "addressLocality": "Pacé",
+        "postalCode": "35740",
+        "addressCountry": "FR"
+      },
+      "telephone": "02 XX XX XX XX",
+      "email": "Drlucas@orthodontiepace.com"
+    }
+  }}
+/>
 
 ```
   <header className="pc-hero">

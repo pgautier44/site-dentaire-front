@@ -9,7 +9,31 @@ function Urgences() {
       <Seo 
         title="Urgence orthodontique – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Toutes les informations sur les urgences orthodontiques au cabinet de Dr Capucine Lucas à Pacé : service de garde, conseils en cas de choc ou dent expulsée, et contacts utiles." 
-      />
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Urgence orthodontique – Cabinet Dr Capucine Lucas",
+          "description": "Guide des urgences orthodontiques : appareils cassés, fils irritants, dents déplacées ou expulsées.",
+          "url": "https://dr-capucine-lucas.vercel.app/urgences",
+          "mainEntity": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740"
+            },
+            "medicalSpecialty": "Orthodontics",
+            "availableService": [
+              {
+                "@type": "MedicalProcedure",
+                "name": "Gestion des urgences orthodontiques",
+                "description": "Interventions pour bagues décollées, fils irritants, dents déplacées ou expulsées."
+              }
+            ]
+          }
+        }}/>
       <h1 className="urgences-title">Urgence orthodontique</h1>
 
       {/* Service de garde */}

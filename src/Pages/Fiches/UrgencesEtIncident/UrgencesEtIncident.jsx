@@ -17,7 +17,28 @@ const UrgencesEtIncident = () => {
       <Seo
         title="Urgences et incidents orthodontiques – Cabinet Dr Capucine Lucas"
         description="Guide pour gérer les urgences et incidents liés aux traitements orthodontiques au Cabinet Dr Capucine Lucas à Pacé : appareils cassés, fils irritants, douleurs et conseils pratiques pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Urgences et incidents orthodontiques – Cabinet Dr Capucine Lucas",
+          "description": "Informations pratiques sur les incidents et urgences orthodontiques : appareils cassés, fils irritants, douleurs et conseils pour enfants et adultes.",
+          "url": "https://dr-capucine-lucas.vercel.app/urgence-et-incident",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Incidents & urgences orthodontiques</h1>
         <p>

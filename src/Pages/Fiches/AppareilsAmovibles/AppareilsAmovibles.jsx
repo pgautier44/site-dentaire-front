@@ -18,6 +18,26 @@ const AppareilsAmovibles = () => {
       <Seo
         title="Appareils amovibles – Cabinet Dr Capucine Lucas"
         description="Informations complètes sur les appareils amovibles au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : types d’appareils, utilisation, entretien et conseils pratiques pour enfants et adultes."
+        jsonLd={{
+        "@context": "https://schema.org",
+        "@type": "MedicalWebPage",
+        "name": "Appareils amovibles – Cabinet Dr Capucine Lucas",
+        "description": "Tout savoir sur les appareils amovibles : types, utilisation, entretien et conseils pratiques pour enfants et adultes.",
+        "url": "https://dr-capucine-lucas.vercel.app/appareils-amovibles",
+        "publisher": {
+          "@type": "Dentist",
+          "name": "Dr Capucine Lucas",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "4 Boulevard du Trieux",
+            "addressLocality": "Pacé",
+            "postalCode": "35740",
+            "addressCountry": "FR"
+          },
+          "telephone": "02 XX XX XX XX",
+          "email": "Drlucas@orthodontiepace.com"
+        }
+      }}
       />
       <header className="pc-hero">
         <h1>Appareils amovibles</h1>

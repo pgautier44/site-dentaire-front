@@ -22,7 +22,28 @@ const ObjectifTraitement = () => {
       <Seo
         title="Objectifs du traitement orthodontique – Cabinet Dr Capucine Lucas"
         description="Découvrez les objectifs des traitements orthodontiques au Cabinet Dr Capucine Lucas à Pacé : alignement des dents, correction des malocclusions, amélioration de la fonction masticatoire et esthétique."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Objectifs du traitement orthodontique – Cabinet Dr Capucine Lucas",
+          "description": "Guide complet sur les objectifs des traitements orthodontiques : alignement, correction des malocclusions, hygiène, confort et esthétique.",
+          "url": "https://dr-capucine-lucas.vercel.app/objectif-traitement",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Pourquoi un traitement orthodontique ?</h1>
         <p>

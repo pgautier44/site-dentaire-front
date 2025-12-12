@@ -8,7 +8,33 @@ function UrgencesOrthodontie() {
       <Seo
         title="Urgence orthodontique spécifique – Cabinet Dr Capucine Lucas"
         description="Conseils et procédures pour gérer les urgences orthodontiques : appareils cassés, fils irritants, douleurs. Informations pratiques pour contacter le cabinet Dr Capucine Lucas à Pacé."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Urgences Orthodontiques – Cabinet Dr Capucine Lucas",
+          "description": "Guide pratique pour gérer les urgences orthodontiques : appareils cassés, fils irritants, douleurs, et conseils pour contacter le cabinet rapidement.",
+          "url": "https://dr-capucine-lucas.vercel.app/urgences-orthodontie",
+          "mainEntity": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740"
+            },
+            "medicalSpecialty": "Orthodontics",
+            "availableService": [
+              {
+                "@type": "MedicalProcedure",
+                "name": "Gestion des urgences orthodontiques",
+                "description": "Interventions pour bagues cassées, fils irritants, dents déplacées ou autres incidents orthodontiques."
+              }
+            ]
+          }
+        }}
       />
+
       {/* En-tête / Hero */}
       <section className="hero">
         <div className="hero-background"></div>

@@ -17,7 +17,28 @@ const OrthodontiePresentation = () => {
       <Seo
         title="Présentation de l'orthodontie – Cabinet Dr Capucine Lucas"
         description="Découvrez l’orthodontie au Cabinet Dr Capucine Lucas à Pacé : objectifs, types de traitements pour enfants et adultes, et conseils pour un suivi optimal."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Présentation de l'orthodontie – Cabinet Dr Capucine Lucas",
+          "description": "Informations complètes sur l’orthodontie : objectifs, techniques, déroulement du traitement et recommandations pour patients.",
+          "url": "https://dr-capucine-lucas.vercel.app/orthodontie-presentation",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Qu’est-ce que l’orthodontie ?</h1>
         <p>

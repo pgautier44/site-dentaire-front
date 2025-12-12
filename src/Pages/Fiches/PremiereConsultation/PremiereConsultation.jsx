@@ -18,7 +18,28 @@ const PremiereConsultation = () => {
       <Seo
         title="Première consultation – Cabinet d'Orthodontie Dr Capucine Lucas"
         description="Tout ce qu’il faut savoir pour préparer la première consultation au Cabinet d'Orthodontie Dr Capucine Lucas à Pacé : déroulement, examens, conseils et informations pratiques pour enfants et adultes."
+        jsonLd={{
+          "@context": "https://schema.org",
+          "@type": "MedicalWebPage",
+          "name": "Première consultation – Cabinet d'Orthodontie Dr Capucine Lucas",
+          "description": "Informations sur la première consultation orthodontique : déroulement, examens, conseils et recommandations pour patients enfants et adultes.",
+          "url": "https://dr-capucine-lucas.vercel.app/premiere-consultation",
+          "publisher": {
+            "@type": "Dentist",
+            "name": "Dr Capucine Lucas",
+            "address": {
+              "@type": "PostalAddress",
+              "streetAddress": "4 Boulevard du Trieux",
+              "addressLocality": "Pacé",
+              "postalCode": "35740",
+              "addressCountry": "FR"
+            },
+            "telephone": "02 XX XX XX XX",
+            "email": "Drlucas@orthodontiepace.com"
+          }
+        }}
       />
+
       <header className="pc-hero">
         <h1>Première consultation & bilan orthodontique</h1>
         <p>Un premier rendez-vous pour évaluer, diagnostiquer et vous accompagner — en toute transparence.</p>
