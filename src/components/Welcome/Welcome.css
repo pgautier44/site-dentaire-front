@@ -52,10 +52,10 @@
 .welcome-image img {
   width: 100%;
   max-width: 550px;
-  max-height: 550px;
+  /* max-height: 550px; */
   border-radius: 12px;
   object-fit: cover;
-  object-position: top;
+  /* object-position: top; */
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.08);
 }
 

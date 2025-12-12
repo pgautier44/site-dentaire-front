@@ -1,6 +1,6 @@
 import React from "react";
 import "./Welcome.css";
-import accueilImg from "../../assets/Capucine.png";
+import accueilImg from "../../assets/Cabinet_Accueil.jpg";
 import ContactButton from "../../components/ContactButton/ContactButton";
 
 function Welcome() {
