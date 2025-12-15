@@ -83,9 +83,7 @@ function Contact() {
           />
           <Button
             label="Nous contacter"
-            onClick={() =>
-              window.open("https://www.dentistes-chateaugiron.fr/contact/", "_blank")
-            }
+            onClick={() => window.location.href = "/contact"}
             size="large"
             variant="primary"
           />

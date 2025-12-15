@@ -751,7 +751,7 @@ function Welcome() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                             label: "Nous contacter",
-                            onClick: ()=>window.open("https://www.dentistes-chateaugiron.fr/contact/", "_blank"),
+                            onClick: ()=>window.location.href = "/contact",
                             size: "large",
                             variant: "primary"
                         }, void 0, false, {
@@ -772,12 +772,12 @@ function Welcome() {
                         alt: "Accueil du cabinet"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                        lineNumber: 44,
+                        lineNumber: 42,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                    lineNumber: 43,
+                    lineNumber: 41,
                     columnNumber: 9
                 }, this)
             ]
