@@ -1,0 +1,44 @@
+/* [project]/styles/LegalNotice.module.css [client] (css) */
+.LegalNotice-module__edVLGa__legalContainer {
+  color: #333;
+  background-color: #fffefa;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.LegalNotice-module__edVLGa__legalTitle {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 30px;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+.LegalNotice-module__edVLGa__legalSection {
+  margin-bottom: 35px;
+}
+
+.LegalNotice-module__edVLGa__legalSectionTitle {
+  color: #418c6b;
+  margin-bottom: 12px;
+  font-size: 1.4rem;
+}
+
+.LegalNotice-module__edVLGa__legalSectionText {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.LegalNotice-module__edVLGa__legalSectionList {
+  margin-left: 20px;
+  list-style: outside;
+}
+
+.LegalNotice-module__edVLGa__legalSectionListItem {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+/*# sourceMappingURL=styles_LegalNotice_module_14a94235.css.map*/

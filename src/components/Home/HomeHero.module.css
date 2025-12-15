@@ -1,0 +1,53 @@
+/* HomeHero.module.css */
+.homeHero {
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.homeHeroBackground {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('/images/Accueil.jpg');
+  background-size: cover;
+  background-position: center;
+  filter: brightness(0.65);
+}
+
+.homeHeroOverlay {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  color: white;
+  padding: 0 20px;
+}
+
+.homeHeroTitle {
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+.homeHeroSubtitle {
+  font-size: 1rem;
+  margin-bottom: 20px;
+}
+
+.homeHeroButton {
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  background-color: #418C6B;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.homeHeroButton:hover {
+  background-color: #13a867;
+}

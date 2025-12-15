@@ -1,0 +1,72 @@
+/* [project]/src/components/Team/Team.module.css [client] (css) */
+.Team-module__iqO7OW__team {
+  text-align: center;
+  background-color: #ecebe5;
+  padding: 2rem;
+}
+
+.Team-module__iqO7OW__team h2 {
+  color: #418c6b;
+  margin-bottom: 2rem;
+  font-size: 2rem;
+}
+
+.Team-module__iqO7OW__teamList {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 5rem;
+  display: flex;
+}
+
+.Team-module__iqO7OW__teamMember {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  width: 220px;
+  padding: 1rem;
+  box-shadow: 0 2px 10px #0000001a;
+}
+
+.Team-module__iqO7OW__teamPhoto {
+  object-fit: cover;
+  border-radius: 10px;
+  width: 100%;
+  height: 260px;
+}
+
+.Team-module__iqO7OW__teamMember h3 {
+  margin-top: 1rem;
+  font-size: 1.2rem;
+}
+
+.Team-module__iqO7OW__teamRole {
+  color: #555;
+  font-size: .9rem;
+}
+
+.Team-module__iqO7OW__teamMoreBtn {
+  color: #418c6b;
+  cursor: pointer;
+  background: none;
+  border: none;
+  margin-top: 1rem;
+  font-weight: 600;
+}
+
+.Team-module__iqO7OW__teamMoreBtn:hover {
+  text-decoration: underline;
+}
+
+.Team-module__iqO7OW__teamHighlights {
+  text-align: left;
+  color: #444;
+  margin-top: 1rem;
+  padding-left: 1.2rem;
+  font-size: .9rem;
+}
+
+.Team-module__iqO7OW__teamHighlights li {
+  margin-bottom: .5rem;
+  line-height: 1.4;
+}
+
+/*# sourceMappingURL=src_components_Team_Team_module_css_65f1660e._.single.css.map*/

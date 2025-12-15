@@ -1,0 +1,23 @@
+/* [project]/src/components/RdvButton/RdvButton.module.css [client] (css) */
+.RdvButton-module__UFc-_q__urgentLink {
+  color: #418c6b;
+  cursor: pointer;
+  background-color: #f0f4f8;
+  border: 1px solid #418c6b;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  padding: 6px 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color .2s, color .2s, transform .2s;
+  display: inline-flex;
+}
+
+.RdvButton-module__UFc-_q__urgentLink:hover {
+  color: #418c6b;
+  background-color: #e0ebf0;
+  transform: translateY(-1px);
+}
+
+/*# sourceMappingURL=src_components_RdvButton_RdvButton_module_css_65f1660e._.single.css.map*/

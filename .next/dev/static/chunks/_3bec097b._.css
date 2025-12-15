@@ -1,0 +1,365 @@
+/* [project]/styles/Globals.css [client] (css) */
+html, body, #root, .App {
+  box-sizing: border-box;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body, html, #root, .App {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+/* [project]/src/components/RdvButton/RdvButton.module.css [client] (css) */
+.RdvButton-module__UFc-_q__urgentLink {
+  color: #418c6b;
+  cursor: pointer;
+  background-color: #f0f4f8;
+  border: 1px solid #418c6b;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  padding: 6px 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color .2s, color .2s, transform .2s;
+  display: inline-flex;
+}
+
+.RdvButton-module__UFc-_q__urgentLink:hover {
+  color: #418c6b;
+  background-color: #e0ebf0;
+  transform: translateY(-1px);
+}
+
+/* [project]/src/components/Header/Header.module.css [client] (css) */
+.Header-module__ldgnoG__header {
+  z-index: 999;
+  background-color: #fffefa;
+  flex-direction: column;
+  width: 100%;
+  display: flex;
+  position: sticky;
+  top: 0;
+}
+
+.Header-module__ldgnoG__top-bar {
+  color: #333;
+  text-align: left;
+  box-sizing: border-box;
+  background-color: #ccbc98;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: .3rem 2rem;
+  font-size: .7rem;
+  display: flex;
+}
+
+@media (max-width: 768px) {
+  .Header-module__ldgnoG__top-bar {
+    display: none;
+  }
+}
+
+.Header-module__ldgnoG__top-buttons {
+  align-items: center;
+  gap: .5rem;
+  display: flex;
+}
+
+.Header-module__ldgnoG__main-header {
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  display: flex;
+}
+
+.Header-module__ldgnoG__main-header nav ul {
+  gap: 1.5rem;
+  list-style: none;
+  display: flex;
+}
+
+.Header-module__ldgnoG__main-header nav li a {
+  letter-spacing: .3px;
+  color: #444;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Helvetica Neue, sans-serif;
+  font-size: .95rem;
+  font-weight: 400;
+  text-decoration: none;
+  transition: color .2s, transform .2s;
+}
+
+.Header-module__ldgnoG__main-header nav li a:hover {
+  color: #418c6b;
+  transform: translateY(-1px);
+}
+
+.Header-module__ldgnoG__contact-info {
+  margin: 0;
+}
+
+.Header-module__ldgnoG__top-bar .Header-module__ldgnoG__contact-info {
+  margin-left: 30px;
+}
+
+.Header-module__ldgnoG__urgent-link {
+  color: #418c6b;
+  cursor: pointer;
+  background-color: #f0f4f8;
+  border: 1px solid #418c6b;
+  border-radius: 6px;
+  justify-content: center;
+  align-items: center;
+  padding: 6px 14px;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color .2s, color .2s, transform .2s;
+  display: inline-flex;
+}
+
+.Header-module__ldgnoG__urgent-link:hover {
+  color: #418c6b;
+  background-color: #e0ebf0;
+  transform: translateY(-1px);
+}
+
+.Header-module__ldgnoG__branding {
+  color: inherit;
+  align-items: center;
+  gap: 12px;
+  text-decoration: none;
+  display: flex;
+}
+
+.Header-module__ldgnoG__branding:hover {
+  color: inherit;
+  text-decoration: none;
+}
+
+.Header-module__ldgnoG__main-header .Header-module__ldgnoG__branding {
+  align-items: center;
+  margin-left: 10px;
+  display: flex;
+}
+
+.Header-module__ldgnoG__tooth-icon {
+  width: 80px;
+  height: auto;
+}
+
+.Header-module__ldgnoG__brand-text {
+  flex-direction: column;
+  line-height: 1.1;
+  display: flex;
+}
+
+.Header-module__ldgnoG__brand-title {
+  color: #418c6b;
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.Header-module__ldgnoG__brand-subtitle {
+  color: #418c6b;
+  margin: 0;
+  font-size: .9rem;
+}
+
+.Header-module__ldgnoG__burger {
+  cursor: pointer;
+  -webkit-user-select: none;
+  user-select: none;
+  font-size: 1.8rem;
+  display: none;
+}
+
+.Header-module__ldgnoG__mobile-menu {
+  z-index: 1000;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  width: 200px;
+  padding: 10px;
+  position: absolute;
+  top: 100%;
+  right: 0;
+}
+
+.Header-module__ldgnoG__mobile-menu ul {
+  flex-direction: column;
+  gap: 10px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+}
+
+.Header-module__ldgnoG__mobile-menu li a {
+  color: #444;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.Header-module__ldgnoG__mobile-menu li a:hover {
+  color: #418c6b;
+}
+
+@media (max-width: 768px) {
+  .Header-module__ldgnoG__desktop-menu {
+    display: none;
+  }
+
+  .Header-module__ldgnoG__burger {
+    display: block;
+  }
+
+  .Header-module__ldgnoG__main-header {
+    position: relative;
+  }
+}
+
+.Header-module__ldgnoG__info-banner {
+  color: #f8f6f6;
+  text-align: center;
+  background-color: #418c6b;
+  border-top: 1px solid #e6d5b8;
+  border-bottom: 1px solid #e6d5b8;
+  width: 100%;
+  padding: .6rem 1rem;
+  font-size: .9rem;
+  font-weight: 500;
+}
+
+@media (max-width: 768px) {
+  .Header-module__ldgnoG__info-banner {
+    padding: .5rem;
+    font-size: .8rem;
+  }
+}
+
+/* [project]/src/components/Footer/Footer.module.css [client] (css) */
+.Footer-module__Grjkva__footer {
+  color: #666;
+  background-color: #f6f1ed;
+  padding: 25px 0 0;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: .95rem;
+}
+
+.Footer-module__Grjkva__footer-container {
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 80px;
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+}
+
+.Footer-module__Grjkva__footer-column {
+  flex: 1;
+  max-width: 400px;
+}
+
+.Footer-module__Grjkva__footer-column p, .Footer-module__Grjkva__footer-column ul li {
+  font-size: .8rem;
+}
+
+.Footer-module__Grjkva__footer-column h2 {
+  color: #333;
+  border-bottom: 1px solid #d7ccc7;
+  margin-bottom: 6px;
+  padding-bottom: 3px;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.Footer-module__Grjkva__footer-column h5 {
+  color: #666;
+  margin: 4px 0 10px;
+  padding-left: 15px;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: .95rem;
+  font-weight: 600;
+  position: relative;
+}
+
+.Footer-module__Grjkva__footer-column ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.Footer-module__Grjkva__footer-column ul li {
+  margin-bottom: 4px;
+  line-height: 1.2rem;
+}
+
+.Footer-module__Grjkva__horaires-section h5:before {
+  content: "•";
+  color: #666;
+  margin-right: 6px;
+  font-size: 1.1rem;
+  display: inline-block;
+  position: static;
+}
+
+.Footer-module__Grjkva__horaires-section {
+  margin-bottom: 12px;
+}
+
+.Footer-module__Grjkva__footer-bottom {
+  color: #fff;
+  text-align: center;
+  background-color: #418c6b;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 0;
+  font-size: .8rem;
+}
+
+.Footer-module__Grjkva__footer-bottom a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.Footer-module__Grjkva__footer-bottom a:hover {
+  color: #ffdcdc;
+}
+
+@media (max-width: 768px) {
+  .Footer-module__Grjkva__footer-container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 15px;
+  }
+
+  .Footer-module__Grjkva__footer-column {
+    max-width: 100%;
+  }
+
+  .Footer-module__Grjkva__footer-column h2, .Footer-module__Grjkva__footer-column p, .Footer-module__Grjkva__footer-column ul li {
+    text-align: center;
+  }
+
+  .Footer-module__Grjkva__horaires-section h5 {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .Footer-module__Grjkva__horaires-section h5:before {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .Footer-module__Grjkva__footer-bottom {
+    padding: 15px 10px;
+    font-size: .75rem;
+  }
+}
+
+/*# sourceMappingURL=_3bec097b._.css.map*/

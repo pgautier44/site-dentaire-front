@@ -1,0 +1,63 @@
+/* [project]/styles/Fiches.module.css [client] (css) */
+.Fiches-module__-h9Dra__pcContainer {
+  box-sizing: border-box;
+  background-color: #ecebe5;
+  margin: auto;
+  padding: 60px 40px;
+}
+
+.Fiches-module__-h9Dra__pcHero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.Fiches-module__-h9Dra__pcHero h1 {
+  color: #418c6b;
+  margin-bottom: 15px;
+  font-size: 2.2rem;
+}
+
+.Fiches-module__-h9Dra__pcHero p {
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.Fiches-module__-h9Dra__pcSection {
+  background: #fff;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  padding: 25px 30px;
+  transition: transform .2s, box-shadow .2s;
+  box-shadow: 0 4px 20px #0000001a;
+}
+
+.Fiches-module__-h9Dra__pcSection:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 25px #00000026;
+}
+
+.Fiches-module__-h9Dra__pcSection h2 {
+  color: #418c6b;
+  align-items: center;
+  gap: 10px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+  display: flex;
+}
+
+.Fiches-module__-h9Dra__pcList {
+  padding-left: 18px;
+}
+
+.Fiches-module__-h9Dra__pcList li {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.Fiches-module__-h9Dra__pcCta {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/*# sourceMappingURL=styles_Fiches_module_a42544de.css.map*/

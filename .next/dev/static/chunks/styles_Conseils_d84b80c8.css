@@ -1,0 +1,59 @@
+/* [project]/styles/Conseils.css [client] (css) */
+.conseils-page {
+  background-color: #ecebe5;
+  margin: auto;
+  padding: 60px 40px;
+}
+
+.conseils-title {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 40px;
+  font-size: 2.2rem;
+}
+
+.conseils-container {
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 30px;
+  display: grid;
+}
+
+.fiche-card {
+  color: inherit;
+  border-radius: 10px;
+  flex-direction: column;
+  text-decoration: none;
+  transition: transform .2s, box-shadow .2s;
+  display: flex;
+  overflow: hidden;
+  box-shadow: 0 4px 20px #0000001a;
+}
+
+.fiche-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 25px #00000026;
+}
+
+.fiche-card img {
+  object-fit: cover;
+  width: 100%;
+  height: 180px;
+}
+
+.fiche-content {
+  padding: 15px;
+}
+
+.fiche-content h2 {
+  color: #418c6b;
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+}
+
+.fiche-content p {
+  color: #333;
+  font-size: .95rem;
+  line-height: 1.4;
+}
+
+/*# sourceMappingURL=styles_Conseils_d84b80c8.css.map*/

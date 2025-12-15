@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 10, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/Philippe%20Gautier/Projet/Dentaire/Front/pages/_app.jsx"],"sourcesContent":["import '../styles/globals.css';\r\nimport Header from '../components/Header/Header';\r\nimport Footer from '../components/Footer/Footer';\r\nimport ScrollToTop from '../components/Scroll/ScrollToTop';\r\n\r\nfunction MyApp({ Component, pageProps }) {\r\n  return (\r\n    <>\r\n      <ScrollToTop />\r\n      <Header />\r\n      <main className=\"main-content\">\r\n        <Component {...pageProps} />\r\n      </main>\r\n      <Footer />\r\n    </>\r\n  );\r\n}\r\n\r\nexport default MyApp;\r\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;AAKA,SAAS,MAAM,EAAE,SAAS,EAAE,SAAS,EAAE;IACrC,qBACE;;0BACE,qKAAC;;;;;0BACD,qKAAC;;;;;0BACD,qKAAC;gBAAK,WAAU;0BACd,cAAA,qKAAC;oBAAW,GAAG,SAAS;;;;;;;;;;;0BAE1B,qKAAC;;;;;;;AAGP;uCAEe"}}]
+}

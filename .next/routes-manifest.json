@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "pages404": true,
+  "caseSensitive": false,
+  "basePath": "",
+  "redirects": [
+    {
+      "source": "/:path+/",
+      "destination": "/:path+",
+      "internal": true,
+      "priority": true,
+      "statusCode": 308,
+      "regex": "^(?:/((?:[^/]+?)(?:/(?:[^/]+?))*))/$"
+    }
+  ],
+  "headers": [],
+  "rewrites": {
+    "beforeFiles": [],
+    "afterFiles": [],
+    "fallback": []
+  },
+  "dynamicRoutes": [],
+  "staticRoutes": [
+    {
+      "page": "/",
+      "regex": "^/(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/(?:/)?$"
+    },
+    {
+      "page": "/appareils-amovibles",
+      "regex": "^/appareils\\-amovibles(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/appareils\\-amovibles(?:/)?$"
+    },
+    {
+      "page": "/appareils-fixes",
+      "regex": "^/appareils\\-fixes(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/appareils\\-fixes(?:/)?$"
+    },
+    {
+      "page": "/bagues",
+      "regex": "^/bagues(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/bagues(?:/)?$"
+    },
+    {
+      "page": "/conseils",
+      "regex": "^/conseils(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/conseils(?:/)?$"
+    },
+    {
+      "page": "/contact",
+      "regex": "^/contact(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/contact(?:/)?$"
+    },
+    {
+      "page": "/legal-notice",
+      "regex": "^/legal\\-notice(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/legal\\-notice(?:/)?$"
+    },
+    {
+      "page": "/objectif-traitement",
+      "regex": "^/objectif\\-traitement(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/objectif\\-traitement(?:/)?$"
+    },
+    {
+      "page": "/orthodontie-presentation",
+      "regex": "^/orthodontie\\-presentation(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/orthodontie\\-presentation(?:/)?$"
+    },
+    {
+      "page": "/premiere-consultation",
+      "regex": "^/premiere\\-consultation(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/premiere\\-consultation(?:/)?$"
+    },
+    {
+      "page": "/team",
+      "regex": "^/team(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/team(?:/)?$"
+    },
+    {
+      "page": "/technique-traitement",
+      "regex": "^/technique\\-traitement(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/technique\\-traitement(?:/)?$"
+    },
+    {
+      "page": "/urgences",
+      "regex": "^/urgences(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/urgences(?:/)?$"
+    },
+    {
+      "page": "/urgences-et-incident",
+      "regex": "^/urgences\\-et\\-incident(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/urgences\\-et\\-incident(?:/)?$"
+    },
+    {
+      "page": "/urgences-orthodontie",
+      "regex": "^/urgences\\-orthodontie(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/urgences\\-orthodontie(?:/)?$"
+    }
+  ],
+  "dataRoutes": [],
+  "rsc": {
+    "header": "rsc",
+    "varyHeader": "rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch",
+    "prefetchHeader": "next-router-prefetch",
+    "didPostponeHeader": "x-nextjs-postponed",
+    "contentTypeHeader": "text/x-component",
+    "suffix": ".rsc",
+    "prefetchSuffix": ".prefetch.rsc",
+    "prefetchSegmentHeader": "next-router-segment-prefetch",
+    "prefetchSegmentSuffix": ".segment.rsc",
+    "prefetchSegmentDirSuffix": ".segments",
+    "clientParamParsing": false,
+    "dynamicRSCPrerender": false
+  },
+  "rewriteHeaders": {
+    "pathHeader": "x-nextjs-rewritten-path",
+    "queryHeader": "x-nextjs-rewritten-query"
+  }
+}

@@ -1,70 +1,100 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
-import logoIcon from "../../assets/Logo.png";
-import RdvButton from "../../components/RdvButton/RdvButton";
-
-import "./Header.css";
+import Link from "next/link";
+import Button from "../Button/Button";
+import styles from "./Header.module.css";
 
 function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
 
   return (
-    <header className="header">
+    <header className={styles.header}>
 
-      <div className="top-bar">
-        <p className="contact-info">
+      <div className={styles["top-bar"]}>
+        <p className={styles["contact-info"]}>
           Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE
         </p>
 
-        <div className="top-buttons">
-          <Link to="/urgences" className="urgent-link">Urgences</Link>
-
-          <RdvButton />
+        <div className={styles["top-buttons"]}>
+          <Button
+            label="Urgences"
+            size="small"
+            variant="primary"
+            onClick={() => window.location.href = "/urgences"}
+          />
+          <Button
+            label="Rendez-vous"
+            size="small"
+            variant="primary"
+            onClick={() =>
+              window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank")
+            }
+          />
         </div>
       </div>
 
-      <div className="main-header">
-        <Link to="/" className="branding">
-          <img src={logoIcon} alt="Icône dent" className="tooth-icon" />
-          <div className="brand-text">
-            <h1 className="brand-title">LUCAS Capucine</h1>
-            <p className="brand-subtitle">Cabinet d'Orthodontie</p>
+      <div className={styles["main-header"]}>
+        <Link href="/" className={styles.branding}>
+          <img
+            src="/images/Logo.png"
+            alt="Icône dent"
+            className={styles["tooth-icon"]}
+          />
+          <div className={styles["brand-text"]}>
+            <h1 className={styles["brand-title"]}>LUCAS Capucine</h1>
+            <p className={styles["brand-subtitle"]}>Cabinet d'Orthodontie</p>
           </div>
         </Link>
 
-        <nav className="desktop-menu">
+        <nav className={styles["desktop-menu"]}>
           <ul>
-            <li><Link to="/">Accueil</Link></li>
-            <li><Link to="/conseils">Fiches conseils</Link></li>
-            <li><Link to="/team">Equipe & cabinet</Link></li>
-            <li><Link to="/contact">Contact</Link></li>
+            <li><Link href="/">Accueil</Link></li>
+            <li><Link href="/conseils">Fiches conseils</Link></li>
+            <li><Link href="/team">Equipe & cabinet</Link></li>
+            <li><Link href="/contact">Contact</Link></li>
           </ul>
         </nav>
 
-        <div className="burger" onClick={() => setMenuOpen(!menuOpen)}>
+        <div
+          className={styles.burger}
+          onClick={() => setMenuOpen(!menuOpen)}
+        >
           ☰
         </div>
 
         {menuOpen && (
-          <nav className="mobile-menu">
+          <nav className={styles["mobile-menu"]}>
             <ul>
-              <li><Link to="/" onClick={() => setMenuOpen(false)}>Accueil</Link></li>
-              <li><Link to="/conseils" onClick={() => setMenuOpen(false)}>Fiches Conseil</Link></li>
-              <li><Link to="/team" onClick={() => setMenuOpen(false)}>Equipe & cabinet</Link></li>
-              <li><Link to="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
-              <li><Link to="/urgences" onClick={() => setMenuOpen(false)}>Urgences</Link></li>
-              <li><a onClick={() => {setMenuOpen(false);window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank");}}>Rendez-vous</a></li>
+              <li><Link href="/" onClick={() => setMenuOpen(false)}>Accueil</Link></li>
+              <li><Link href="/conseils" onClick={() => setMenuOpen(false)}>Fiches conseil</Link></li>
+              <li><Link href="/team" onClick={() => setMenuOpen(false)}>Equipe & cabinet</Link></li>
+              <li><Link href="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
+              <li><Link href="/urgences" onClick={() => setMenuOpen(false)}>Urgences</Link></li>
+              <li>
+                <Button
+                  label="Rendez-vous"
+                  size="small"
+                  variant="primary"
+                  onClick={() => {
+                    setMenuOpen(false);
+                    window.open(
+                      "https://app.my-orthoadvance.com/#/cabinets/lucas",
+                      "_blank"
+                    );
+                  }}
+                />
+
+              </li>
             </ul>
           </nav>
         )}
       </div>
 
-      <div className="info-banner">
-        Site et cabinet en construction, nous serons heureux de vous accueillir à partir du <strong>2 février 2026 !</strong> 
-        <br></br>
-        Vous pouvez d'ores et déjà prendre rendez vous
+      <div className={styles["info-banner"]}>
+        Site et cabinet en construction, nous serons heureux de vous accueillir à partir du{" "}
+        <strong>2 février 2026 !</strong>
+        <br />
+        Vous pouvez d&apos;ores et déjà prendre rendez-vous
       </div>
-
 
     </header>
   );

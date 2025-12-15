@@ -1,0 +1,131 @@
+/* [project]/src/components/Home/HomeHero.css [client] (css) */
+.home-hero {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  position: relative;
+}
+
+.home-hero-background {
+  filter: brightness(.65);
+  background-image: url("../media/Accueil.d01bf9af.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.home-hero-overlay {
+  z-index: 2;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+  position: relative;
+}
+
+.home-hero-title {
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+}
+
+.home-hero-subtitle {
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.home-hero-button {
+  color: #fff;
+  cursor: pointer;
+  background-color: #418c6b;
+  border: none;
+  border-radius: 5px;
+  padding: .7rem 1.5rem;
+  font-size: 1rem;
+}
+
+.home-hero-button:hover {
+  background-color: #13a867;
+}
+
+/* [project]/src/components/Welcome/Welcome.css [client] (css) */
+.welcome {
+  background-color: #ecebe5;
+  justify-content: center;
+  width: 100%;
+  padding: 4rem 0;
+  display: flex;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.welcome-content {
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  width: 100%;
+  max-width: 1400px;
+  padding: 0 3rem;
+  display: flex;
+}
+
+.welcome-text {
+  text-align: left;
+  flex: 1;
+}
+
+.welcome h2 {
+  color: #2c5544;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.welcome p {
+  color: #333;
+  white-space: pre-line;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.welcome-image {
+  flex: 1;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.welcome-image img {
+  object-fit: cover;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 550px;
+  box-shadow: 0 6px 18px #00000014;
+}
+
+@media (max-width: 1000px) {
+  .welcome-content {
+    text-align: center;
+    flex-direction: column;
+    padding: 0 1.5rem;
+  }
+
+  .welcome-text {
+    text-align: center;
+  }
+
+  .welcome-image {
+    justify-content: center;
+  }
+
+  .welcome-image img {
+    max-width: 400px;
+  }
+}
+
+/*# sourceMappingURL=src_components_d41d9ad1._.css.map*/

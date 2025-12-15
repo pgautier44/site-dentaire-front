@@ -1,0 +1,44 @@
+/* [project]/styles/LegalNotice.css [client] (css) */
+.legal-container {
+  color: #333;
+  background-color: #fffefa;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.legal-title {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 30px;
+  font-size: 2.2rem;
+  font-weight: bold;
+}
+
+.legal-section {
+  margin-bottom: 35px;
+}
+
+.legal-section h2 {
+  color: #418c6b;
+  margin-bottom: 12px;
+  font-size: 1.4rem;
+}
+
+.legal-section p {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.legal-section ul {
+  margin-left: 20px;
+  list-style: outside;
+}
+
+.legal-section li {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+/*# sourceMappingURL=styles_LegalNotice_b13d4a09.css.map*/

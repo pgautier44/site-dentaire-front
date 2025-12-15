@@ -1,0 +1,55 @@
+/* [project]/src/components/Home/HomeHero.module.css [client] (css) */
+.HomeHero-module__y_kp4a__homeHero {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  position: relative;
+}
+
+.HomeHero-module__y_kp4a__homeHeroBackground {
+  filter: brightness(.65);
+  background-image: url("/images/Accueil.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.HomeHero-module__y_kp4a__homeHeroOverlay {
+  z-index: 2;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+  position: relative;
+}
+
+.HomeHero-module__y_kp4a__homeHeroTitle {
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroSubtitle {
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroButton {
+  color: #fff;
+  cursor: pointer;
+  background-color: #418c6b;
+  border: none;
+  border-radius: 5px;
+  padding: .7rem 1.5rem;
+  font-size: 1rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroButton:hover {
+  background-color: #13a867;
+}
+
+/*# sourceMappingURL=src_components_Home_HomeHero_module_css_65f1660e._.single.css.map*/

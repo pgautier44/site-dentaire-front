@@ -1,19 +1,26 @@
 import React from "react";
-import RdvButton from "../../components/RdvButton/RdvButton";
-import "./HomeHero.css";
+import Button from "../Button/Button";
+import styles from "./HomeHero.module.css";
 
 function HomeHero() {
   return (
-    <section className="home-hero">
-      <div className="home-hero-background"></div>
+    <section className={styles.homeHero}>
+      <div className={styles.homeHeroBackground}></div>
 
-      <div className="home-hero-overlay">
-        <h1 className="home-hero-title">L'orée du sourire</h1>
-        <p className="home-hero-subtitle">
+      <div className={styles.homeHeroOverlay}>
+        <h1 className={styles.homeHeroTitle}>L'orée du sourire</h1>
+        <p className={styles.homeHeroSubtitle}>
           "Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, adaptés à chaque étape de la vie."
         </p>
 
-        <RdvButton />
+        <Button
+            label="Rendez-vous"
+            size="large"
+            variant="primary"
+            onClick={() =>
+              window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank")
+            }
+          />
       </div>
     </section>
   );

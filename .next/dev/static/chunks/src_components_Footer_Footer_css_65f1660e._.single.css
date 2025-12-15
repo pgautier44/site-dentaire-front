@@ -1,0 +1,122 @@
+/* [project]/src/components/Footer/Footer.css [client] (css) */
+.footer {
+  color: #666;
+  background-color: #f6f1ed;
+  padding: 25px 0 0;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: .95rem;
+}
+
+.footer-container {
+  flex-wrap: nowrap;
+  justify-content: center;
+  gap: 80px;
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+}
+
+.footer-column {
+  flex: 1;
+  max-width: 400px;
+}
+
+.footer-column p, .footer-column ul li {
+  font-size: .8rem;
+}
+
+.footer-column h2 {
+  color: #333;
+  border-bottom: 1px solid #d7ccc7;
+  margin-bottom: 6px;
+  padding-bottom: 3px;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.footer-column h5 {
+  color: #666;
+  margin: 4px 0 10px;
+  padding-left: 15px;
+  font-family: Raleway, Helvetica, Arial, Lucida, sans-serif;
+  font-size: .95rem;
+  font-weight: 600;
+  position: relative;
+}
+
+.footer-column ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.footer-column ul li {
+  margin-bottom: 4px;
+  line-height: 1.2rem;
+}
+
+.horaires-section h5:before {
+  content: "•";
+  color: #666;
+  margin-right: 6px;
+  font-size: 1.1rem;
+  display: inline-block;
+  position: static;
+}
+
+.horaires-section {
+  margin-bottom: 12px;
+}
+
+.footer-bottom {
+  color: #fff;
+  text-align: center;
+  background-color: #418c6b;
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px 0;
+  font-size: .8rem;
+}
+
+.footer-bottom a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.footer-bottom a:hover {
+  color: #ffdcdc;
+}
+
+@media (max-width: 768px) {
+  .footer-container {
+    flex-direction: column;
+    gap: 20px;
+    padding: 0 15px;
+  }
+
+  .footer-column {
+    max-width: 100%;
+  }
+
+  .footer-column h2, .footer-column p, .footer-column ul li {
+    text-align: center;
+  }
+
+  .horaires-section h5 {
+    text-align: center;
+    padding-left: 0;
+  }
+
+  .horaires-section h5:before {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .footer-bottom {
+    padding: 15px 10px;
+    font-size: .75rem;
+  }
+}
+
+/*# sourceMappingURL=src_components_Footer_Footer_css_65f1660e._.single.css.map*/

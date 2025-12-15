@@ -1,0 +1,76 @@
+/* [project]/src/components/Welcome/Welcome.module.css [client] (css) */
+.Welcome-module__NuiZiG__welcome {
+  background-color: #ecebe5;
+  justify-content: center;
+  width: 100%;
+  padding: 4rem 0;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__fullWidth {
+  width: 100%;
+}
+
+.Welcome-module__NuiZiG__welcomeContent {
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  width: 100%;
+  max-width: 1400px;
+  padding: 0 3rem;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__welcomeText {
+  text-align: left;
+  flex: 1;
+}
+
+.Welcome-module__NuiZiG__welcomeTitle {
+  color: #2c5544;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.Welcome-module__NuiZiG__welcomeText p {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.Welcome-module__NuiZiG__welcomeImage {
+  flex: 1;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__welcomeImage img {
+  object-fit: cover;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 550px;
+  box-shadow: 0 6px 18px #00000014;
+}
+
+@media (max-width: 1000px) {
+  .Welcome-module__NuiZiG__welcomeContent {
+    text-align: center;
+    flex-direction: column;
+    padding: 0 1.5rem;
+  }
+
+  .Welcome-module__NuiZiG__welcomeText {
+    text-align: center;
+  }
+
+  .Welcome-module__NuiZiG__welcomeImage {
+    justify-content: center;
+  }
+
+  .Welcome-module__NuiZiG__welcomeImage img {
+    max-width: 400px;
+  }
+}
+
+/*# sourceMappingURL=src_components_Welcome_Welcome_module_css_65f1660e._.single.css.map*/

@@ -1,0 +1,45 @@
+/* [project]/styles/Urgences.module.css [client] (css) */
+.Urgences-module__g7KuOW__urgencesPage {
+  color: #333;
+  background-color: #ecebe5;
+  min-height: auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.Urgences-module__g7KuOW__urgencesTitle {
+  color: #418c6b;
+  text-align: center;
+  margin-bottom: 25px;
+  font-size: 2rem;
+}
+
+.Urgences-module__g7KuOW__urgencesSection {
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  margin-bottom: 25px;
+  padding: 20px;
+  box-shadow: 0 2px 6px #0000000d;
+}
+
+.Urgences-module__g7KuOW__urgencesSection p {
+  margin-bottom: 15px;
+  font-size: 1rem;
+}
+
+.Urgences-module__g7KuOW__urgencesLink {
+  color: #c04a3b;
+  text-decoration: none;
+}
+
+.Urgences-module__g7KuOW__urgencesLink:hover {
+  color: #c04a3b;
+  text-decoration: underline;
+}
+
+.Urgences-module__g7KuOW__highlightBlue {
+  color: #418c6b;
+}
+
+/*# sourceMappingURL=styles_Urgences_module_css_65f1660e._.single.css.map*/

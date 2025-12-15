@@ -1,0 +1,194 @@
+/* [project]/src/components/Button/Button.module.css [client] (css) */
+.Button-module__e7WGRa__button {
+  cursor: pointer;
+  border: 1px solid #0000;
+  border-radius: 9999px;
+  justify-content: center;
+  align-items: center;
+  padding: 6px 16px;
+  font-family: inherit;
+  font-size: .9rem;
+  font-weight: 500;
+  text-decoration: none;
+  transition: background-color .2s, transform .2s;
+  display: inline-flex;
+}
+
+.Button-module__e7WGRa__primary {
+  color: #418c6b;
+  background-color: #f0f4f8;
+  border: 1px solid #418c6b;
+}
+
+.Button-module__e7WGRa__primary:hover {
+  background-color: #e0ebf0;
+  transform: translateY(-1px);
+}
+
+.Button-module__e7WGRa__secondary {
+  color: #fff;
+  background-color: #418c6b;
+  border: 1px solid #418c6b;
+}
+
+.Button-module__e7WGRa__secondary:hover {
+  background-color: #13a867;
+  transform: translateY(-1px);
+}
+
+.Button-module__e7WGRa__tertiary {
+  color: #c04a3b;
+  background-color: #f9f9f9;
+  border: 1px solid #c04a3b;
+}
+
+.Button-module__e7WGRa__tertiary:hover {
+  background-color: #f2e5e3;
+  transform: translateY(-1px);
+}
+
+.Button-module__e7WGRa__small {
+  padding: 4px 10px;
+  font-size: .9rem;
+}
+
+.Button-module__e7WGRa__medium {
+  padding: 6px 14px;
+  font-size: 1rem;
+}
+
+.Button-module__e7WGRa__large {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+}
+
+/* [project]/src/components/Home/HomeHero.module.css [client] (css) */
+.HomeHero-module__y_kp4a__homeHero {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  position: relative;
+}
+
+.HomeHero-module__y_kp4a__homeHeroBackground {
+  filter: brightness(.65);
+  background-image: url("/images/Accueil.jpg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.HomeHero-module__y_kp4a__homeHeroOverlay {
+  z-index: 2;
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+  position: relative;
+}
+
+.HomeHero-module__y_kp4a__homeHeroTitle {
+  margin-bottom: 10px;
+  font-size: 2.8rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroSubtitle {
+  margin-bottom: 20px;
+  font-size: 1rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroButton {
+  color: #fff;
+  cursor: pointer;
+  background-color: #418c6b;
+  border: none;
+  border-radius: 5px;
+  padding: .7rem 1.5rem;
+  font-size: 1rem;
+}
+
+.HomeHero-module__y_kp4a__homeHeroButton:hover {
+  background-color: #13a867;
+}
+
+/* [project]/src/components/Welcome/Welcome.module.css [client] (css) */
+.Welcome-module__NuiZiG__welcome {
+  background-color: #ecebe5;
+  justify-content: center;
+  width: 100%;
+  padding: 4rem 0;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__fullWidth {
+  width: 100%;
+}
+
+.Welcome-module__NuiZiG__welcomeContent {
+  justify-content: space-between;
+  align-items: center;
+  gap: 3rem;
+  width: 100%;
+  max-width: 1400px;
+  padding: 0 3rem;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__welcomeText {
+  text-align: left;
+  flex: 1;
+}
+
+.Welcome-module__NuiZiG__welcomeTitle {
+  color: #2c5544;
+  margin-bottom: 1.5rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.Welcome-module__NuiZiG__welcomeText p {
+  color: #333;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+
+.Welcome-module__NuiZiG__welcomeImage {
+  flex: 1;
+  justify-content: flex-end;
+  display: flex;
+}
+
+.Welcome-module__NuiZiG__welcomeImage img {
+  object-fit: cover;
+  border-radius: 12px;
+  width: 100%;
+  max-width: 550px;
+  box-shadow: 0 6px 18px #00000014;
+}
+
+@media (max-width: 1000px) {
+  .Welcome-module__NuiZiG__welcomeContent {
+    text-align: center;
+    flex-direction: column;
+    padding: 0 1.5rem;
+  }
+
+  .Welcome-module__NuiZiG__welcomeText {
+    text-align: center;
+  }
+
+  .Welcome-module__NuiZiG__welcomeImage {
+    justify-content: center;
+  }
+
+  .Welcome-module__NuiZiG__welcomeImage img {
+    max-width: 400px;
+  }
+}
+
+/*# sourceMappingURL=src_components_e40ea74c._.css.map*/

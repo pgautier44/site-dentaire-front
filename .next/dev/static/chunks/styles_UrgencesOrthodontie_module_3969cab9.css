@@ -1,0 +1,102 @@
+/* [project]/styles/UrgencesOrthodontie.module.css [client] (css) */
+.UrgencesOrthodontie-module__RDx4HG__page {
+  color: #333;
+  line-height: 1.6;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__hero {
+  justify-content: center;
+  align-items: center;
+  height: 60vh;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__heroBackground {
+  filter: brightness(.7);
+  background-image: url("/images/UrgencesOrthodontie_Cabinet.jpeg");
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  inset: 0;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__heroOverlay {
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+  position: relative;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__heroIcon {
+  margin-bottom: 15px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__heroTitle {
+  color: #f4f4f4;
+  margin-bottom: 10px;
+  font-size: 3rem;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__heroSubtitle {
+  color: #e0e0e0;
+  font-size: 1.2rem;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__introduction {
+  text-align: center;
+  background-color: #fffefa;
+  padding: 40px 20px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__steps {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__steps h2 {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 30px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__stepList {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__step {
+  text-align: center;
+  background-color: #f0f8fa;
+  border-radius: 10px;
+  max-width: 300px;
+  padding: 20px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__stepNumber {
+  color: #c04a3b;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__additionalInfo {
+  background-color: #fffefa;
+  padding: 40px 20px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__additionalInfo h2 {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 20px;
+}
+
+.UrgencesOrthodontie-module__RDx4HG__additionalInfo ul {
+  max-width: 600px;
+  margin: 0 auto;
+  padding-left: 20px;
+}
+
+/*# sourceMappingURL=styles_UrgencesOrthodontie_module_3969cab9.css.map*/

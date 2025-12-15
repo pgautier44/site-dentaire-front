@@ -1,0 +1,8 @@
+__turbopack_load_page_chunks__("/urgences-orthodontie", [
+  "static/chunks/e1dc41074a675bed.js",
+  "static/chunks/db2bfe74d307fa57.js",
+  "static/chunks/2b01b986979ec36e.js",
+  "static/chunks/ac8832f802798bff.js",
+  "static/chunks/b930efd5bf821115.css",
+  "static/chunks/turbopack-30c4684d8732e14e.js"
+])

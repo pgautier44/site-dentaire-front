@@ -1,0 +1,126 @@
+/* [project]/styles/UrgencesOrthodontie.css [client] (css) */
+html, body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+.urgences-ortho-page {
+  color: #333;
+  line-height: 1.6;
+}
+
+.hero {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 60vh;
+  display: flex;
+  position: relative;
+  overflow: hidden;
+}
+
+.hero-background {
+  filter: brightness(.7);
+  background-image: url("../../assets/UrgencesOrthodontie_Cabinet.jpeg");
+  background-position: center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.hero-overlay {
+  text-align: center;
+  color: #fff;
+  padding: 0 20px;
+  position: relative;
+}
+
+.hero-content .hero-icon {
+  margin-bottom: 15px;
+}
+
+.hero-title {
+  color: #f4f4f4;
+  margin: 0 0 10px;
+  font-size: 3rem;
+}
+
+.hero-subtitle {
+  color: #e0e0e0;
+  font-size: 1.2rem;
+}
+
+.introduction {
+  text-align: center;
+  color: #333;
+  background-color: #fffefa;
+  padding: 40px 20px;
+  font-size: 1.1rem;
+}
+
+.steps {
+  background-color: #f9f9f9;
+  padding: 40px 20px;
+}
+
+.steps h2 {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 30px;
+}
+
+.step-list {
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  display: flex;
+}
+
+.step {
+  text-align: center;
+  background-color: #f0f8fa;
+  border-radius: 10px;
+  flex: 250px;
+  max-width: 300px;
+  padding: 20px;
+}
+
+.step-number {
+  color: #c04a3b;
+  margin-bottom: 10px;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.step h3 {
+  color: #418c6b;
+  margin-bottom: 10px;
+}
+
+.additional-info {
+  background-color: #fffefa;
+  padding: 40px 20px;
+}
+
+.additional-info h2 {
+  text-align: center;
+  color: #418c6b;
+  margin-bottom: 20px;
+}
+
+.additional-info ul {
+  max-width: 600px;
+  margin: 0 auto;
+  padding-left: 20px;
+  list-style: outside;
+}
+
+.additional-info li {
+  margin-bottom: 10px;
+}
+
+/*# sourceMappingURL=styles_UrgencesOrthodontie_ef8706f2.css.map*/

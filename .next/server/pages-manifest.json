@@ -1,0 +1,21 @@
+{
+  "/": "pages/index.html",
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/_error": "pages/_error.js",
+  "/appareils-amovibles": "pages/appareils-amovibles.html",
+  "/appareils-fixes": "pages/appareils-fixes.html",
+  "/bagues": "pages/bagues.html",
+  "/conseils": "pages/conseils.html",
+  "/contact": "pages/contact.html",
+  "/legal-notice": "pages/legal-notice.html",
+  "/objectif-traitement": "pages/objectif-traitement.html",
+  "/orthodontie-presentation": "pages/orthodontie-presentation.html",
+  "/premiere-consultation": "pages/premiere-consultation.html",
+  "/team": "pages/team.html",
+  "/technique-traitement": "pages/technique-traitement.html",
+  "/urgences": "pages/urgences.html",
+  "/urgences-et-incident": "pages/urgences-et-incident.html",
+  "/urgences-orthodontie": "pages/urgences-orthodontie.html",
+  "/404": "pages/404.html"
+}

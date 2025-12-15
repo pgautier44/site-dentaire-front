@@ -1,0 +1,63 @@
+/* [project]/styles/Fiches.css [client] (css) */
+.pc-container {
+  box-sizing: border-box;
+  background-color: #ecebe5;
+  margin: auto;
+  padding: 60px 40px;
+}
+
+.pc-hero {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.pc-hero h1 {
+  color: #418c6b;
+  margin-bottom: 15px;
+  font-size: 2.2rem;
+}
+
+.pc-hero p {
+  color: #333;
+  font-size: 1.1rem;
+}
+
+.pc-section {
+  background: #fff;
+  border-radius: 12px;
+  margin-bottom: 30px;
+  padding: 25px 30px;
+  transition: transform .2s, box-shadow .2s;
+  box-shadow: 0 4px 20px #0000001a;
+}
+
+.pc-section:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 25px #00000026;
+}
+
+.pc-section h2 {
+  color: #418c6b;
+  align-items: center;
+  gap: 10px;
+  margin-top: 0;
+  margin-bottom: 10px;
+  font-size: 1.4rem;
+  display: flex;
+}
+
+.pc-list {
+  padding-left: 18px;
+}
+
+.pc-list li {
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.pc-cta {
+  text-align: center;
+  margin-top: 30px;
+}
+
+/*# sourceMappingURL=styles_Fiches_7f71e290.css.map*/
