@@ -2,12 +2,12 @@ import React from "react";
 import styles from "./Galerie.module.css";
 
 const images = [
-  "/images/galerie/Accueil.jpg",
-  "/images/galerie/Parcours_Patient.png",
-  "/images/galerie/Salle_Attente.jpg",
-  "/images/galerie/Salle_De_Soins.jpg",
-  "/images/galerie/Salle_Radio.jpg",
-  "/images/galerie/Sterilisation.jpg",
+  "/images/Galerie/Accueil.jpg",
+  "/images/Galerie/Parcours_Patient.png",
+  "/images/Galerie/Salle_Attente.jpg",
+  "/images/Galerie/Salle_De_Soins.jpg",
+  "/images/Galerie/Salle_Radio.jpg",
+  "/images/Galerie/Sterilisation.jpg",
   "/images/Capucine_Travail.jpg",
 ];
 
