@@ -47,7 +47,7 @@ function Contact() {
 
           <p>
             <strong>Téléphone :</strong><br />
-            02 XX XX XX XX
+            02 59 16 55 74
           </p>
 
           <p>

@@ -117,6 +117,42 @@
     padding: 15px 10px;
     font-size: .75rem;
   }
+
+  .Footer-module__Grjkva__horairesList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .Footer-module__Grjkva__horairesList li {
+    border-bottom: 1px solid #e0dcd6;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 8px 12px;
+    display: flex;
+  }
+
+  .Footer-module__Grjkva__day {
+    color: #333;
+    width: 80px;
+    font-weight: 600;
+  }
+
+  .Footer-module__Grjkva__hours {
+    color: #666;
+    flex: 1;
+    line-height: 1.4;
+  }
+
+  @media (max-width: 480px) {
+    .Footer-module__Grjkva__horairesList li {
+      padding: 6px 10px;
+    }
+
+    .Footer-module__Grjkva__day {
+      width: 70px;
+    }
+  }
 }
 
 /*# sourceMappingURL=src_components_Footer_Footer_module_css_65f1660e._.single.css.map*/

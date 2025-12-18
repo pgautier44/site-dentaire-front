@@ -129,4 +129,43 @@
     padding: 15px 10px;
     font-size: 0.75rem;
   }
+
+.horairesList {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.horairesList li {
+  display: flex;
+  justify-content: flex-start;
+  padding: 8px 12px;
+  border-bottom: 1px solid #e0dcd6; /* séparation subtile */
+  align-items: center;
+}
+
+.day {
+  width: 80px;          /* largeur fixe pour tous les jours */
+  font-weight: 600;
+  color: #333;
+}
+
+.hours {
+  flex: 1;               /* prend le reste de la ligne */
+  color: #666;
+  line-height: 1.4;
+}
+
+/* Mobile */
+@media (max-width: 480px) {
+  .horairesList li {
+    padding: 6px 10px;
+  }
+  .day {
+    width: 70px;
+  }
+}
+
+
+
 }

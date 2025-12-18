@@ -699,7 +699,7 @@ function Contact() {
                                         lineNumber: 49,
                                         columnNumber: 41
                                     }, this),
-                                    "02 XX XX XX XX"
+                                    "02 59 16 55 74"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/contact.jsx",

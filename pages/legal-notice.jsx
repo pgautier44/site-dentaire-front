@@ -18,7 +18,7 @@ const LegalNotice = () => {
           situé :
           <strong> 4, boulevard du Trieux – 35740 Pacé</strong>
           <br />
-          Téléphone : {/* XX XX XX XX XX */}
+          Téléphone : 02 59 16 55 74
           <br />
           Responsable de la publication : Dr Capucine LUCAS, chirurgien-dentiste spécialisée en orthodontie.
         </p>

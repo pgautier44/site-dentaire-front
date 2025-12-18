@@ -5,6 +5,9 @@ self.__BUILD_MANIFEST = {
   "/contact": [
     "static/chunks/pages/contact.js"
   ],
+  "/team": [
+    "static/chunks/pages/team.js"
+  ],
   "/urgences": [
     "static/chunks/pages/urgences.js"
   ],

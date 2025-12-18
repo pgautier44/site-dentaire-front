@@ -48,8 +48,8 @@ function Header() {
         <nav className={styles["desktop-menu"]}>
           <ul>
             <li><Link href="/">Accueil</Link></li>
-            <li><Link href="/conseils">Fiches conseils</Link></li>
             <li><Link href="/team">Equipe & cabinet</Link></li>
+            <li><Link href="/conseils">Fiches conseils</Link></li>
             <li><Link href="/contact">Contact</Link></li>
           </ul>
         </nav>
@@ -65,8 +65,8 @@ function Header() {
           <nav className={styles["mobile-menu"]}>
             <ul>
               <li><Link href="/" onClick={() => setMenuOpen(false)}>Accueil</Link></li>
-              <li><Link href="/conseils" onClick={() => setMenuOpen(false)}>Fiches conseil</Link></li>
               <li><Link href="/team" onClick={() => setMenuOpen(false)}>Equipe & cabinet</Link></li>
+              <li><Link href="/conseils" onClick={() => setMenuOpen(false)}>Fiches conseil</Link></li>
               <li><Link href="/contact" onClick={() => setMenuOpen(false)}>Contact</Link></li>
               <li><Link href="/urgences" onClick={() => setMenuOpen(false)}>Urgences</Link></li>
               <li>
