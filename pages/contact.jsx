@@ -81,12 +81,6 @@ function Contact() {
             size="large"
             variant="primary"
           />
-          <Button
-            label="Nous contacter"
-            onClick={() => window.location.href = "/contact"}
-            size="large"
-            variant="primary"
-          />
         </div>
 
       </div>

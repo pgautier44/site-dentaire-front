@@ -246,29 +246,17 @@ function Contact() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Contact$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcCta,
-                        children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                label: "Rendez-vous",
-                                onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
-                                size: "large",
-                                variant: "primary"
-                            }, void 0, false, {
-                                fileName: "[project]/pages/contact.jsx",
-                                lineNumber: 76,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                                label: "Nous contacter",
-                                onClick: ()=>window.location.href = "/contact",
-                                size: "large",
-                                variant: "primary"
-                            }, void 0, false, {
-                                fileName: "[project]/pages/contact.jsx",
-                                lineNumber: 84,
-                                columnNumber: 11
-                            }, this)
-                        ]
-                    }, void 0, true, {
+                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
+                            label: "Rendez-vous",
+                            onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
+                            size: "large",
+                            variant: "primary"
+                        }, void 0, false, {
+                            fileName: "[project]/pages/contact.jsx",
+                            lineNumber: 76,
+                            columnNumber: 11
+                        }, this)
+                    }, void 0, false, {
                         fileName: "[project]/pages/contact.jsx",
                         lineNumber: 75,
                         columnNumber: 9
