@@ -100,8 +100,8 @@ function Contact() {
                             postalCode: "35740",
                             addressCountry: "FR"
                         },
-                        email: "Drlucas@orthodontiepace.com",
-                        telephone: "02 XX XX XX XX"
+                        email: "drlucas@orthodontiepace.com",
+                        telephone: "02 59 16 55 74"
                     }
                 }
             }, void 0, false, {
@@ -192,7 +192,7 @@ function Contact() {
                                         lineNumber: 54,
                                         columnNumber: 37
                                     }, this),
-                                    "Drlucas@orthodontiepace.com"
+                                    "drlucas@orthodontiepace.com"
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/contact.jsx",

@@ -33,8 +33,8 @@ const OrthodontiePresentation = () => {
               postalCode: "35740",
               addressCountry: "FR"
             },
-            telephone: "02 XX XX XX XX",
-            email: "Drlucas@orthodontiepace.com"
+            telephone: "02 59 16 55 74",
+            email: "drlucas@orthodontiepace.com"
           }
         }}
       />

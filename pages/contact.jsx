@@ -25,8 +25,8 @@ function Contact() {
               postalCode: "35740",
               addressCountry: "FR"
             },
-            email: "Drlucas@orthodontiepace.com",
-            telephone: "02 XX XX XX XX"
+            email: "drlucas@orthodontiepace.com",
+            telephone: "02 59 16 55 74"
           }
         }}
       />
@@ -52,7 +52,7 @@ function Contact() {
 
           <p>
             <strong>Email :</strong><br />
-            Drlucas@orthodontiepace.com
+            drlucas@orthodontiepace.com
           </p>
 
           <h3>Horaires</h3>
