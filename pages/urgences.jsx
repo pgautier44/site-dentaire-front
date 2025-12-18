@@ -1,93 +1,102 @@
 // pages/urgences.jsx
 import React from "react";
-import Button from "../src/components/Button/Button";
 import Seo from "../src/components/Seo/Seo";
+import Button from "../src/components/Button/Button";
 import styles from "../styles/Urgences.module.css";
 
 export default function Urgences() {
   return (
-    <div className={styles.urgencesPage}>
+    <div className={styles.page}>
       <Seo
-        title="Urgence orthodontique – Cabinet d'Orthodontie Dr Capucine Lucas"
-        description="Toutes les informations sur les urgences orthodontiques au cabinet de Dr Capucine Lucas à Pacé : service de garde, conseils en cas de choc ou dent expulsée, et contacts utiles."
+        title="Urgences dentaires et orthodontiques – Cabinet Dr Capucine Lucas"
+        description="Informations et conseils en cas d’urgence dentaire ou orthodontique : service de garde, chocs, appareils cassés, fils irritants et conduite à tenir au cabinet du Dr Capucine Lucas à Pacé."
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "MedicalWebPage",
-          "name": "Urgence orthodontique – Cabinet Dr Capucine Lucas",
-          "description": "Guide des urgences orthodontiques : appareils cassés, fils irritants, dents déplacées ou expulsées.",
+          "name": "Urgences dentaires et orthodontiques – Cabinet Dr Capucine Lucas",
+          "description": "Guide pratique pour gérer les urgences dentaires et orthodontiques.",
           "url": "https://dr-capucine-lucas.vercel.app/urgences",
           "mainEntity": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",
-            "address": {
-              "@type": "PostalAddress",
-              "streetAddress": "4 Boulevard du Trieux",
-              "addressLocality": "Pacé",
-              "postalCode": "35740"
-            },
-            "medicalSpecialty": "Orthodontics",
-            "availableService": [
-              {
-                "@type": "MedicalProcedure",
-                "name": "Gestion des urgences orthodontiques",
-                "description": "Interventions pour bagues décollées, fils irritants, dents déplacées ou expulsées."
-              }
-            ]
+            "medicalSpecialty": "Orthodontics"
           }
         }}
       />
 
-      <h1 className={styles.urgencesTitle}>Urgence orthodontique</h1>
+      {/* HERO */}
+      <section className={styles.hero}>
+        <div className={styles.heroBackground} />
+        <div className={styles.heroOverlay}>
+          <h1 className={styles.heroTitle}>Urgences dentaires & orthodontiques</h1>
+          <p className={styles.heroSubtitle}>
+            En cas de douleur, de choc ou de problème avec votre appareil, voici comment réagir efficacement.
+          </p>
+        </div>
+      </section>
 
-      {/* Service de garde */}
-      <section className={styles.urgencesSection}>
+      {/* URGENCES ORTHODONTIQUES */}
+      <section className={styles.sectionAlt}>
+        <h2>Urgences orthodontiques</h2>
+        <div className={styles.steps}>
+          <div className={styles.step}>
+            <div className={styles.stepNumber}>1</div>
+            <h3>Identifier le problème</h3>
+            <p>Fil délogé, bague décollée ou appareil douloureux.</p>
+          </div>
+          <div className={styles.step}>
+            <div className={styles.stepNumber}>2</div>
+            <h3>Soulager</h3>
+            <p>Utilisez de la cire orthodontique ou un rinçage doux.</p>
+          </div>
+          <div className={styles.step}>
+            <div className={styles.stepNumber}>3</div>
+            <h3>Nous contacter</h3>
+            <p>Appelez le cabinet afin d’éviter toute aggravation.</p>
+          </div>
+        </div>
+      </section>
+
+      {/* SERVICE DE GARDE */}
+      <section className={styles.card}>
+        <h2>Service de garde</h2>
         <p>
-          <strong className={styles.highlightBlue}>Service de garde :</strong>
-          <br /><br />
-          Les dimanches et jours fériés, un service de garde est assuré par le
-          Conseil de l’Ordre Départemental des Chirurgiens-Dentistes.
+          Les dimanches et jours fériés, un service de garde est assuré par le Conseil de l’Ordre Départemental des
+          Chirurgiens-Dentistes.
           <br />
-          Pour connaître le praticien de garde, vous pouvez consulter votre
-          quotidien régional ou contacter le commissariat ou la gendarmerie de
-          votre ville, qui dispose des coordonnées mises à jour.
+          Pour connaître le praticien de garde, consultez votre quotidien régional ou contactez le commissariat ou la
+          gendarmerie de votre ville.
         </p>
       </section>
 
-      {/* En cas de choc */}
-      <section className={styles.urgencesSection}>
+      {/* CHOC / AVULSION */}
+      <section className={styles.card}>
+        <h2>En cas de choc</h2>
         <p>
-          <strong className={styles.highlightBlue}>En cas de choc :</strong>
-          <br /><br />
-          <u>Dent déplacée :</u> Si une dent a été déplacée lors d’un choc,
-          essayez – avec des mains propres – de la repositionner délicatement dans
-          son logement. Informez ensuite notre cabinet dans les plus brefs délais.
-          <br />
-          En cas d’indisponibilité, contactez le service de garde désigné par le
-          Conseil de l’Ordre ou l’hôpital le plus proche disposant d’un service
-          d’odontologie ou d’ORL.
-          <br /><br />
-          <u>Dent expulsée (avulsion) :</u> Si la dent a été totalement perdue,
-          récupérez-la si possible sans la rincer. Conservez-la :
-          <br />
-          – dans du sérum physiologique,  
-          <br />
-          – ou dans du lait,  
-          <br />
-          – ou dans un linge humide,  
-          <br />
-          – ou encore dans votre propre salive.
-          <br />
-          Prenez contact avec le cabinet en urgence.  
-          En cas d’absence, adressez-vous au service de garde ou à l’hôpital le
-          plus proche équipé d’un service d’odontologie ou ORL.
+          <strong>Dent déplacée :</strong> essayez, avec des mains propres, de repositionner délicatement la dent dans
+          son logement et contactez le cabinet rapidement.
         </p>
+        <p>
+          <strong>Dent expulsée (avulsion) :</strong> récupérez la dent sans la rincer et conservez-la dans du sérum
+          physiologique, du lait, un linge humide ou votre salive. Contactez-nous en urgence ou adressez-vous au
+          service de garde ou à l’hôpital le plus proche.
+        </p>
+      </section>
 
-        {/* Bouton vers UrgencesOrthodontie */}
+      {/* CONSEILS */}
+      <section className={styles.card}>
+        <h2>Conseils pratiques</h2>
+        <ul>
+          <li>Ne tentez pas de réparer l’appareil vous-même.</li>
+          <li>Gardez toujours de la cire orthodontique à portée de main.</li>
+          <li>Notez la nature et l’heure du problème.</li>
+        </ul>
+
         <Button
-          label="Urgences"
+          label="Contacter le cabinet"
           size="small"
           variant="tertiary"
-          onClick={() => window.location.href = "/urgences-orthodontie"}
+          onClick={() => (window.location.href = "/contact")}
         />
       </section>
     </div>

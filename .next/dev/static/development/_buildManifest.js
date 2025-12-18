@@ -5,6 +5,9 @@ self.__BUILD_MANIFEST = {
   "/contact": [
     "static/chunks/pages/contact.js"
   ],
+  "/urgences": [
+    "static/chunks/pages/urgences.js"
+  ],
   "__rewrites": {
     "afterFiles": [],
     "beforeFiles": [],
@@ -26,7 +29,6 @@ self.__BUILD_MANIFEST = {
     "/team",
     "/technique-traitement",
     "/urgences",
-    "/urgences-et-incident",
-    "/urgences-orthodontie"
+    "/urgences-et-incident"
   ]
 };self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()

@@ -110,7 +110,7 @@ function Team() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Team$2f$Team$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].teamRole,
-                                children: "Chirurgien-Dentiste – Spécialiste en Orthopédie Dento-Faciale"
+                                children: "Chirurgien-Dentiste – Spécialiste qualifiée en Orthopédie Dento-Faciale"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
                                 lineNumber: 21,
@@ -303,12 +303,12 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Galerie
 ;
 ;
 const images = [
-    "/images/galerie/Accueil.jpg",
-    "/images/galerie/Parcours_Patient.png",
-    "/images/galerie/Salle_Attente.jpg",
-    "/images/galerie/Salle_De_Soins.jpg",
-    "/images/galerie/Salle_Radio.jpg",
-    "/images/galerie/Sterilisation.jpg",
+    "/images/Galerie/Accueil.jpg",
+    "/images/Galerie/Parcours_Patient.png",
+    "/images/Galerie/Salle_Attente.jpg",
+    "/images/Galerie/Salle_De_Soins.jpg",
+    "/images/Galerie/Salle_Radio.jpg",
+    "/images/Galerie/Sterilisation.jpg",
     "/images/Capucine_Travail.jpg"
 ];
 function Galerie() {

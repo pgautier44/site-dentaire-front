@@ -123,7 +123,7 @@ function Header() {
                 children: [
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Header$2f$Header$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"]["contact-info"],
-                        children: "Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE"
+                        children: "Docteur Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Header/Header.jsx",
                         lineNumber: 13,
@@ -412,18 +412,13 @@ function Header() {
                     "Site et cabinet en construction, nous serons heureux de vous accueillir à partir du",
                     " ",
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("strong", {
-                        children: "2 février 2026 !"
+                        children: "2 février 2026. "
                     }, void 0, false, {
                         fileName: "[project]/src/components/Header/Header.jsx",
                         lineNumber: 94,
                         columnNumber: 9
                     }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("br", {}, void 0, false, {
-                        fileName: "[project]/src/components/Header/Header.jsx",
-                        lineNumber: 95,
-                        columnNumber: 9
-                    }, this),
-                    "Vous pouvez d'ores et déjà prendre rendez-vous"
+                    "Vous pouvez d'ores et déjà prendre rendez-vous !"
                 ]
             }, void 0, true, {
                 fileName: "[project]/src/components/Header/Header.jsx",
@@ -579,7 +574,7 @@ function Footer() {
                     children: [
                         "© ",
                         new Date().getFullYear(),
-                        " Docteure Capucine LUCAS – Orthodontiste  | ",
+                        " Docteur Capucine LUCAS – Orthodontiste  | ",
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$link$2e$js__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
                             href: "/legal-notice",
                             children: "Mentions légales"

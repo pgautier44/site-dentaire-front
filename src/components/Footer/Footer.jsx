@@ -32,7 +32,7 @@ function Footer() {
 
       <div className={styles['footer-bottom']}>
         <p>
-          © {new Date().getFullYear()} Docteure Capucine LUCAS – Orthodontiste &nbsp;|&nbsp;
+          © {new Date().getFullYear()} Docteur Capucine LUCAS – Orthodontiste &nbsp;|&nbsp;
           <Link href="/legal-notice">Mentions légales</Link>
         </p>
       </div>

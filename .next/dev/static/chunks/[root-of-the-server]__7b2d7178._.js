@@ -462,6 +462,62 @@ function triggerUpdate(msg) {
     }
 }
 }),
+"[project]/src/components/Seo/Seo.jsx [client] (ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/head.js [client] (ecmascript)");
+;
+;
+;
+function Seo({ title, description, jsonLd }) {
+    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
+        children: [
+            title && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
+                children: title
+            }, void 0, false, {
+                fileName: "[project]/src/components/Seo/Seo.jsx",
+                lineNumber: 7,
+                columnNumber: 17
+            }, this),
+            description && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
+                name: "description",
+                content: description
+            }, void 0, false, {
+                fileName: "[project]/src/components/Seo/Seo.jsx",
+                lineNumber: 8,
+                columnNumber: 23
+            }, this),
+            jsonLd && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("script", {
+                type: "application/ld+json",
+                dangerouslySetInnerHTML: {
+                    __html: JSON.stringify(jsonLd)
+                }
+            }, void 0, false, {
+                fileName: "[project]/src/components/Seo/Seo.jsx",
+                lineNumber: 11,
+                columnNumber: 9
+            }, this)
+        ]
+    }, void 0, true, {
+        fileName: "[project]/src/components/Seo/Seo.jsx",
+        lineNumber: 6,
+        columnNumber: 5
+    }, this);
+}
+_c = Seo;
+const __TURBOPACK__default__export__ = Seo;
+var _c;
+__turbopack_context__.k.register(_c, "Seo");
+if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
+    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
+}
+}),
 "[project]/src/components/Button/Button.module.css [client] (css module)", ((__turbopack_context__) => {
 
 __turbopack_context__.v({
@@ -521,70 +577,20 @@ if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelper
     __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
 }
 }),
-"[project]/src/components/Seo/Seo.jsx [client] (ecmascript)", ((__turbopack_context__) => {
-"use strict";
-
-__turbopack_context__.s([
-    "default",
-    ()=>__TURBOPACK__default__export__
-]);
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/next/head.js [client] (ecmascript)");
-;
-;
-;
-function Seo({ title, description, jsonLd }) {
-    return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-        children: [
-            title && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("title", {
-                children: title
-            }, void 0, false, {
-                fileName: "[project]/src/components/Seo/Seo.jsx",
-                lineNumber: 7,
-                columnNumber: 17
-            }, this),
-            description && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("meta", {
-                name: "description",
-                content: description
-            }, void 0, false, {
-                fileName: "[project]/src/components/Seo/Seo.jsx",
-                lineNumber: 8,
-                columnNumber: 23
-            }, this),
-            jsonLd && /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("script", {
-                type: "application/ld+json",
-                dangerouslySetInnerHTML: {
-                    __html: JSON.stringify(jsonLd)
-                }
-            }, void 0, false, {
-                fileName: "[project]/src/components/Seo/Seo.jsx",
-                lineNumber: 11,
-                columnNumber: 9
-            }, this)
-        ]
-    }, void 0, true, {
-        fileName: "[project]/src/components/Seo/Seo.jsx",
-        lineNumber: 6,
-        columnNumber: 5
-    }, this);
-}
-_c = Seo;
-const __TURBOPACK__default__export__ = Seo;
-var _c;
-__turbopack_context__.k.register(_c, "Seo");
-if (typeof globalThis.$RefreshHelpers$ === 'object' && globalThis.$RefreshHelpers !== null) {
-    __turbopack_context__.k.registerExports(__turbopack_context__.m, globalThis.$RefreshHelpers$);
-}
-}),
 "[project]/styles/Urgences.module.css [client] (css module)", ((__turbopack_context__) => {
 
 __turbopack_context__.v({
-  "highlightBlue": "Urgences-module__g7KuOW__highlightBlue",
-  "urgencesLink": "Urgences-module__g7KuOW__urgencesLink",
-  "urgencesPage": "Urgences-module__g7KuOW__urgencesPage",
-  "urgencesSection": "Urgences-module__g7KuOW__urgencesSection",
-  "urgencesTitle": "Urgences-module__g7KuOW__urgencesTitle",
+  "card": "Urgences-module__g7KuOW__card",
+  "hero": "Urgences-module__g7KuOW__hero",
+  "heroBackground": "Urgences-module__g7KuOW__heroBackground",
+  "heroOverlay": "Urgences-module__g7KuOW__heroOverlay",
+  "heroSubtitle": "Urgences-module__g7KuOW__heroSubtitle",
+  "heroTitle": "Urgences-module__g7KuOW__heroTitle",
+  "page": "Urgences-module__g7KuOW__page",
+  "sectionAlt": "Urgences-module__g7KuOW__sectionAlt",
+  "step": "Urgences-module__g7KuOW__step",
+  "stepNumber": "Urgences-module__g7KuOW__stepNumber",
+  "steps": "Urgences-module__g7KuOW__steps",
 });
 }),
 "[project]/pages/urgences.jsx [client] (ecmascript)", ((__turbopack_context__) => {
@@ -597,8 +603,8 @@ __turbopack_context__.s([
 ]);
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/jsx-dev-runtime.js [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$index$2e$js__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/node_modules/react/index.js [client] (ecmascript)");
-var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/Button/Button.jsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Seo$2f$Seo$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/Seo/Seo.jsx [client] (ecmascript)");
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/src/components/Button/Button.jsx [client] (ecmascript)");
 var __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__ = __turbopack_context__.i("[project]/styles/Urgences.module.css [client] (css module)");
 ;
 ;
@@ -607,34 +613,21 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module
 ;
 function Urgences() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].urgencesPage,
+        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].page,
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Seo$2f$Seo$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                title: "Urgence orthodontique – Cabinet d'Orthodontie Dr Capucine Lucas",
-                description: "Toutes les informations sur les urgences orthodontiques au cabinet de Dr Capucine Lucas à Pacé : service de garde, conseils en cas de choc ou dent expulsée, et contacts utiles.",
+                title: "Urgences dentaires et orthodontiques – Cabinet Dr Capucine Lucas",
+                description: "Informations et conseils en cas d’urgence dentaire ou orthodontique : service de garde, chocs, appareils cassés, fils irritants et conduite à tenir au cabinet du Dr Capucine Lucas à Pacé.",
                 jsonLd: {
                     "@context": "https://schema.org",
                     "@type": "MedicalWebPage",
-                    "name": "Urgence orthodontique – Cabinet Dr Capucine Lucas",
-                    "description": "Guide des urgences orthodontiques : appareils cassés, fils irritants, dents déplacées ou expulsées.",
+                    "name": "Urgences dentaires et orthodontiques – Cabinet Dr Capucine Lucas",
+                    "description": "Guide pratique pour gérer les urgences dentaires et orthodontiques.",
                     "url": "https://dr-capucine-lucas.vercel.app/urgences",
                     "mainEntity": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
-                        "address": {
-                            "@type": "PostalAddress",
-                            "streetAddress": "4 Boulevard du Trieux",
-                            "addressLocality": "Pacé",
-                            "postalCode": "35740"
-                        },
-                        "medicalSpecialty": "Orthodontics",
-                        "availableService": [
-                            {
-                                "@type": "MedicalProcedure",
-                                "name": "Gestion des urgences orthodontiques",
-                                "description": "Interventions pour bagues décollées, fils irritants, dents déplacées ou expulsées."
-                            }
-                        ]
+                        "medicalSpecialty": "Orthodontics"
                     }
                 }
             }, void 0, false, {
@@ -642,159 +635,297 @@ function Urgences() {
                 lineNumber: 10,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
-                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].urgencesTitle,
-                children: "Urgence dentaire"
-            }, void 0, false, {
-                fileName: "[project]/pages/urgences.jsx",
-                lineNumber: 40,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].urgencesSection,
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                    children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                            className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].highlightBlue,
-                            children: "Service de garde :"
-                        }, void 0, false, {
-                            fileName: "[project]/pages/urgences.jsx",
-                            lineNumber: 45,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/pages/urgences.jsx",
-                            lineNumber: 46,
-                            columnNumber: 11
-                        }, this),
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/pages/urgences.jsx",
-                            lineNumber: 46,
-                            columnNumber: 17
-                        }, this),
-                        "Les dimanches et jours fériés, un service de garde est assuré par le Conseil de l’Ordre Départemental des Chirurgiens-Dentistes.",
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                            fileName: "[project]/pages/urgences.jsx",
-                            lineNumber: 49,
-                            columnNumber: 11
-                        }, this),
-                        "Pour connaître le praticien de garde, vous pouvez consulter votre quotidien régional ou contacter le commissariat ou la gendarmerie de votre ville, qui dispose des coordonnées mises à jour."
-                    ]
-                }, void 0, true, {
-                    fileName: "[project]/pages/urgences.jsx",
-                    lineNumber: 44,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
-                fileName: "[project]/pages/urgences.jsx",
-                lineNumber: 43,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
-                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].urgencesSection,
+                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].hero,
                 children: [
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].heroBackground
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 29,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].heroOverlay,
                         children: [
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].highlightBlue,
-                                children: "En cas de choc :"
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].heroTitle,
+                                children: "Urgences dentaires & orthodontiques"
                             }, void 0, false, {
                                 fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 59,
+                                lineNumber: 31,
                                 columnNumber: 11
                             }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 60,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 60,
-                                columnNumber: 17
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("u", {
-                                children: "Dent déplacée :"
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].heroSubtitle,
+                                children: "En cas de douleur, de choc ou de problème avec votre appareil, voici comment réagir efficacement."
                             }, void 0, false, {
                                 fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 61,
+                                lineNumber: 32,
                                 columnNumber: 11
-                            }, this),
-                            " Si une dent a été déplacée lors d’un choc, essayez – avec des mains propres – de la repositionner délicatement dans son logement. Informez ensuite notre cabinet dans les plus brefs délais.",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 64,
-                                columnNumber: 11
-                            }, this),
-                            "En cas d’indisponibilité, contactez le service de garde désigné par le Conseil de l’Ordre ou l’hôpital le plus proche disposant d’un service d’odontologie ou d’ORL.",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 68,
-                                columnNumber: 11
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 68,
-                                columnNumber: 17
-                            }, this),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("u", {
-                                children: "Dent expulsée (avulsion) :"
-                            }, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 69,
-                                columnNumber: 11
-                            }, this),
-                            " Si la dent a été totalement perdue, récupérez-la si possible sans la rincer. Conservez-la :",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 71,
-                                columnNumber: 11
-                            }, this),
-                            "– dans du sérum physiologique,",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 73,
-                                columnNumber: 11
-                            }, this),
-                            "– ou dans du lait,",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 75,
-                                columnNumber: 11
-                            }, this),
-                            "– ou dans un linge humide,",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 77,
-                                columnNumber: 11
-                            }, this),
-                            "– ou encore dans votre propre salive.",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences.jsx",
-                                lineNumber: 79,
-                                columnNumber: 11
-                            }, this),
-                            "Prenez contact avec le cabinet en urgence. En cas d’absence, adressez-vous au service de garde ou à l’hôpital le plus proche équipé d’un service d’odontologie ou ORL."
+                            }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/urgences.jsx",
-                        lineNumber: 58,
-                        columnNumber: 9
-                    }, this),
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                        label: "Urgences",
-                        size: "small",
-                        variant: "tertiary",
-                        onClick: ()=>window.location.href = "/urgences-orthodontie"
-                    }, void 0, false, {
-                        fileName: "[project]/pages/urgences.jsx",
-                        lineNumber: 86,
+                        lineNumber: 30,
                         columnNumber: 9
                     }, this)
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/urgences.jsx",
-                lineNumber: 57,
+                lineNumber: 28,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].sectionAlt,
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        children: "Urgences orthodontiques"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 40,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].steps,
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].step,
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].stepNumber,
+                                        children: "1"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 43,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        children: "Identifier le problème"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 44,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: "Fil délogé, bague décollée ou appareil douloureux."
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 45,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 42,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].step,
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].stepNumber,
+                                        children: "2"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 48,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        children: "Soulager"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 49,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: "Utilisez de la cire orthodontique ou un rinçage doux."
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 50,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 47,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].step,
+                                children: [
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                        className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].stepNumber,
+                                        children: "3"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 53,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
+                                        children: "Nous contacter"
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 54,
+                                        columnNumber: 13
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                                        children: "Appelez le cabinet afin d’éviter toute aggravation."
+                                    }, void 0, false, {
+                                        fileName: "[project]/pages/urgences.jsx",
+                                        lineNumber: 55,
+                                        columnNumber: 13
+                                    }, this)
+                                ]
+                            }, void 0, true, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 52,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 41,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/pages/urgences.jsx",
+                lineNumber: 39,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].card,
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        children: "Service de garde"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 62,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        children: [
+                            "Les dimanches et jours fériés, un service de garde est assuré par le Conseil de l’Ordre Départemental des Chirurgiens-Dentistes.",
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 66,
+                                columnNumber: 11
+                            }, this),
+                            "Pour connaître le praticien de garde, consultez votre quotidien régional ou contactez le commissariat ou la gendarmerie de votre ville."
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 63,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/pages/urgences.jsx",
+                lineNumber: 61,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].card,
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        children: "En cas de choc"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 74,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                children: "Dent déplacée :"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 76,
+                                columnNumber: 11
+                            }, this),
+                            " essayez, avec des mains propres, de repositionner délicatement la dent dans son logement et contactez le cabinet rapidement."
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 75,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
+                                children: "Dent expulsée (avulsion) :"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 80,
+                                columnNumber: 11
+                            }, this),
+                            " récupérez la dent sans la rincer et conservez-la dans du sérum physiologique, du lait, un linge humide ou votre salive. Contactez-nous en urgence ou adressez-vous au service de garde ou à l’hôpital le plus proche."
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 79,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/pages/urgences.jsx",
+                lineNumber: 73,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
+                className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Urgences$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].card,
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        children: "Conseils pratiques"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 88,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
+                        children: [
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                children: "Ne tentez pas de réparer l’appareil vous-même."
+                            }, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 90,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                children: "Gardez toujours de la cire orthodontique à portée de main."
+                            }, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 91,
+                                columnNumber: 11
+                            }, this),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                children: "Notez la nature et l’heure du problème."
+                            }, void 0, false, {
+                                fileName: "[project]/pages/urgences.jsx",
+                                lineNumber: 92,
+                                columnNumber: 11
+                            }, this)
+                        ]
+                    }, void 0, true, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 89,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
+                        label: "Contacter le cabinet",
+                        size: "small",
+                        variant: "tertiary",
+                        onClick: ()=>window.location.href = "/contact"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/urgences.jsx",
+                        lineNumber: 95,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
+                fileName: "[project]/pages/urgences.jsx",
+                lineNumber: 87,
                 columnNumber: 7
             }, this)
         ]
@@ -837,4 +968,4 @@ __turbopack_context__.r("[next]/entry/page-loader.ts { PAGE => \"[project]/pages
 }),
 ]);
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__17ce3991._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__7b2d7178._.js.map

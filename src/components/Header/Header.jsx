@@ -11,7 +11,7 @@ function Header() {
 
       <div className={styles["top-bar"]}>
         <p className={styles["contact-info"]}>
-          Docteure Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE
+          Docteur Capucine LUCAS | Orthodontiste - 4, boulevard du Trieux - 35740 PACE
         </p>
 
         <div className={styles["top-buttons"]}>
@@ -91,9 +91,8 @@ function Header() {
 
       <div className={styles["info-banner"]}>
         Site et cabinet en construction, nous serons heureux de vous accueillir à partir du{" "}
-        <strong>2 février 2026 !</strong>
-        <br />
-        Vous pouvez d&apos;ores et déjà prendre rendez-vous
+        <strong>2 février 2026. </strong>
+        Vous pouvez d&apos;ores et déjà prendre rendez-vous !
       </div>
 
     </header>

@@ -19,7 +19,7 @@ function Team() {
 
           <h3>Dr Capucine LUCAS</h3>
           <p className={styles.teamRole}>
-            Chirurgien-Dentiste – Spécialiste en Orthopédie Dento-Faciale
+            Chirurgien-Dentiste – Spécialiste qualifiée en Orthopédie Dento-Faciale
           </p>
 
           {showMore && (

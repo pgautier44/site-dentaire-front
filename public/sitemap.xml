@@ -4,7 +4,7 @@
   <!-- Page d'accueil -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,23 +12,15 @@
   <!-- Urgences -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/urgences</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-  </url>
-
-  <!-- Urgence Orthodontie (sous Urgences) -->
-  <url>
-    <loc>https://dr-capucine-lucas.vercel.app/urgence-orthodontie</loc>
-    <lastmod>2025-12-15</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
   </url>
 
   <!-- Fiches conseils -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/conseils</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -36,49 +28,49 @@
   <!-- Pages fiches -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/appareils-amovibles</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/appareils-fixes</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/bagues</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/objectif-traitement</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/orthodontie-traitement</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/premiere-consultation</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/technique-traitement</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/urgence-et-incident</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -86,7 +78,7 @@
   <!-- Équipe -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/team</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -94,7 +86,7 @@
   <!-- Contact -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/contact</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
@@ -102,7 +94,7 @@
   <!-- Mentions légales -->
   <url>
     <loc>https://dr-capucine-lucas.vercel.app/legal-notice</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2025-12-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
