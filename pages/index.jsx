@@ -8,8 +8,8 @@ export default function HomePage() {
   return (
     <>
       <Seo
-        title="Dr Capucine Lucas – Cabinet d'orthodontie à Pacé – Version 2025 Next.js"
-        description="Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Nouvelle version du site en Next.js. Informations, conseils et contact."
+        title="Dr Capucine Lucas – Cabinet d'orthodontie à Pacé"
+        description="Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Informations sur les soins, conseils pratiques et contact."
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "Dentist",
@@ -32,11 +32,6 @@ export default function HomePage() {
           ]
         }}
       />
-
-      {/* Next.js update – 22 Dec 2025 */}
-
-      {/* Petit texte invisible pour signaler à Google la nouvelle version */}
-      <p style={{ display: "none" }}>Next.js version 2025</p>
 
       <HomeHero />
       <Welcome />

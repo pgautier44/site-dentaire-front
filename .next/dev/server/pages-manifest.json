@@ -2,7 +2,6 @@
   "/": "pages/index.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/contact": "pages/contact.js",
-  "/team": "pages/team.js",
-  "/urgences": "pages/urgences.js"
+  "/conseils": "pages/conseils.js",
+  "/team": "pages/team.js"
 }

@@ -281,8 +281,8 @@ function HomePage() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Seo$2f$Seo$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                title: "Dr Capucine Lucas – Cabinet d'orthodontie à Pacé",
-                description: "Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Traitements enfants, adolescents et adultes. Informations, conseils et contact.",
+                title: "Dr Capucine Lucas – Cabinet d'orthodontie à Pacé – Version 2025 Next.js",
+                description: "Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Nouvelle version du site en Next.js. Informations, conseils et contact.",
                 jsonLd: {
                     "@context": "https://schema.org",
                     "@type": "Dentist",
@@ -309,14 +309,24 @@ function HomePage() {
                 lineNumber: 10,
                 columnNumber: 7
             }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
+                style: {
+                    display: "none"
+                },
+                children: "Next.js version 2025"
+            }, void 0, false, {
+                fileName: "[project]/pages/index.jsx",
+                lineNumber: 39,
+                columnNumber: 7
+            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Home$2f$HomeHero$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/index.jsx",
-                lineNumber: 36,
+                lineNumber: 41,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Welcome$2f$Welcome$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/index.jsx",
-                lineNumber: 37,
+                lineNumber: 42,
                 columnNumber: 7
             }, this)
         ]

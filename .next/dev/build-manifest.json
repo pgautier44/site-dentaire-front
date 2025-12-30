@@ -26,18 +26,18 @@
       "static/chunks/pages__app_2da965e7._.js",
       "static/chunks/turbopack-pages__app_91faf0f7._.js"
     ],
-    "/contact": [
+    "/conseils": [
       "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js",
+      "static/chunks/node_modules_next_dist_shared_lib_cc397485._.js",
       "static/chunks/node_modules_next_dist_client_3ede7da4._.js",
       "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_next_74932de7._.js",
+      "static/chunks/node_modules_next_eda16823._.js",
       "static/chunks/node_modules_react-dom_4411d9bd._.js",
       "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__6fe8b058._.js",
-      "static/chunks/_6488aa18._.css",
-      "static/chunks/pages_contact_2da965e7._.js",
-      "static/chunks/turbopack-pages_contact_cf6ea925._.js"
+      "static/chunks/[root-of-the-server]__130b2423._.js",
+      "static/chunks/styles_Conseils_module_cd1ff858.css",
+      "static/chunks/pages_conseils_2da965e7._.js",
+      "static/chunks/turbopack-pages_conseils_2d1cafcd._.js"
     ],
     "/team": [
       "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
@@ -51,19 +51,6 @@
       "static/chunks/src_components_a987af27._.css",
       "static/chunks/pages_team_2da965e7._.js",
       "static/chunks/turbopack-pages_team_c2dd5c2a._.js"
-    ],
-    "/urgences": [
-      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js",
-      "static/chunks/node_modules_next_dist_client_3ede7da4._.js",
-      "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_next_74932de7._.js",
-      "static/chunks/node_modules_react-dom_4411d9bd._.js",
-      "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__7b2d7178._.js",
-      "static/chunks/_495346ac._.css",
-      "static/chunks/pages_urgences_2da965e7._.js",
-      "static/chunks/turbopack-pages_urgences_66b8bbad._.js"
     ]
   },
   "devFiles": [],
