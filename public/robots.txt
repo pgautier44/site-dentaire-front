@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dr-capucine-lucas.fr/sitemap.xml
