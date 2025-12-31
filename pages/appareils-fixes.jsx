@@ -23,7 +23,7 @@ const AppareilsFixes = () => {
           "@type": "MedicalWebPage",
           "name": "Appareils fixes – Cabinet Dr Capucine Lucas",
           "description": "Tout savoir sur les appareils fixes : pose, adaptation, entretien et suivi pour enfants et adultes.",
-          "url": "https://dr-capucine-lucas.vercel.app/appareils-fixes",
+          "url": "https://dr-capucine-lucas.fr/appareils-fixes",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

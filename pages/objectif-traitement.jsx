@@ -23,7 +23,7 @@ const ObjectifTraitement = () => {
           "@type": "MedicalWebPage",
           "name": "Objectifs du traitement orthodontique – Cabinet Dr Capucine Lucas",
           "description": "Guide complet sur les objectifs des traitements orthodontiques : alignement, correction des malocclusions, hygiène, confort et esthétique.",
-          "url": "https://dr-capucine-lucas.vercel.app/objectif-traitement",
+          "url": "https://dr-capucine-lucas.fr/objectif-traitement",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

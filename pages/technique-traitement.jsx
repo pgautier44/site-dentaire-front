@@ -15,7 +15,7 @@ const TechniqueTraitement = () => {
           "@type": "MedicalWebPage",
           "name": "Techniques de traitement orthodontique – Cabinet Dr Capucine Lucas",
           "description": "Détails sur les techniques de traitement orthodontique : appareils fixes, amovibles, multi-attaches, gouttières invisibles et suivi personnalisé.",
-          "url": "https://dr-capucine-lucas.vercel.app/technique-traitement",
+          "url": "https://dr-capucine-lucas.fr/technique-traitement",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

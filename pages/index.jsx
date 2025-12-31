@@ -23,7 +23,7 @@ export default function HomePage() {
           },
           "telephone": "02 59 16 55 74",
           "email": "drlucas@orthodontiepace.com",
-          "url": "https://dr-capucine-lucas.vercel.app",
+          "url": "https://dr-capucine-lucas.fr",
           "openingHours": [
             "Mo-Tu 09:00-13:30",
             "Mo-Tu 14:30-18:00",

@@ -14,7 +14,7 @@ function Contact() {
           "@type": "ContactPage",
           name: "Contact – Cabinet d'Orthodontie Dr Capucine Lucas",
           description: "Contactez le cabinet d'orthodontie pour toute question, rendez-vous ou information.",
-          url: "https://dr-capucine-lucas.vercel.app/contact",
+          url: "https://dr-capucine-lucas.fr/contact",
           publisher: {
             "@type": "Dentist",
             name: "Dr Capucine Lucas",

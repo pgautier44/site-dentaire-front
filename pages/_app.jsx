@@ -18,8 +18,8 @@ function MyApp({ Component, pageProps }) {
               "@context": "https://schema.org",
               "@type": "Dentist",
               "name": "Dr Capucine Lucas",
-              "url": "https://dr-capucine-lucas.vercel.app",
-              "logo": "https://dr-capucine-lucas.vercel.app/favicon.ico",
+              "url": "https://dr-capucine-lucas.fr",
+              "logo": "https://dr-capucine-lucas.fr/favicon.ico",
               "address": {
                 "@type": "PostalAddress",
                 "streetAddress": "4 Boulevard du Trieux",

@@ -21,7 +21,7 @@ const UrgencesEtIncident = () => {
           "@type": "MedicalWebPage",
           "name": "Urgences et incidents orthodontiques – Cabinet Dr Capucine Lucas",
           "description": "Informations pratiques sur les incidents et urgences orthodontiques : appareils cassés, fils irritants, douleurs et conseils pour enfants et adultes.",
-          "url": "https://dr-capucine-lucas.vercel.app/urgence-et-incident",
+          "url": "https://dr-capucine-lucas.fr/urgence-et-incident",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

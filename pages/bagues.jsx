@@ -23,7 +23,7 @@ const AppareilsMultiAttaches = () => {
           "@type": "MedicalWebPage",
           "name": "Appareils multi‑attaches – Cabinet Dr Capucine Lucas",
           "description": "Guide complet sur les appareils multi‑attaches : pose, adaptation, entretien et suivi pour enfants et adultes.",
-          "url": "https://dr-capucine-lucas.vercel.app/appareils-multi-attaches",
+          "url": "https://dr-capucine-lucas.fr/appareils-multi-attaches",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

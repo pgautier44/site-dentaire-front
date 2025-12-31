@@ -13,7 +13,7 @@ function TeamPage() {
           "@context": "https://schema.org",
           "@type": "Dentist",
           name: "Cabinet d'Orthodontie Dr Capucine Lucas",
-          url: "https://dr-capucine-lucas.vercel.app",
+          url: "https://dr-capucine-lucas.fr/team",
           address: {
             "@type": "PostalAddress",
             streetAddress: "4 Boulevard du Trieux",

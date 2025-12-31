@@ -23,7 +23,7 @@ const AppareilsAmovibles = () => {
         "@type": "MedicalWebPage",
         "name": "Appareils amovibles – Cabinet Dr Capucine Lucas",
         "description": "Tout savoir sur les appareils amovibles : types, utilisation, entretien et conseils pratiques pour enfants et adultes.",
-        "url": "https://dr-capucine-lucas.vercel.app/appareils-amovibles",
+        "url": "https://dr-capucine-lucas.fr/appareils-amovibles",
         "publisher": {
           "@type": "Dentist",
           "name": "Dr Capucine Lucas",

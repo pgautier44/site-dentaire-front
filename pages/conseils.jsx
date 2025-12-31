@@ -74,7 +74,7 @@ export default function Conseils() {
           name: "Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas",
           description:
             "Fiches conseils orthodontiques : hygiène, appareils, urgences, informations pratiques.",
-          url: "https://dr-capucine-lucas.vercel.app/conseils",
+          url: "https://dr-capucine-lucas.fr/conseils",
           publisher: {
             "@type": "Dentist",
             name: "Dr Capucine Lucas",

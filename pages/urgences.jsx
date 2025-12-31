@@ -15,7 +15,7 @@ export default function Urgences() {
           "@type": "MedicalWebPage",
           "name": "Urgences dentaires et orthodontiques – Cabinet Dr Capucine Lucas",
           "description": "Guide pratique pour gérer les urgences dentaires et orthodontiques.",
-          "url": "https://dr-capucine-lucas.vercel.app/urgences",
+          "url": "https://dr-capucine-lucas.fr/urgences",
           "mainEntity": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",

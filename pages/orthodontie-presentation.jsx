@@ -22,7 +22,7 @@ const OrthodontiePresentation = () => {
           "@type": "MedicalWebPage",
           name: "Présentation de l'orthodontie – Cabinet Dr Capucine Lucas",
           description: "Informations complètes sur l’orthodontie : objectifs, techniques, déroulement du traitement et recommandations pour patients.",
-          url: "https://dr-capucine-lucas.vercel.app/orthodontie-presentation",
+          url: "https://dr-capucine-lucas.fr/orthodontie-presentation",
           publisher: {
             "@type": "Dentist",
             name: "Dr Capucine Lucas",

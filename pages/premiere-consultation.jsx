@@ -15,7 +15,7 @@ const PremiereConsultation = () => {
           "@type": "MedicalWebPage",
           "name": "Première consultation – Cabinet d'Orthodontie Dr Capucine Lucas",
           "description": "Informations sur la première consultation orthodontique : déroulement, examens, conseils et recommandations pour patients enfants et adultes.",
-          "url": "https://dr-capucine-lucas.vercel.app/premiere-consultation",
+          "url": "https://dr-capucine-lucas.fr/premiere-consultation",
           "publisher": {
             "@type": "Dentist",
             "name": "Dr Capucine Lucas",
