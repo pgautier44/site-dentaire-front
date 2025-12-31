@@ -3,7 +3,7 @@
 
   <!-- Page d'accueil -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/</loc>
+    <loc>https://dr-capucine-lucas.fr/</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -11,7 +11,7 @@
 
   <!-- Urgences -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/urgences</loc>
+    <loc>https://dr-capucine-lucas.fr/urgences</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -19,7 +19,7 @@
 
   <!-- Fiches conseils -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/conseils</loc>
+    <loc>https://dr-capucine-lucas.fr/conseils</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -27,49 +27,49 @@
 
   <!-- Pages fiches -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/appareils-amovibles</loc>
+    <loc>https://dr-capucine-lucas.fr/appareils-amovibles</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/appareils-fixes</loc>
+    <loc>https://dr-capucine-lucas.fr/appareils-fixes</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/bagues</loc>
+    <loc>https://dr-capucine-lucas.fr/bagues</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/objectif-traitement</loc>
+    <loc>https://dr-capucine-lucas.fr/objectif-traitement</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/orthodontie-traitement</loc>
+    <loc>https://dr-capucine-lucas.fr/orthodontie-traitement</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/premiere-consultation</loc>
+    <loc>https://dr-capucine-lucas.fr/premiere-consultation</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/technique-traitement</loc>
+    <loc>https://dr-capucine-lucas.fr/technique-traitement</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/urgence-et-incident</loc>
+    <loc>https://dr-capucine-lucas.fr/urgence-et-incident</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -77,7 +77,7 @@
 
   <!-- Équipe -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/team</loc>
+    <loc>https://dr-capucine-lucas.fr/team</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -85,7 +85,7 @@
 
   <!-- Contact -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/contact</loc>
+    <loc>https://dr-capucine-lucas.fr/contact</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
@@ -93,7 +93,7 @@
 
   <!-- Mentions légales -->
   <url>
-    <loc>https://dr-capucine-lucas.vercel.app/legal-notice</loc>
+    <loc>https://dr-capucine-lucas.fr/legal-notice</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
