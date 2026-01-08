@@ -35,7 +35,8 @@ const TechniqueTraitement = () => {
       <header className={styles.pcHero}>
         <h1>Techniques de traitement orthodontique</h1>
         <p>
-          En orthodontie, plusieurs techniques peuvent être proposées selon les besoins : appareils fixes, amovibles, gouttières invisibles, voire des combinaisons adaptées à chaque cas.  
+          En orthodontie, plusieurs techniques peuvent être proposées selon les besoins : appareils fixes, amovibles, 
+          gouttières invisibles discrètes, voire des combinaisons adaptées à chaque cas. 
           Le choix dépend de la malocclusion, de l’âge, des attentes esthétiques ou fonctionnelles, et du plan de traitement établi.  
         </p>
       </header>
@@ -50,12 +51,36 @@ const TechniqueTraitement = () => {
       </section>
 
       <section className={styles.pcSection}>
-        <Anchor className={styles.pcIcon} />
+        <Camera className={styles.pcIcon} />
         <h2>Gouttières invisibles / appareils amovibles</h2>
         <p>
-          Les gouttières — ou autres appareils amovibles — sont une alternative discrète et souvent plus confortable, notamment pour les adolescents ou les adultes.  
-          Elles sont fabriquées sur mesure, à partir d’empreintes ou de scans, et doivent être portées selon les consignes de l’orthodontiste (souvent la nuit ou un temps défini chaque jour).  
-          Elles conviennent bien aux corrections légères à modérées, et offrent l’avantage d’être amovibles pour les repas ou le brossage.  
+          Les gouttières — ou autres appareils amovibles — sont une alternative discrète et souvent plus confortable,
+           notamment pour les adolescents ou les adultes. Elles sont fabriquées sur mesure, 
+           à partir d’empreintes ou de scans, et doivent être portées selon les consignes de 
+           l’orthodontiste (souvent 22h/24 la nuit ou un temps défini chaque jour). 
+           Elles conviennent bien aux corrections légères à modérées, 
+           et offrent l’avantage d’être amovibles pour les repas ou le brossage.  
+        </p>
+      </section>
+
+      <section className={styles.pcSection}>
+        <Anchor className={styles.pcIcon} />
+        <h2>Appareils d’interception (fixes ou amovibles)</h2>
+        <p>
+          L’interception correspond à un traitement réalisé quand la croissance est encore active. 
+          Il ne nécessite pas la présence de toutes les dents permanentes et permet de normaliser 
+          les bases osseuses entre elles afin d’harmoniser la croissance et faciliter un traitement ultérieur.
+        </p>
+      </section>
+
+      <section className={styles.pcSection}>
+        <Clipboard className={styles.pcIcon} />
+        <h2>Techniques combinées ou personnalisées</h2>
+        <p>
+          Dans certains cas, le traitement peut combiner plusieurs méthodes : appareil fixe + gouttière, ou appareils amovibles
+           + contention, selon la complexité et les besoins. 
+           Cette approche mixte permet de tirer parti des avantages de chaque technique pour optimiser le résultat
+            — tant sur l’alignement, l’esthétique que sur la stabilité à long terme.
         </p>
       </section>
 

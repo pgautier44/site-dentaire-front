@@ -627,7 +627,7 @@ function HomeHero() {
                     }, this),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Home$2f$HomeHero$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].homeHeroSubtitle,
-                        children: '"Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, adaptés à chaque étape de la vie."'
+                        children: '"Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, aadaptés à chacun."'
                     }, void 0, false, {
                         fileName: "[project]/src/components/Home/HomeHero.jsx",
                         lineNumber: 12,
@@ -720,29 +720,40 @@ function Welcome() {
                                     lineNumber: 19,
                                     columnNumber: 19
                                 }, this),
-                                "Nous prenons en charge aussi bien les enfants que les adolescents et les adultes, en proposant une large gamme d’appareils amovibles, fixes (technique vestibulaire classique ou linguale) ainsi que des gouttières invisibles adaptées à chaque profil.",
+                                "Nous prenons en charge aussi bien les enfants que les adolescents et les adultes, en proposant une large gamme d’appareils amovibles, fixes (technique vestibulaire classique ou linguale) adaptées à chaque profil.",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 23,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                                    lineNumber: 24,
+                                    lineNumber: 23,
                                     columnNumber: 19
                                 }, this),
                                 "Lors de votre première visite, nous recueillerons les informations nécessaires à un diagnostic précis afin d’élaborer un plan de traitement personnalisé.",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                                    lineNumber: 28,
+                                    lineNumber: 27,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                                    lineNumber: 28,
+                                    lineNumber: 27,
                                     columnNumber: 19
                                 }, this),
-                                "Au cabinet, nous accordons une grande importance à la relation patient-parent-praticien."
+                                "Au cabinet, nous accordons une grande importance à la relation patient-parent-praticien.",
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                    fileName: "[project]/src/components/Welcome/Welcome.jsx",
+                                    lineNumber: 30,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
+                                    fileName: "[project]/src/components/Welcome/Welcome.jsx",
+                                    lineNumber: 30,
+                                    columnNumber: 19
+                                }, this),
+                                "Le cabinet est situé à côté de la piscine Aquaouest"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Welcome/Welcome.jsx",
@@ -756,7 +767,7 @@ function Welcome() {
                             variant: "primary"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                            lineNumber: 33,
+                            lineNumber: 34,
                             columnNumber: 11
                         }, this)
                     ]
@@ -772,12 +783,12 @@ function Welcome() {
                         alt: "Accueil du cabinet"
                     }, void 0, false, {
                         fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                        lineNumber: 42,
+                        lineNumber: 43,
                         columnNumber: 11
                     }, this)
                 }, void 0, false, {
                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
-                    lineNumber: 41,
+                    lineNumber: 42,
                     columnNumber: 9
                 }, this)
             ]
@@ -821,8 +832,8 @@ function HomePage() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Seo$2f$Seo$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                title: "Dr Capucine Lucas – Cabinet d'orthodontie à Pacé – Version 2025 Next.js",
-                description: "Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Nouvelle version du site en Next.js. Informations, conseils et contact.",
+                title: "Dr Capucine Lucas – Cabinet d'orthodontie à Pacé",
+                description: "Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Informations sur les soins, conseils pratiques et contact.",
                 jsonLd: {
                     "@context": "https://schema.org",
                     "@type": "Dentist",
@@ -836,7 +847,7 @@ function HomePage() {
                     },
                     "telephone": "02 59 16 55 74",
                     "email": "drlucas@orthodontiepace.com",
-                    "url": "https://dr-capucine-lucas.vercel.app",
+                    "url": "https://dr-capucine-lucas.fr",
                     "openingHours": [
                         "Mo-Tu 09:00-13:30",
                         "Mo-Tu 14:30-18:00",
@@ -849,24 +860,14 @@ function HomePage() {
                 lineNumber: 10,
                 columnNumber: 7
             }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                style: {
-                    display: "none"
-                },
-                children: "Next.js version 2025"
-            }, void 0, false, {
-                fileName: "[project]/pages/index.jsx",
-                lineNumber: 39,
-                columnNumber: 7
-            }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Home$2f$HomeHero$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/index.jsx",
-                lineNumber: 41,
+                lineNumber: 36,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Welcome$2f$Welcome$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/index.jsx",
-                lineNumber: 42,
+                lineNumber: 37,
                 columnNumber: 7
             }, this)
         ]

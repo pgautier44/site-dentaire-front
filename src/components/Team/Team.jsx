@@ -29,14 +29,13 @@ function Team() {
               <br />
               <li>Formation aux aligneurs Spark</li>
               <li>Formation au lingual 2D®</li>
-              <li>Formation aux aligneurs Spark®</li>
               <li>Formation Tweed course – Tucson USA</li>
               <li>Certification Liberty Lingual®</li>
               <li>DU d’Hypnose</li>
               <br />
               <li>Victoire au grand prix de l’Orthodontie</li>
-              <li>Participation au collège Européen d’Orthodontie</li>
-              <li>Membre du club « Toujours tout droit »</li>
+              <li>Membre affilié au collège Européen d’Orthodontie</li>
+              <li>Membre titulaire du club « Toujours tout droit »</li>
             </ul>
           )}
 

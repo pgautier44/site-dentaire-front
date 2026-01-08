@@ -52,7 +52,6 @@ const UrgencesEtIncident = () => {
         <p>
           Si une bague ou un bracket se décolle ou bouge, contactez immédiatement votre praticien par téléphone.<br />
           Ne tentez pas de recoller ou de réajuster vous‑même.<br />
-          En attendant, évitez toute mastication sur la dent concernée pour ne pas aggraver le déplacement.
         </p>
       </section>
 
@@ -62,7 +61,7 @@ const UrgencesEtIncident = () => {
         <p>
           Si un fil sort et irrite la joue, la langue ou la gencive, utilisez de la cire orthodontique pour recouvrir la partie irritante.<br />
           Si la gêne persiste, contactez votre cabinet pour un réglage.<br />
-          En cas d’irritation des muqueuses (langue, joues, lèvres), des bains de bouche ou des gels adaptés peuvent aider.
+          En cas d’irritation des muqueuses (langue, joues, lèvres), des gels adaptés peuvent aider.
         </p>
       </section>
 
@@ -71,7 +70,7 @@ const UrgencesEtIncident = () => {
         <h2>Douleurs après activation / réglage de l’appareil</h2>
         <p>
           Une sensation de tension ou d’inconfort est normale après la pose ou le réglage d’un appareil.<br />
-          Pour soulager, privilégiez des aliments mous, des bains de bouche tièdes, et, si besoin, un antalgique courant.<br />
+          Pour soulager, privilégiez des aliments mous, et, si besoin, un antalgique courant.<br />
           Si la douleur est intense ou persistante, contactez votre orthodontiste.
         </p>
       </section>
@@ -82,7 +81,6 @@ const UrgencesEtIncident = () => {
         <p>
           Si votre appareil amovible est perdu ou cassé, ne le portez pas dans un état endommagé.<br />
           Prenez rendez-vous au plus vite pour en faire refaire un.<br />
-          Si l’incident a lieu en milieu scolaire, pensez à déclarer l’accident à l’assurance de l’établissement.
         </p>
       </section>
 
@@ -90,8 +88,8 @@ const UrgencesEtIncident = () => {
         <CornerUpLeft className={styles.pcIcon} />
         <h2>Choc, chute, accident — impact sur l’appareil</h2>
         <p>
-          Après un choc (chute, accident, impact sur l’appareil), avertissez immédiatement votre orthodontiste, même si tout semble intact.<br />
-          Il est important de vérifier que l’appareil n’est pas endommagé et que les dents n’ont pas bougé.<br />
+          Après un choc (chute, accident, impact sur l’appareil), avertissez immédiatement votre dentiste, même si tout semble intact. Des radiographies de contrôle peuvent être réalisées et un certificat médical initial vous sera remis. Il sera à envoyer à votre assurance lors de la déclaration de l’accident.
+          Un rendez-vous chez l’orthodontiste sera peut-être à prévoir. Il est important de vérifier que l’appareil n’est pas endommagé et que les dents n’ont pas bougé.
           Mieux vaut anticiper pour éviter un mauvais repositionnement.
         </p>
       </section>

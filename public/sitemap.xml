@@ -27,18 +27,6 @@
 
   <!-- Pages fiches -->
   <url>
-    <loc>https://dr-capucine-lucas.fr/appareils-amovibles</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://dr-capucine-lucas.fr/appareils-fixes</loc>
-    <lastmod>2025-12-18</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://dr-capucine-lucas.fr/bagues</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>

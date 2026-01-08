@@ -94,7 +94,7 @@ const ObjectifTraitement = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Objectifs du traitement orthodontique – Cabinet Dr Capucine Lucas",
                     "description": "Guide complet sur les objectifs des traitements orthodontiques : alignement, correction des malocclusions, hygiène, confort et esthétique.",
-                    "url": "https://dr-capucine-lucas.vercel.app/objectif-traitement",
+                    "url": "https://dr-capucine-lucas.fr/objectif-traitement",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -105,8 +105,8 @@ const ObjectifTraitement = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -185,7 +185,7 @@ const ObjectifTraitement = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                        children: "Un mal-alignement ou une mauvaise occlusion peut compliquer la mastication, altérer la digestion, ou provoquer des tensions au niveau des mâchoires. Grâce à l’orthodontie, les forces sont correctement réparties, la morsure devient harmonieuse, ce qui améliore le confort de la mastication et peut soulager les tensions articulaires ou musculaires. De plus, un bon alignement dentaire peut aussi faciliter l’articulation et la prononciation."
+                        children: "Un mal-alignement ou une mauvaise occlusion peuvent compliquer la mastication, altérer la digestion, ou provoquer des tensions au niveau des mâchoires ou des cervicales. Grâce à l’orthodontie, les forces sont correctement réparties, la morsure devient harmonieuse, ce qui améliore le confort de la mastication et peut soulager les tensions articulaires ou musculaires. De plus, un bon alignement dentaire peut aussi faciliter l’articulation et la prononciation."
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
                         lineNumber: 63,
@@ -204,27 +204,27 @@ const ObjectifTraitement = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 71,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Un sourire harmonieux et confiance en soi"
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 72,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         children: "Au-delà de la santé, l’un des bénéfices les plus visibles d’un traitement orthodontique est l’amélioration de l’esthétique du sourire et de l’équilibre du visage. Un sourire aligné contribue à l’harmonie du visage, ce qui peut avoir un impact positif sur l’estime de soi, la confiance en soi et les relations sociales."
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 73,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/objectif-traitement.jsx",
-                lineNumber: 70,
+                lineNumber: 72,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -234,27 +234,27 @@ const ObjectifTraitement = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 80,
+                        lineNumber: 82,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Protection à long terme des dents et des articulations"
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 81,
+                        lineNumber: 83,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         children: "Une mauvaise occlusion peut engendrer une usure inégale des dents, des fissures, des fractures, ou des surcharges sur certaines dents. Un alignement correct répartit les forces de mastication de façon équilibrée, ce qui préserve l’émail, réduit le risque de fracture, et prolonge la durée de vie des dents. De même, cela peut limiter les douleurs articulaires, les tensions de la mâchoire ou les désordres liés à l’articulation temporo-mandibulaire (ATM)."
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 82,
+                        lineNumber: 84,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/objectif-traitement.jsx",
-                lineNumber: 79,
+                lineNumber: 81,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -264,44 +264,44 @@ const ObjectifTraitement = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 89,
+                        lineNumber: 91,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Un investissement durable"
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 90,
+                        lineNumber: 92,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         children: "Bien qu’un traitement orthodontique représente un engagement, c’est aussi un investissement sur le long terme : des dents bien alignées demandent moins de traitements correctifs, réduisent les risques de complications, et peuvent éviter des soins coûteux plus tard. En plus, l’amélioration du confort, de l’esthétique et de la santé bucco-dentaire en vaut bien l’investissement."
                     }, void 0, false, {
                         fileName: "[project]/pages/objectif-traitement.jsx",
-                        lineNumber: 91,
+                        lineNumber: 93,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/objectif-traitement.jsx",
-                lineNumber: 88,
+                lineNumber: 90,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
                 className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcCta,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$ssr$5d$__$28$ecmascript$29$__["default"], {
-                    label: "Rendez-vous",
+                    label: "Prendre rendez-vous",
                     onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
                     size: "large",
                     variant: "primary"
                 }, void 0, false, {
                     fileName: "[project]/pages/objectif-traitement.jsx",
-                    lineNumber: 98,
+                    lineNumber: 100,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/objectif-traitement.jsx",
-                lineNumber: 97,
+                lineNumber: 99,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

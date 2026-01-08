@@ -624,7 +624,7 @@ const AppareilsAmovibles = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Appareils amovibles – Cabinet Dr Capucine Lucas",
                     "description": "Tout savoir sur les appareils amovibles : types, utilisation, entretien et conseils pratiques pour enfants et adultes.",
-                    "url": "https://dr-capucine-lucas.vercel.app/appareils-amovibles",
+                    "url": "https://dr-capucine-lucas.fr/appareils-amovibles",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -635,8 +635,8 @@ const AppareilsAmovibles = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -655,7 +655,7 @@ const AppareilsAmovibles = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "Les appareils amovibles permettent de corriger certaines anomalies dentaires ou dento-squelettiques tout en restant simples à manipuler et à entretenir."
+                        children: "Les appareils amovibles peuvent être utilisés pour maintenir un résultat ou corriger certaines anomalies dentaires ou squelettiques tout en restant simples à manipuler et à entretenir"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
                         lineNumber: 45,
@@ -674,27 +674,27 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 52,
+                        lineNumber: 51,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Qu’est-ce qu’un appareil amovible ?"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 53,
+                        lineNumber: 52,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         children: "C’est un dispositif orthodontique non collé aux dents, que l’on peut retirer pour manger et se brosser les dents. Il est constitué d’une base en résine, parfois associée à des ressorts, des vérins ou des fils métalliques, permettant d’exercer des forces légères pour guider la dentition ou la croissance des mâchoires."
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 54,
+                        lineNumber: 53,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 51,
+                lineNumber: 50,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -704,14 +704,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 63,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Pourquoi utilise-t-on un appareil amovible ?"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 64,
+                        lineNumber: 63,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -721,40 +721,40 @@ const AppareilsAmovibles = ()=>{
                                 children: "Corriger des malpositions légères des dents"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 66,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Guider la croissance des mâchoires chez l’enfant"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 67,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Modifier certaines fonctions (respiration, déglutition…)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 68,
+                                lineNumber: 67,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Stabiliser un traitement en phase de contention"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 69,
+                                lineNumber: 68,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 65,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 62,
+                lineNumber: 61,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -764,14 +764,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 74,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Adaptation et sensations au début"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 75,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -781,40 +781,40 @@ const AppareilsAmovibles = ()=>{
                                 children: "Légère gêne dans la parole pendant quelques jours"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 77,
+                                lineNumber: 76,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Augmentation temporaire de la salivation"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 78,
+                                lineNumber: 77,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Petite tension sur les dents ou les joues"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 79,
+                                lineNumber: 78,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "L’adaptation est généralement très rapide"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 80,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 76,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 73,
+                lineNumber: 72,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -824,14 +824,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 85,
+                        lineNumber: 84,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Hygiène et entretien"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 86,
+                        lineNumber: 85,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -841,47 +841,47 @@ const AppareilsAmovibles = ()=>{
                                 children: "Retirer l’appareil pour manger"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 88,
+                                lineNumber: 87,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Le rincer après chaque repas"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 89,
+                                lineNumber: 88,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Le nettoyer une fois par jour avec une brosse et de l’eau froide"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 90,
+                                lineNumber: 89,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Utiliser des pastilles nettoyantes 1–2 fois par semaine si conseillé"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 91,
+                                lineNumber: 90,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Ne jamais utiliser d’eau chaude (risque de déformation)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 92,
+                                lineNumber: 91,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 87,
+                        lineNumber: 86,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 84,
+                lineNumber: 83,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -891,14 +891,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 97,
+                        lineNumber: 96,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Port de l'appareil"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 98,
+                        lineNumber: 97,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -908,14 +908,14 @@ const AppareilsAmovibles = ()=>{
                                 children: "14 à 20 heures par jour"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 101,
+                                lineNumber: 100,
                                 columnNumber: 34
                             }, ("TURBOPACK compile-time value", void 0)),
                             " est recommandé, selon les indications du praticien."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 99,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -923,13 +923,13 @@ const AppareilsAmovibles = ()=>{
                         children: "Le traitement peut être prolongé en cas de port irrégulier."
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 104,
+                        lineNumber: 103,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 96,
+                lineNumber: 95,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -939,14 +939,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 110,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "En cas de problème"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 111,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -956,40 +956,40 @@ const AppareilsAmovibles = ()=>{
                                 children: "Appareil cassé : ne pas essayer de réparer soi-même"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 113,
+                                lineNumber: 112,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Douleurs inhabituelles persistantes : contacter le cabinet"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 114,
+                                lineNumber: 113,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Fil ou ressort qui pique : ranger l’appareil et demander un ajustement"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 115,
+                                lineNumber: 114,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Perte de l’appareil : prévenir rapidement pour éviter une reprise du traitement"
+                                children: "Perte de l’appareil : prévenir rapidement le cabinet pour réaliser, si besoin, un nouvel appareil"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 116,
+                                lineNumber: 115,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 112,
+                        lineNumber: 111,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 109,
+                lineNumber: 108,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -999,14 +999,14 @@ const AppareilsAmovibles = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 121,
+                        lineNumber: 120,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Conseils pratiques"
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 122,
+                        lineNumber: 121,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -1016,57 +1016,57 @@ const AppareilsAmovibles = ()=>{
                                 children: "Toujours ranger l’appareil dans sa boîte dédiée"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 124,
+                                lineNumber: 123,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Ne jamais l’envelopper dans un mouchoir (risque de le jeter par erreur)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 125,
+                                lineNumber: 124,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Éviter de manipuler les crochets ou ressorts"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 126,
+                                lineNumber: 125,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                 children: "Apporter l’appareil à chaque rendez-vous"
                             }, void 0, false, {
                                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                                lineNumber: 127,
+                                lineNumber: 126,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/appareils-amovibles.jsx",
-                        lineNumber: 123,
+                        lineNumber: 122,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 120,
+                lineNumber: 119,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcCta,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                    label: "Rendez-vous",
+                    label: "Prendre rendez-vous",
                     onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
                     size: "large",
                     variant: "primary"
                 }, void 0, false, {
                     fileName: "[project]/pages/appareils-amovibles.jsx",
-                    lineNumber: 132,
+                    lineNumber: 131,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/appareils-amovibles.jsx",
-                lineNumber: 131,
+                lineNumber: 130,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

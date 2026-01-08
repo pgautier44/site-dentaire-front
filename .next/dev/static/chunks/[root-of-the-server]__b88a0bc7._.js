@@ -624,7 +624,7 @@ const AppareilsFixes = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Appareils fixes – Cabinet Dr Capucine Lucas",
                     "description": "Tout savoir sur les appareils fixes : pose, adaptation, entretien et suivi pour enfants et adultes.",
-                    "url": "https://dr-capucine-lucas.vercel.app/appareils-fixes",
+                    "url": "https://dr-capucine-lucas.fr/appareils-fixes",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -635,8 +635,8 @@ const AppareilsFixes = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -685,7 +685,7 @@ const AppareilsFixes = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "Un appareil fixe (ou multi-attaches) est constitué de petits boîtiers (brackets / bagues) collés sur les dents, reliés par un fil métallique (arche). Le fil exerce une pression continue, ce qui permet de déplacer les dents de façon très précise."
+                        children: "Un appareil fixe (ou multi-attaches) est constitué de petits boîtiers (brackets / bagues) collés sur les dents, reliés par un fil métallique (arc). Le fil exerce une pression continue, ce qui permet de déplacer les dents de façon très précise."
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-fixes.jsx",
                         lineNumber: 53,
@@ -945,7 +945,7 @@ const AppareilsFixes = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "Une fois l’appareil retiré, une contention (fil de retenue ou gouttière de nuit) est souvent mise en place pour stabiliser le résultat et éviter que les dents ne bougent."
+                        children: "Une fois l’appareil retiré, une contention (fil de contention ou gouttière de nuit) est souvent mise en place pour stabiliser le résultat et éviter que les dents ne bougent."
                     }, void 0, false, {
                         fileName: "[project]/pages/appareils-fixes.jsx",
                         lineNumber: 102,
@@ -1020,7 +1020,7 @@ const AppareilsFixes = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcCta,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                    label: "Rendez-vous",
+                    label: "Prendre rendez-vous",
                     onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
                     size: "large",
                     variant: "primary"

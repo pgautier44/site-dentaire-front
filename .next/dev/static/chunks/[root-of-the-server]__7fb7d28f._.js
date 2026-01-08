@@ -623,7 +623,7 @@ const OrthodontiePresentation = ()=>{
                     "@type": "MedicalWebPage",
                     name: "Présentation de l'orthodontie – Cabinet Dr Capucine Lucas",
                     description: "Informations complètes sur l’orthodontie : objectifs, techniques, déroulement du traitement et recommandations pour patients.",
-                    url: "https://dr-capucine-lucas.vercel.app/orthodontie-presentation",
+                    url: "https://dr-capucine-lucas.fr/orthodontie-presentation",
                     publisher: {
                         "@type": "Dentist",
                         name: "Dr Capucine Lucas",
@@ -634,8 +634,8 @@ const OrthodontiePresentation = ()=>{
                             postalCode: "35740",
                             addressCountry: "FR"
                         },
-                        telephone: "02 XX XX XX XX",
-                        email: "Drlucas@orthodontiepace.com"
+                        telephone: "02 59 16 55 74",
+                        email: "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -811,7 +811,7 @@ const OrthodontiePresentation = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "Un traitement commence toujours par un bilan complet incluant un examen clinique et, si nécessaire, des photos, radiographies ou empreintes. Viennent ensuite la pose de l’appareil, les rendez-vous de suivi réguliers, puis une phase de contention pour stabiliser les résultats."
+                        children: "Un traitement commence toujours par un bilan complet incluant un examen clinique et, si nécessaire, des photos, radiographies ou empreintes. Viennent ensuite le rendez-vous d’explications du plan de traitement, la pose de l’appareil, les rendez-vous de suivi réguliers, puis une phase de contention pour stabiliser les résultats."
                     }, void 0, false, {
                         fileName: "[project]/pages/orthodontie-presentation.jsx",
                         lineNumber: 94,

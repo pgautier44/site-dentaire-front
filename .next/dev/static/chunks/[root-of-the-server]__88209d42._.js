@@ -1228,27 +1228,68 @@ function MyApp({ Component, pageProps }) {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$head$2e$js__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
-                    rel: "icon",
-                    href: "/favicon.ico"
-                }, void 0, false, {
-                    fileName: "[project]/pages/_app.jsx",
-                    lineNumber: 11,
-                    columnNumber: 9
-                }, this)
-            }, void 0, false, {
+                children: [
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "icon",
+                        href: "/favicon.ico"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/_app.jsx",
+                        lineNumber: 11,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("link", {
+                        rel: "apple-touch-icon",
+                        href: "/favicon.ico"
+                    }, void 0, false, {
+                        fileName: "[project]/pages/_app.jsx",
+                        lineNumber: 12,
+                        columnNumber: 9
+                    }, this),
+                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("script", {
+                        type: "application/ld+json",
+                        dangerouslySetInnerHTML: {
+                            __html: JSON.stringify({
+                                "@context": "https://schema.org",
+                                "@type": "Dentist",
+                                "name": "Dr Capucine Lucas",
+                                "url": "https://dr-capucine-lucas.fr",
+                                "logo": "https://dr-capucine-lucas.fr/favicon.ico",
+                                "address": {
+                                    "@type": "PostalAddress",
+                                    "streetAddress": "4 Boulevard du Trieux",
+                                    "addressLocality": "Pacé",
+                                    "postalCode": "35740",
+                                    "addressCountry": "FR"
+                                },
+                                "telephone": "02 59 16 55 74",
+                                "email": "drlucas@orthodontiepace.com",
+                                "openingHours": [
+                                    "Mo-Tu 09:00-13:30",
+                                    "Mo-Tu 14:30-18:00",
+                                    "We-Fr 09:00-13:30",
+                                    "We-Fr 14:30-18:30"
+                                ]
+                            })
+                        }
+                    }, void 0, false, {
+                        fileName: "[project]/pages/_app.jsx",
+                        lineNumber: 14,
+                        columnNumber: 9
+                    }, this)
+                ]
+            }, void 0, true, {
                 fileName: "[project]/pages/_app.jsx",
                 lineNumber: 10,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Scroll$2f$ScrollToTop$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/_app.jsx",
-                lineNumber: 13,
+                lineNumber: 43,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Header$2f$Header$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/_app.jsx",
-                lineNumber: 14,
+                lineNumber: 44,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("main", {
@@ -1257,17 +1298,17 @@ function MyApp({ Component, pageProps }) {
                     ...pageProps
                 }, void 0, false, {
                     fileName: "[project]/pages/_app.jsx",
-                    lineNumber: 16,
+                    lineNumber: 46,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/pages/_app.jsx",
-                lineNumber: 15,
+                lineNumber: 45,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Footer$2f$Footer$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
                 fileName: "[project]/pages/_app.jsx",
-                lineNumber: 18,
+                lineNumber: 48,
                 columnNumber: 7
             }, this)
         ]

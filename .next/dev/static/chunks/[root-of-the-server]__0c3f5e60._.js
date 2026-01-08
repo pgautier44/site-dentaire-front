@@ -624,57 +624,50 @@ function Team() {
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "Formation aux aligneurs Spark®"
+                                        children: "Formation Tweed course – Tucson USA"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
                                         lineNumber: 32,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "Formation Tweed course – Tucson USA"
+                                        children: "Certification Liberty Lingual®"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
                                         lineNumber: 33,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "Certification Liberty Lingual®"
+                                        children: "DU d’Hypnose"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
                                         lineNumber: 34,
                                         columnNumber: 15
                                     }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "DU d’Hypnose"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Team/Team.jsx",
-                                        lineNumber: 35,
-                                        columnNumber: 15
-                                    }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
-                                        lineNumber: 36,
+                                        lineNumber: 35,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
                                         children: "Victoire au grand prix de l’Orthodontie"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
+                                        lineNumber: 36,
+                                        columnNumber: 15
+                                    }, this),
+                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                        children: "Membre affilié au collège Européen d’Orthodontie"
+                                    }, void 0, false, {
+                                        fileName: "[project]/src/components/Team/Team.jsx",
                                         lineNumber: 37,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "Participation au collège Européen d’Orthodontie"
+                                        children: "Membre titulaire du club « Toujours tout droit »"
                                     }, void 0, false, {
                                         fileName: "[project]/src/components/Team/Team.jsx",
                                         lineNumber: 38,
-                                        columnNumber: 15
-                                    }, this),
-                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                        children: "Membre du club « Toujours tout droit »"
-                                    }, void 0, false, {
-                                        fileName: "[project]/src/components/Team/Team.jsx",
-                                        lineNumber: 39,
                                         columnNumber: 15
                                     }, this)
                                 ]
@@ -689,7 +682,7 @@ function Team() {
                                 children: showMore ? "Voir moins" : "En savoir plus"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
-                                lineNumber: 43,
+                                lineNumber: 42,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -707,14 +700,14 @@ function Team() {
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Team$2f$Team$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].teamPhoto
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
-                                lineNumber: 53,
+                                lineNumber: 52,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
                                 children: "Assistante dentaire"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
-                                lineNumber: 58,
+                                lineNumber: 57,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -722,13 +715,13 @@ function Team() {
                                 children: "Une assistante dentaire est actuellement en cours de recrutement"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
-                                lineNumber: 59,
+                                lineNumber: 58,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/src/components/Team/Team.jsx",
-                        lineNumber: 52,
+                        lineNumber: 51,
                         columnNumber: 9
                     }, this)
                 ]
@@ -866,7 +859,7 @@ function TeamPage() {
                     "@context": "https://schema.org",
                     "@type": "Dentist",
                     name: "Cabinet d'Orthodontie Dr Capucine Lucas",
-                    url: "https://dr-capucine-lucas.vercel.app",
+                    url: "https://dr-capucine-lucas.fr/team",
                     address: {
                         "@type": "PostalAddress",
                         streetAddress: "4 Boulevard du Trieux",

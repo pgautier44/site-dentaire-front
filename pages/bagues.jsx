@@ -62,15 +62,15 @@ const AppareilsMultiAttaches = () => {
           <li>Insertion et fixation du fil métallique</li>
           <li>Pose d’élastiques si nécessaire</li>
         </ul>
-        <p className={styles.pcNote}>La séance dure généralement 60 à 90 minutes.</p>
+        <p className={styles.pcNote}>La séance dure généralement 20 à 45 minutes.</p>
       </section>
 
       <section className={styles.pcSection}>
         <Smile className={styles.pcIcon} />
-        <h2>Adaptation et inconfort</h2>
+        <h2>Adaptation</h2>
         <ul className={styles.pcList}>
           <li>Sensibilité dentaire les premiers jours</li>
-          <li>Irritation de la langue et des joues</li>
+          <li>Il peut exister des irritation de la langue et des joues et des légers changements dans la mastication ou l’élocution</li>
           <li>Légers changements dans la mastication ou l’élocution</li>
         </ul>
       </section>
@@ -82,7 +82,6 @@ const AppareilsMultiAttaches = () => {
           <li>Brossage soigneux après chaque repas</li>
           <li>Utilisation de brossettes interdentaires ou fil dentaire</li>
           <li>Éviter aliments durs ou collants (chewing-gum, caramels…)</li>
-          <li>Bains de bouche sans alcool si conseillé</li>
         </ul>
       </section>
 
@@ -90,18 +89,19 @@ const AppareilsMultiAttaches = () => {
         <FileText className={styles.pcIcon} />
         <h2>En cas de problème</h2>
         <ul className={styles.pcList}>
-          <li>Bague décollée : conserver et contacter l’orthodontiste</li>
-          <li>Fil gênant : appliquer de la cire orthodontique</li>
-          <li>Douleurs : antalgiques simples (paracétamol)</li>
-          <li>Blessures : gels cicatrisants ou bains de bouche adaptés</li>
+          <li>Bague décollée : appeler le cabinet pour voir si un rendez-vous intercalaire est nécessaire avant le prochain contrôle. En attendant : mettre de la cire si celle si gêne</li>
+          <li>Fil gênant : mettre de la cire orthodontique</li>
+          <li>Douleurs : prendre des antalgiques (paracétamol)</li>
+          <li>Blessures : gels cicatrisants (hyalugel®, aphta clear®…)</li>
+          <li>Gencive gonflée : une gencive gonflée correspond dans la majorité des cas à un brossage insuffisant. Si elle persiste, contacter le cabinet</li>
         </ul>
       </section>
 
       <section className={styles.pcSection}>
         <Clipboard className={styles.pcIcon} />
         <h2>Durée du traitement</h2>
-        <p>En moyenne, un traitement multi‑attaches dure 18 à 36 mois selon la complexité.</p>
-        <p className={styles.pcNote}>Une contention est souvent mise en place après le retrait des bagues pour stabiliser les résultats.</p>
+        <p>En moyenne, un traitement multi‑attaches dure en moyenne 2 ans mais cette durée peut varier en fonction de la complexité du traitement.</p>
+        <p className={styles.pcNote}>A la fin du traitement multi-attaches, quand les objectifs sont remplis, un ou des fils de contention seront posés pour stabiliser le traitement.</p>
       </section>
 
       <section className={styles.pcSection}>

@@ -92,10 +92,10 @@ const OrthodontiePresentation = () => {
         <FileText className={styles.pcIcon} />
         <h2>Déroulement d’un traitement</h2>
         <p>
-          Un traitement commence toujours par un bilan complet incluant un examen clinique et, si nécessaire,
-          des photos, radiographies ou empreintes.  
-          Viennent ensuite la pose de l’appareil, les rendez-vous de suivi réguliers, puis une phase de contention
-          pour stabiliser les résultats.
+          Un traitement commence toujours par un bilan complet incluant un examen clinique et, si nécessaire, 
+          des photos, radiographies ou empreintes.
+          Viennent ensuite le rendez-vous d’explications du plan de traitement,
+          la pose de l’appareil, les rendez-vous de suivi réguliers, puis une phase de contention pour stabiliser les résultats.
         </p>
       </section>
 

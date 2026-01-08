@@ -622,7 +622,7 @@ const UrgencesEtIncident = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Urgences et incidents orthodontiques – Cabinet Dr Capucine Lucas",
                     "description": "Informations pratiques sur les incidents et urgences orthodontiques : appareils cassés, fils irritants, douleurs et conseils pour enfants et adultes.",
-                    "url": "https://dr-capucine-lucas.vercel.app/urgence-et-incident",
+                    "url": "https://dr-capucine-lucas.fr/urgence-et-incident",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -633,8 +633,8 @@ const UrgencesEtIncident = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -695,8 +695,7 @@ const UrgencesEtIncident = ()=>{
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
                                 lineNumber: 54,
                                 columnNumber: 63
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            "En attendant, évitez toute mastication sur la dent concernée pour ne pas aggraver le déplacement."
+                            }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
@@ -716,14 +715,14 @@ const UrgencesEtIncident = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 60,
+                        lineNumber: 59,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Fil irritant ou saillant — gêne des muqueuses"
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 61,
+                        lineNumber: 60,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -731,26 +730,26 @@ const UrgencesEtIncident = ()=>{
                             "Si un fil sort et irrite la joue, la langue ou la gencive, utilisez de la cire orthodontique pour recouvrir la partie irritante.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 63,
+                                lineNumber: 62,
                                 columnNumber: 139
                             }, ("TURBOPACK compile-time value", void 0)),
                             "Si la gêne persiste, contactez votre cabinet pour un réglage.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 64,
+                                lineNumber: 63,
                                 columnNumber: 72
                             }, ("TURBOPACK compile-time value", void 0)),
-                            "En cas d’irritation des muqueuses (langue, joues, lèvres), des bains de bouche ou des gels adaptés peuvent aider."
+                            "En cas d’irritation des muqueuses (langue, joues, lèvres), des gels adaptés peuvent aider."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 62,
+                        lineNumber: 61,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                lineNumber: 59,
+                lineNumber: 58,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -760,14 +759,14 @@ const UrgencesEtIncident = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 70,
+                        lineNumber: 69,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Douleurs après activation / réglage de l’appareil"
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 71,
+                        lineNumber: 70,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -775,26 +774,26 @@ const UrgencesEtIncident = ()=>{
                             "Une sensation de tension ou d’inconfort est normale après la pose ou le réglage d’un appareil.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 73,
+                                lineNumber: 72,
                                 columnNumber: 105
                             }, ("TURBOPACK compile-time value", void 0)),
-                            "Pour soulager, privilégiez des aliments mous, des bains de bouche tièdes, et, si besoin, un antalgique courant.",
+                            "Pour soulager, privilégiez des aliments mous, et, si besoin, un antalgique courant.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 74,
-                                columnNumber: 122
+                                lineNumber: 73,
+                                columnNumber: 94
                             }, ("TURBOPACK compile-time value", void 0)),
                             "Si la douleur est intense ou persistante, contactez votre orthodontiste."
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 72,
+                        lineNumber: 71,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                lineNumber: 69,
+                lineNumber: 68,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -804,14 +803,14 @@ const UrgencesEtIncident = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 80,
+                        lineNumber: 79,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Appareil amovible perdu ou cassé"
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 81,
+                        lineNumber: 80,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -819,26 +818,25 @@ const UrgencesEtIncident = ()=>{
                             "Si votre appareil amovible est perdu ou cassé, ne le portez pas dans un état endommagé.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 83,
+                                lineNumber: 82,
                                 columnNumber: 98
                             }, ("TURBOPACK compile-time value", void 0)),
                             "Prenez rendez-vous au plus vite pour en faire refaire un.",
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 84,
+                                lineNumber: 83,
                                 columnNumber: 68
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            "Si l’incident a lieu en milieu scolaire, pensez à déclarer l’accident à l’assurance de l’établissement."
+                            }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 82,
+                        lineNumber: 81,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                lineNumber: 79,
+                lineNumber: 78,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -848,41 +846,27 @@ const UrgencesEtIncident = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 90,
+                        lineNumber: 88,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "Choc, chute, accident — impact sur l’appareil"
                     }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 91,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: [
-                            "Après un choc (chute, accident, impact sur l’appareil), avertissez immédiatement votre orthodontiste, même si tout semble intact.",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 93,
-                                columnNumber: 140
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            "Il est important de vérifier que l’appareil n’est pas endommagé et que les dents n’ont pas bougé.",
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
-                                fileName: "[project]/pages/urgences-et-incident.jsx",
-                                lineNumber: 94,
-                                columnNumber: 108
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            "Mieux vaut anticiper pour éviter un mauvais repositionnement."
-                        ]
-                    }, void 0, true, {
+                        children: "Après un choc (chute, accident, impact sur l’appareil), avertissez immédiatement votre dentiste, même si tout semble intact. Des radiographies de contrôle peuvent être réalisées et un certificat médical initial vous sera remis. Il sera à envoyer à votre assurance lors de la déclaration de l’accident. Un rendez-vous chez l’orthodontiste sera peut-être à prévoir. Il est important de vérifier que l’appareil n’est pas endommagé et que les dents n’ont pas bougé. Mieux vaut anticiper pour éviter un mauvais repositionnement."
+                    }, void 0, false, {
                         fileName: "[project]/pages/urgences-et-incident.jsx",
-                        lineNumber: 92,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                lineNumber: 89,
+                lineNumber: 87,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -894,12 +878,12 @@ const UrgencesEtIncident = ()=>{
                     variant: "primary"
                 }, void 0, false, {
                     fileName: "[project]/pages/urgences-et-incident.jsx",
-                    lineNumber: 100,
+                    lineNumber: 98,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/urgences-et-incident.jsx",
-                lineNumber: 99,
+                lineNumber: 97,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

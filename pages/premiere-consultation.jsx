@@ -42,7 +42,7 @@ const PremiereConsultation = () => {
         <h2>À quel âge consulter ?</h2>
         <p>
           Il n’y a pas d’âge “magique” : l’orthodontie peut être utile de l’enfance à l’âge adulte.  
-          Toutefois, un bilan dès 8-10 ans est souvent recommandé pour dépister précocement des problèmes (mâchoire, croissance, malocclusion…).  
+          Toutefois, un bilan dès 6-8 ans est souvent recommandé pour dépister précocement des problèmes (mâchoire, croissance, malocclusion…).  
           Cela permet d’anticiper un traitement si nécessaire, ou simplement de suivre l’évolution.
         </p>
       </section>
@@ -54,17 +54,18 @@ const PremiereConsultation = () => {
           <li>Entretien : antécédents médicaux/dentaires, habitudes (succion, respiration, posture…)</li>
           <li>Examen clinique exobuccal et endobuccal (visage, mâchoires, dents, gencives, fonction)</li>
           <li>Analyse de la posture, fonction mandibulaire, occlusion, respiration, déglutition, phonation</li>
+          <li>Examens radiologiques</li>
         </ul>
       </section>
 
       <section className={styles.pcSection}>
         <Camera className={styles.pcIcon} />
-        <h2>Examens complémentaires possibles</h2>
+        <h2>Examens complémentaires</h2>
         <p>Selon les besoins, le bilan peut inclure :</p>
         <ul className={styles.pcList}>
           <li>Radiographie panoramique et/ou téléradiographie (profil / face)</li>
           <li>Photographies du visage, du sourire, des arcades dentaires (face & profil)</li>
-          <li>Empreintes dentaires (plâtre ou empreintes numériques 3D)</li>
+          <li>Empreintes dentaires numériques 3D</li>
         </ul>
       </section>
 
@@ -94,7 +95,7 @@ const PremiereConsultation = () => {
       <section className={styles.pcSection}>
         <Clipboard className={styles.pcIcon} />
         <h2>Après la consultation</h2>
-        <p>Vous recevrez :</p>
+        <p>Un rendez vous d'explications peut vous être proposé. Lors de ce rendez-vous, vous recevrez :</p>
         <ul className={styles.pcList}>
           <li>Un compte-rendu clair du bilan</li>
           <li>Un plan de traitement proposé (si nécessaire) avec durée, étapes, appareillage</li>

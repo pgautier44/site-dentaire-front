@@ -624,7 +624,7 @@ const AppareilsMultiAttaches = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Appareils multi‑attaches – Cabinet Dr Capucine Lucas",
                     "description": "Guide complet sur les appareils multi‑attaches : pose, adaptation, entretien et suivi pour enfants et adultes.",
-                    "url": "https://dr-capucine-lucas.vercel.app/appareils-multi-attaches",
+                    "url": "https://dr-capucine-lucas.fr/appareils-multi-attaches",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -635,8 +635,8 @@ const AppareilsMultiAttaches = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -753,7 +753,7 @@ const AppareilsMultiAttaches = ()=>{
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcNote,
-                        children: "La séance dure généralement 60 à 90 minutes."
+                        children: "La séance dure généralement 20 à 45 minutes."
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
                         lineNumber: 65,
@@ -776,7 +776,7 @@ const AppareilsMultiAttaches = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
-                        children: "Adaptation et inconfort"
+                        children: "Adaptation"
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
                         lineNumber: 70,
@@ -793,7 +793,7 @@ const AppareilsMultiAttaches = ()=>{
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Irritation de la langue et des joues"
+                                children: "Il peut exister des irritation de la langue et des joues et des légers changements dans la mastication ou l’élocution"
                             }, void 0, false, {
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 73,
@@ -858,13 +858,6 @@ const AppareilsMultiAttaches = ()=>{
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 84,
                                 columnNumber: 11
-                            }, ("TURBOPACK compile-time value", void 0)),
-                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Bains de bouche sans alcool si conseillé"
-                            }, void 0, false, {
-                                fileName: "[project]/pages/bagues.jsx",
-                                lineNumber: 85,
-                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
@@ -885,42 +878,49 @@ const AppareilsMultiAttaches = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
-                        lineNumber: 90,
+                        lineNumber: 89,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
                         children: "En cas de problème"
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
-                        lineNumber: 91,
+                        lineNumber: 90,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcList,
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Bague décollée : conserver et contacter l’orthodontiste"
+                                children: "Bague décollée : appeler le cabinet pour voir si un rendez-vous intercalaire est nécessaire avant le prochain contrôle. En attendant : mettre de la cire si celle si gêne"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/bagues.jsx",
+                                lineNumber: 92,
+                                columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
+                                children: "Fil gênant : mettre de la cire orthodontique"
                             }, void 0, false, {
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 93,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Fil gênant : appliquer de la cire orthodontique"
+                                children: "Douleurs : prendre des antalgiques (paracétamol)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 94,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Douleurs : antalgiques simples (paracétamol)"
+                                children: "Blessures : gels cicatrisants (hyalugel®, aphta clear®…)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 95,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("li", {
-                                children: "Blessures : gels cicatrisants ou bains de bouche adaptés"
+                                children: "Gencive gonflée : une gencive gonflée correspond dans la majorité des cas à un brossage insuffisant. Si elle persiste, contacter le cabinet"
                             }, void 0, false, {
                                 fileName: "[project]/pages/bagues.jsx",
                                 lineNumber: 96,
@@ -929,13 +929,13 @@ const AppareilsMultiAttaches = ()=>{
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/bagues.jsx",
-                        lineNumber: 92,
+                        lineNumber: 91,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/bagues.jsx",
-                lineNumber: 89,
+                lineNumber: 88,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -956,7 +956,7 @@ const AppareilsMultiAttaches = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
-                        children: "En moyenne, un traitement multi‑attaches dure 18 à 36 mois selon la complexité."
+                        children: "En moyenne, un traitement multi‑attaches dure en moyenne 2 ans mais cette durée peut varier en fonction de la complexité du traitement."
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
                         lineNumber: 103,
@@ -964,7 +964,7 @@ const AppareilsMultiAttaches = ()=>{
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcNote,
-                        children: "Une contention est souvent mise en place après le retrait des bagues pour stabiliser les résultats."
+                        children: "A la fin du traitement multi-attaches, quand les objectifs sont remplis, un ou des fils de contention seront posés pour stabiliser le traitement."
                     }, void 0, false, {
                         fileName: "[project]/pages/bagues.jsx",
                         lineNumber: 104,
@@ -1039,7 +1039,7 @@ const AppareilsMultiAttaches = ()=>{
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                 className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].pcCta,
                 children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Button$2f$Button$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                    label: "Rendez-vous",
+                    label: "Prendre rendez-vous",
                     onClick: ()=>window.open("https://app.my-orthoadvance.com/#/cabinets/lucas", "_blank"),
                     size: "large",
                     variant: "primary"

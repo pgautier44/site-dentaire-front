@@ -61,9 +61,11 @@ const ObjectifTraitement = () => {
         <Calendar className={styles.pcIcon} />
         <h2>Mâcher, respirer, parler plus confortablement</h2>
         <p>
-          Un mal-alignement ou une mauvaise occlusion peut compliquer la mastication, altérer la digestion, ou provoquer des tensions au niveau des mâchoires.  
-          Grâce à l’orthodontie, les forces sont correctement réparties, la morsure devient harmonieuse, ce qui améliore le confort de la mastication et peut soulager les tensions articulaires ou musculaires.  
-          De plus, un bon alignement dentaire peut aussi faciliter l’articulation et la prononciation.
+          Un mal-alignement ou une mauvaise occlusion peuvent compliquer la mastication, altérer la digestion, 
+          ou provoquer des tensions au niveau des mâchoires ou des cervicales. Grâce à l’orthodontie, 
+          les forces sont correctement réparties, la morsure devient harmonieuse,
+           ce qui améliore le confort de la mastication et peut soulager les tensions articulaires ou musculaires. 
+           De plus, un bon alignement dentaire peut aussi faciliter l’articulation et la prononciation.
         </p>
       </section>
 

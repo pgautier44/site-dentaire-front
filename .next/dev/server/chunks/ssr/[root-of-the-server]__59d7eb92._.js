@@ -96,7 +96,7 @@ const PremiereConsultation = ()=>{
                     "@type": "MedicalWebPage",
                     "name": "Première consultation – Cabinet d'Orthodontie Dr Capucine Lucas",
                     "description": "Informations sur la première consultation orthodontique : déroulement, examens, conseils et recommandations pour patients enfants et adultes.",
-                    "url": "https://dr-capucine-lucas.vercel.app/premiere-consultation",
+                    "url": "https://dr-capucine-lucas.fr/premiere-consultation",
                     "publisher": {
                         "@type": "Dentist",
                         "name": "Dr Capucine Lucas",
@@ -107,8 +107,8 @@ const PremiereConsultation = ()=>{
                             "postalCode": "35740",
                             "addressCountry": "FR"
                         },
-                        "telephone": "02 XX XX XX XX",
-                        "email": "Drlucas@orthodontiepace.com"
+                        "telephone": "02 59 16 55 74",
+                        "email": "drlucas@orthodontiepace.com"
                     }
                 }
             }, void 0, false, {
@@ -157,7 +157,7 @@ const PremiereConsultation = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                        children: "Il n’y a pas d’âge “magique” : l’orthodontie peut être utile de l’enfance à l’âge adulte. Toutefois, un bilan dès 8-10 ans est souvent recommandé pour dépister précocement des problèmes (mâchoire, croissance, malocclusion…). Cela permet d’anticiper un traitement si nécessaire, ou simplement de suivre l’évolution."
+                        children: "Il n’y a pas d’âge “magique” : l’orthodontie peut être utile de l’enfance à l’âge adulte. Toutefois, un bilan dès 6-8 ans est souvent recommandé pour dépister précocement des problèmes (mâchoire, croissance, malocclusion…). Cela permet d’anticiper un traitement si nécessaire, ou simplement de suivre l’évolution."
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
                         lineNumber: 43,
@@ -209,6 +209,13 @@ const PremiereConsultation = ()=>{
                                 fileName: "[project]/pages/premiere-consultation.jsx",
                                 lineNumber: 56,
                                 columnNumber: 11
+                            }, ("TURBOPACK compile-time value", void 0)),
+                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
+                                children: "Examens radiologiques"
+                            }, void 0, false, {
+                                fileName: "[project]/pages/premiere-consultation.jsx",
+                                lineNumber: 57,
+                                columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
@@ -229,21 +236,21 @@ const PremiereConsultation = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 61,
+                        lineNumber: 62,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
-                        children: "Examens complémentaires possibles"
+                        children: "Examens complémentaires"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 62,
+                        lineNumber: 63,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         children: "Selon les besoins, le bilan peut inclure :"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 63,
+                        lineNumber: 64,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -253,33 +260,33 @@ const PremiereConsultation = ()=>{
                                 children: "Radiographie panoramique et/ou téléradiographie (profil / face)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 65,
+                                lineNumber: 66,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Photographies du visage, du sourire, des arcades dentaires (face & profil)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 66,
+                                lineNumber: 67,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
-                                children: "Empreintes dentaires (plâtre ou empreintes numériques 3D)"
+                                children: "Empreintes dentaires numériques 3D"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 67,
+                                lineNumber: 68,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 64,
+                        lineNumber: 65,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 60,
+                lineNumber: 61,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -289,21 +296,21 @@ const PremiereConsultation = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 72,
+                        lineNumber: 73,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Constitution du dossier orthodontique"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 73,
+                        lineNumber: 74,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
                         children: "À partir des données collectées, le praticien élabore un dossier complet qui lui permet de :"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 74,
+                        lineNumber: 75,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -313,40 +320,40 @@ const PremiereConsultation = ()=>{
                                 children: "Poser un diagnostic (malocclusion, asymétrie, décalage, etc.)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 76,
+                                lineNumber: 77,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Proposer un plan de traitement adapté (appareil fixe, amovible, gouttières, etc.)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 77,
+                                lineNumber: 78,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Déterminer la durée estimée, le nombre de rendez-vous, la fréquence des contrôles"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 78,
+                                lineNumber: 79,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Présenter un devis, des informations administratives (mutuelle, prise en charge) si besoin"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 79,
+                                lineNumber: 80,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 75,
+                        lineNumber: 76,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 71,
+                lineNumber: 72,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -356,14 +363,14 @@ const PremiereConsultation = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 84,
+                        lineNumber: 85,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Pourquoi faire ce bilan maintenant ?"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 85,
+                        lineNumber: 86,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -373,40 +380,40 @@ const PremiereConsultation = ()=>{
                                 children: "Permettre une prise en charge précoce, lorsque la croissance est favorable"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 87,
+                                lineNumber: 88,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Éviter des traitements plus lourds plus tard"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 88,
+                                lineNumber: 89,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Anticiper les besoins (hygiène, soins, suivi) et informer le patient / les parents"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 89,
+                                lineNumber: 90,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Prendre une décision éclairée, sans pression"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 90,
+                                lineNumber: 91,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 86,
+                        lineNumber: 87,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 83,
+                lineNumber: 84,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -416,21 +423,21 @@ const PremiereConsultation = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 95,
+                        lineNumber: 96,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Après la consultation"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 96,
+                        lineNumber: 97,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                        children: "Vous recevrez :"
+                        children: "Un rendez vous d'explications peut vous être proposé. Lors de ce rendez-vous, vous recevrez :"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 97,
+                        lineNumber: 98,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -440,40 +447,40 @@ const PremiereConsultation = ()=>{
                                 children: "Un compte-rendu clair du bilan"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 99,
+                                lineNumber: 100,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Un plan de traitement proposé (si nécessaire) avec durée, étapes, appareillage"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 100,
+                                lineNumber: 101,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Un devis et les modalités de prise en charge / remboursement (selon âge, mutuelle…)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 101,
+                                lineNumber: 102,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Une explication du suivi : rendez-vous de pose, ajustements, contrôles, etc."
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 102,
+                                lineNumber: 103,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 98,
+                        lineNumber: 99,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 94,
+                lineNumber: 95,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("section", {
@@ -483,14 +490,14 @@ const PremiereConsultation = ()=>{
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$styles$2f$Fiches$2e$module$2e$css__$5b$ssr$5d$__$28$css__module$29$__["default"].pcIcon
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 107,
+                        lineNumber: 108,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
                         children: "Conseils pratiques avant votre rendez-vous"
                     }, void 0, false, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 108,
+                        lineNumber: 109,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("ul", {
@@ -500,40 +507,40 @@ const PremiereConsultation = ()=>{
                                 children: "Apportez votre carte Vitale + mutuelle (si applicable)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 110,
+                                lineNumber: 111,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Si disponible : radios ou examens dentaires antérieurs"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 111,
+                                lineNumber: 112,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Notez vos habitudes (succion, respiration, grincement, douleurs, antécédents dentaires)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 112,
+                                lineNumber: 113,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0)),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("li", {
                                 children: "Préparez vos questions (durée, coût, alternatives, suivi…)"
                             }, void 0, false, {
                                 fileName: "[project]/pages/premiere-consultation.jsx",
-                                lineNumber: 113,
+                                lineNumber: 114,
                                 columnNumber: 11
                             }, ("TURBOPACK compile-time value", void 0))
                         ]
                     }, void 0, true, {
                         fileName: "[project]/pages/premiere-consultation.jsx",
-                        lineNumber: 109,
+                        lineNumber: 110,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0))
                 ]
             }, void 0, true, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 106,
+                lineNumber: 107,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0)),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("div", {
@@ -545,12 +552,12 @@ const PremiereConsultation = ()=>{
                     variant: "primary"
                 }, void 0, false, {
                     fileName: "[project]/pages/premiere-consultation.jsx",
-                    lineNumber: 118,
+                    lineNumber: 119,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             }, void 0, false, {
                 fileName: "[project]/pages/premiere-consultation.jsx",
-                lineNumber: 117,
+                lineNumber: 118,
                 columnNumber: 7
             }, ("TURBOPACK compile-time value", void 0))
         ]

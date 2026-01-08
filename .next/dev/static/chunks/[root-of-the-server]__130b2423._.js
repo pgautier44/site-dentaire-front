@@ -569,34 +569,20 @@ const fiches = [
     },
     {
         id: 4,
-        title: "Appareils Amovibles",
-        img: "/images/Appareils_Amovible.png",
-        desc: "Guide pratique sur le port des appareils amovibles et comment maintenir une hygiène optimale.",
-        link: "/appareils-amovibles"
-    },
-    {
-        id: 5,
-        title: "Techniques d’appareils fixes",
-        img: "/images/Appareils_Fixe.png",
-        desc: "Tout savoir sur les appareils fixes : pose, ajustements et soins recommandés.",
-        link: "/appareils-fixes"
-    },
-    {
-        id: 6,
         title: "Objectifs d’un traitement orthodontique",
         img: "/images/Orthodontie_Goal.png",
         desc: "Pourquoi suivre un traitement orthodontique et quels bénéfices attendre à court et long terme.",
         link: "/objectif-traitement"
     },
     {
-        id: 7,
+        id: 5,
         title: "Urgences et incidents courants",
         img: "/images/Orthodontie_Emergency.png",
         desc: "Que faire en cas de problème avec votre appareil et comment gérer les urgences orthodontiques.",
         link: "/urgences-et-incident"
     },
     {
-        id: 8,
+        id: 6,
         title: "Les différentes techniques de traitement",
         img: "/images/Orthodontie_Technique.png",
         desc: "Aperçu des techniques orthodontiques modernes adaptées à chaque profil de patient.",
@@ -615,7 +601,7 @@ function Conseils() {
                     "@type": "CollectionPage",
                     name: "Fiches conseils – Cabinet d'Orthodontie Dr Capucine Lucas",
                     description: "Fiches conseils orthodontiques : hygiène, appareils, urgences, informations pratiques.",
-                    url: "https://dr-capucine-lucas.vercel.app/conseils",
+                    url: "https://dr-capucine-lucas.fr/conseils",
                     publisher: {
                         "@type": "Dentist",
                         name: "Dr Capucine Lucas",
@@ -629,7 +615,7 @@ function Conseils() {
                 }
             }, void 0, false, {
                 fileName: "[project]/pages/conseils.jsx",
-                lineNumber: 68,
+                lineNumber: 54,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
@@ -637,7 +623,7 @@ function Conseils() {
                 children: "Fiches conseils"
             }, void 0, false, {
                 fileName: "[project]/pages/conseils.jsx",
-                lineNumber: 91,
+                lineNumber: 77,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -651,7 +637,7 @@ function Conseils() {
                                 alt: fiche.title
                             }, void 0, false, {
                                 fileName: "[project]/pages/conseils.jsx",
-                                lineNumber: 100,
+                                lineNumber: 86,
                                 columnNumber: 13
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -661,37 +647,37 @@ function Conseils() {
                                         children: fiche.title
                                     }, void 0, false, {
                                         fileName: "[project]/pages/conseils.jsx",
-                                        lineNumber: 103,
+                                        lineNumber: 89,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                         children: fiche.desc
                                     }, void 0, false, {
                                         fileName: "[project]/pages/conseils.jsx",
-                                        lineNumber: 104,
+                                        lineNumber: 90,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/pages/conseils.jsx",
-                                lineNumber: 102,
+                                lineNumber: 88,
                                 columnNumber: 13
                             }, this)
                         ]
                     }, fiche.id, true, {
                         fileName: "[project]/pages/conseils.jsx",
-                        lineNumber: 95,
+                        lineNumber: 81,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/pages/conseils.jsx",
-                lineNumber: 93,
+                lineNumber: 79,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/pages/conseils.jsx",
-        lineNumber: 67,
+        lineNumber: 53,
         columnNumber: 5
     }, this);
 }
