@@ -180,14 +180,14 @@ const TechniqueTraitement = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("h2", {
-                        children: "Gouttières invisibles / appareils amovibles"
+                        children: "Gouttières discrètes / appareils amovibles"
                     }, void 0, false, {
                         fileName: "[project]/pages/technique-traitement.jsx",
                         lineNumber: 55,
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("p", {
-                        children: "Les gouttières — ou autres appareils amovibles — sont une alternative discrète et souvent plus confortable, notamment pour les adolescents ou les adultes. Elles sont fabriquées sur mesure, à partir d’empreintes ou de scans, et doivent être portées selon les consignes de l’orthodontiste (souvent 22h/24 la nuit ou un temps défini chaque jour). Elles conviennent bien aux corrections légères à modérées, et offrent l’avantage d’être amovibles pour les repas ou le brossage."
+                        children: "Les gouttières — ou autres appareils amovibles — sont une alternative discrète et souvent plus confortable, notamment pour les adolescents ou les adultes. Elles sont fabriquées sur mesure, à partir d’empreintes numériques, et doivent être portées selon les consignes de l’orthodontiste (souvent 22h/24 la nuit ou un temps défini chaque jour). Elles conviennent bien aux corrections légères à modérées, et offrent l’avantage d’être amovibles pour les repas ou le brossage."
                     }, void 0, false, {
                         fileName: "[project]/pages/technique-traitement.jsx",
                         lineNumber: 56,

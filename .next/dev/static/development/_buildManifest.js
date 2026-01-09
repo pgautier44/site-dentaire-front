@@ -47,8 +47,6 @@ self.__BUILD_MANIFEST = {
     "/",
     "/_app",
     "/_error",
-    "/appareils-amovibles",
-    "/appareils-fixes",
     "/bagues",
     "/conseils",
     "/contact",

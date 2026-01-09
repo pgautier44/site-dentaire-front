@@ -52,11 +52,11 @@ const TechniqueTraitement = () => {
 
       <section className={styles.pcSection}>
         <Camera className={styles.pcIcon} />
-        <h2>Gouttières invisibles / appareils amovibles</h2>
+        <h2>Gouttières discrètes / appareils amovibles</h2>
         <p>
           Les gouttières — ou autres appareils amovibles — sont une alternative discrète et souvent plus confortable,
            notamment pour les adolescents ou les adultes. Elles sont fabriquées sur mesure, 
-           à partir d’empreintes ou de scans, et doivent être portées selon les consignes de 
+           à partir d’empreintes numériques, et doivent être portées selon les consignes de 
            l’orthodontiste (souvent 22h/24 la nuit ou un temps défini chaque jour). 
            Elles conviennent bien aux corrections légères à modérées, 
            et offrent l’avantage d’être amovibles pour les repas ou le brossage.  
