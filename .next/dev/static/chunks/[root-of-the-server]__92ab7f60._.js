@@ -699,9 +699,9 @@ function Welcome() {
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                     className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Welcome$2f$Welcome$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].welcomeText,
                     children: [
-                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
+                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h1", {
                             className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Welcome$2f$Welcome$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].welcomeTitle,
-                            children: "Bienvenue sur le site du Docteur LUCAS"
+                            children: "Cabinet d’orthodontie à Pacé – Dr Capucine Lucas"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Welcome/Welcome.jsx",
                             lineNumber: 10,
@@ -709,7 +709,7 @@ function Welcome() {
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                             children: [
-                                "Toute l’équipe du cabinet d’orthodontie du Dr Capucine Lucas, spécialiste qualifiée en Orthopédie Dento-Faciale, est à votre écoute pour vous accompagner avec bienveillance tout au long de votre parcours de soins.",
+                                "Toute l’équipe du cabinet d’orthodontie du Dr Capucine Lucas à Pacé, spécialiste qualifiée en Orthopédie Dento-Faciale, est à votre écoute pour vous accompagner avec bienveillance tout au long de votre parcours de soins.",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
                                     lineNumber: 19,
@@ -832,8 +832,8 @@ function HomePage() {
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["Fragment"], {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Seo$2f$Seo$2e$jsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
-                title: "Dr Capucine Lucas – Cabinet d'orthodontie à Pacé",
-                description: "Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Informations sur les soins, conseils pratiques et contact.",
+                title: "Orthodontiste à Pacé (35) – Dr Capucine Lucas",
+                description: "Cabinet d’orthodontie à Pacé (Ille-et-Vilaine). Traitements orthodontiques enfants, adolescents et adultes. Dr Capucine Lucas.",
                 jsonLd: {
                     "@context": "https://schema.org",
                     "@type": "Dentist",

@@ -8,8 +8,8 @@ export default function HomePage() {
   return (
     <>
       <Seo
-        title="Dr Capucine Lucas – Cabinet d'orthodontie à Pacé"
-        description="Cabinet d’orthodontie du Dr Capucine Lucas situé à Pacé. Informations sur les soins, conseils pratiques et contact."
+        title="Orthodontiste à Pacé (35) – Dr Capucine Lucas"
+        description="Cabinet d’orthodontie à Pacé (Ille-et-Vilaine). Traitements orthodontiques enfants, adolescents et adultes. Dr Capucine Lucas."
         jsonLd={{
           "@context": "https://schema.org",
           "@type": "Dentist",

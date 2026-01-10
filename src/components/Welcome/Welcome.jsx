@@ -7,12 +7,12 @@ function Welcome() {
     <section className={styles.welcome}>
       <div className={`${styles.welcomeContent} ${styles.fullWidth}`}>
         <div className={styles.welcomeText}>
-          <h2 className={styles.welcomeTitle}>
-            Bienvenue sur le site du Docteur LUCAS
-          </h2>
+          <h1 className={styles.welcomeTitle}>
+            Cabinet d’orthodontie à Pacé – Dr Capucine Lucas
+          </h1>
 
           <p>
-            Toute l’équipe du cabinet d’orthodontie du Dr Capucine Lucas,
+            Toute l’équipe du cabinet d’orthodontie du Dr Capucine Lucas à Pacé,
             spécialiste qualifiée en Orthopédie Dento-Faciale, est à votre écoute
             pour vous accompagner avec bienveillance tout au long de votre
             parcours de soins.
