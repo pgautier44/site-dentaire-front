@@ -9,7 +9,7 @@ function MyApp({ Component, pageProps }) {
     <>
       <Head>
         <link rel="icon" href="/favicon.ico" />
-        <link rel="apple-touch-icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" href="/images/Logo.png" />
         {/* JSON-LD global pour l'entreprise */}
         <script
           type="application/ld+json"
