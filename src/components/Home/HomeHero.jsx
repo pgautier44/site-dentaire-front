@@ -10,7 +10,7 @@ function HomeHero() {
       <div className={styles.homeHeroOverlay}>
         <h1 className={styles.homeHeroTitle}>L'orée du sourire</h1>
         <p className={styles.homeHeroSubtitle}>
-          "Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, aadaptés à chacun."
+          "Un accompagnement bienveillant et expert pour des traitements orthodontiques efficaces, esthétiques et durables, adaptés à chacun."
         </p>
 
         <Button
