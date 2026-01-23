@@ -2,16 +2,7 @@
   "/": "pages/index.js",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/appareils-amovibles": "pages/appareils-amovibles.js",
-  "/appareils-fixes": "pages/appareils-fixes.js",
-  "/bagues": "pages/bagues.js",
-  "/conseils": "pages/conseils.js",
   "/contact": "pages/contact.js",
-  "/objectif-traitement": "pages/objectif-traitement.js",
-  "/orthodontie-presentation": "pages/orthodontie-presentation.js",
-  "/premiere-consultation": "pages/premiere-consultation.js",
-  "/team": "pages/team.js",
-  "/technique-traitement": "pages/technique-traitement.js",
-  "/urgences": "pages/urgences.js",
-  "/urgences-et-incident": "pages/urgences-et-incident.js"
+  "/legal-notice": "pages/legal-notice.js",
+  "/urgences": "pages/urgences.js"
 }
