@@ -265,25 +265,6 @@ body, html, #root, .App {
   }
 }
 
-.Header-module__ldgnoG__info-banner {
-  color: #f8f6f6;
-  text-align: center;
-  background-color: #418c6b;
-  border-top: 1px solid #e6d5b8;
-  border-bottom: 1px solid #e6d5b8;
-  width: 100%;
-  padding: .6rem 1rem;
-  font-size: .9rem;
-  font-weight: 500;
-}
-
-@media (max-width: 768px) {
-  .Header-module__ldgnoG__info-banner {
-    padding: .5rem;
-    font-size: .8rem;
-  }
-}
-
 /* [project]/src/components/Footer/Footer.module.css [client] (css) */
 .Footer-module__Grjkva__footer {
   color: #666;

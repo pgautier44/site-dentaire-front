@@ -89,12 +89,6 @@ function Header() {
         )}
       </div>
 
-      <div className={styles["info-banner"]}>
-        Site et cabinet en construction, nous serons heureux de vous accueillir à partir du{" "}
-        <strong>2 février 2026. </strong>
-        Vous pouvez d&apos;ores et déjà prendre rendez-vous !
-      </div>
-
     </header>
   );
 }

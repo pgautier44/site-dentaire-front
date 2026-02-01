@@ -197,22 +197,3 @@
   }
 }
 
-.info-banner {
-  width: 100%;
-  background-color: #418C6B; 
-  color: #f8f6f6;            
-  text-align: center;
-  padding: 0.6rem 1rem;
-  font-size: 0.9rem;
-  font-weight: 500;
-  border-top: 1px solid #e6d5b8;
-  border-bottom: 1px solid #e6d5b8;
-}
-
-/* Mobile : texte légèrement plus petit */
-@media (max-width: 768px) {
-  .info-banner {
-    font-size: 0.8rem;
-    padding: 0.5rem;
-  }
-}

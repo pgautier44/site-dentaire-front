@@ -532,7 +532,6 @@ __turbopack_context__.v({
   "contact-info": "Header-module__ldgnoG__contact-info",
   "desktop-menu": "Header-module__ldgnoG__desktop-menu",
   "header": "Header-module__ldgnoG__header",
-  "info-banner": "Header-module__ldgnoG__info-banner",
   "main-header": "Header-module__ldgnoG__main-header",
   "mobile-menu": "Header-module__ldgnoG__mobile-menu",
   "tooth-icon": "Header-module__ldgnoG__tooth-icon",
@@ -851,25 +850,6 @@ function Header() {
             }, void 0, true, {
                 fileName: "[project]/src/components/Header/Header.jsx",
                 lineNumber: 35,
-                columnNumber: 7
-            }, this),
-            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Header$2f$Header$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"]["info-banner"],
-                children: [
-                    "Site et cabinet en construction, nous serons heureux de vous accueillir à partir du",
-                    " ",
-                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("strong", {
-                        children: "2 février 2026. "
-                    }, void 0, false, {
-                        fileName: "[project]/src/components/Header/Header.jsx",
-                        lineNumber: 94,
-                        columnNumber: 9
-                    }, this),
-                    "Vous pouvez d'ores et déjà prendre rendez-vous !"
-                ]
-            }, void 0, true, {
-                fileName: "[project]/src/components/Header/Header.jsx",
-                lineNumber: 92,
                 columnNumber: 7
             }, this)
         ]

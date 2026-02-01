@@ -25,45 +25,6 @@
       "static/chunks/_847f470d._.css",
       "static/chunks/pages__app_2da965e7._.js",
       "static/chunks/turbopack-pages__app_91faf0f7._.js"
-    ],
-    "/contact": [
-      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js",
-      "static/chunks/node_modules_next_dist_client_3ede7da4._.js",
-      "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_next_74932de7._.js",
-      "static/chunks/node_modules_react-dom_4411d9bd._.js",
-      "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__6fe8b058._.js",
-      "static/chunks/_6488aa18._.css",
-      "static/chunks/pages_contact_2da965e7._.js",
-      "static/chunks/turbopack-pages_contact_cf6ea925._.js"
-    ],
-    "/legal-notice": [
-      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_cf5b50a6._.js",
-      "static/chunks/node_modules_next_dist_client_d0aa886c._.js",
-      "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_next_head_6b89d279.js",
-      "static/chunks/node_modules_react-dom_4411d9bd._.js",
-      "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__559cb06f._.js",
-      "static/chunks/styles_LegalNotice_module_14a94235.css",
-      "static/chunks/pages_legal-notice_2da965e7._.js",
-      "static/chunks/turbopack-pages_legal-notice_8b8e0ec8._.js"
-    ],
-    "/urgences": [
-      "static/chunks/node_modules_next_dist_compiled_8ca6b690._.js",
-      "static/chunks/node_modules_next_dist_shared_lib_2202bc1a._.js",
-      "static/chunks/node_modules_next_dist_client_3ede7da4._.js",
-      "static/chunks/node_modules_next_dist_6024eba3._.js",
-      "static/chunks/node_modules_next_74932de7._.js",
-      "static/chunks/node_modules_react-dom_4411d9bd._.js",
-      "static/chunks/node_modules_f1be3ba2._.js",
-      "static/chunks/[root-of-the-server]__7b2d7178._.js",
-      "static/chunks/_495346ac._.css",
-      "static/chunks/pages_urgences_2da965e7._.js",
-      "static/chunks/turbopack-pages_urgences_66b8bbad._.js"
     ]
   },
   "devFiles": [],

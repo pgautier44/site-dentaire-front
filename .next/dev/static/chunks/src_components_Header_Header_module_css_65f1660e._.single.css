@@ -186,23 +186,4 @@
   }
 }
 
-.Header-module__ldgnoG__info-banner {
-  color: #f8f6f6;
-  text-align: center;
-  background-color: #418c6b;
-  border-top: 1px solid #e6d5b8;
-  border-bottom: 1px solid #e6d5b8;
-  width: 100%;
-  padding: .6rem 1rem;
-  font-size: .9rem;
-  font-weight: 500;
-}
-
-@media (max-width: 768px) {
-  .Header-module__ldgnoG__info-banner {
-    padding: .5rem;
-    font-size: .8rem;
-  }
-}
-
 /*# sourceMappingURL=src_components_Header_Header_module_css_65f1660e._.single.css.map*/

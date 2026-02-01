@@ -1,8 +1,5 @@
 {
   "/": "pages/index.js",
   "/_app": "pages/_app.js",
-  "/_document": "pages/_document.js",
-  "/contact": "pages/contact.js",
-  "/legal-notice": "pages/legal-notice.js",
-  "/urgences": "pages/urgences.js"
+  "/_document": "pages/_document.js"
 }
