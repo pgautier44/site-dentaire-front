@@ -186,7 +186,7 @@ function Welcome() {
                                     lineNumber: 19,
                                     columnNumber: 19
                                 }, this),
-                                "Nous prenons en charge aussi bien les enfants que les adolescents et les adultes, en proposant une large gamme d’appareils amovibles, fixes (technique vestibulaire classique ou linguale) adaptées à chaque profil.",
+                                "Nous prenons en charge aussi bien les enfants que les adolescents et les adultes, en proposant une large gamme d’appareils amovibles ou fixes (technique vestibulaire classique ou linguale) adaptés à chaque profil.",
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$externals$5d2f$react$2f$jsx$2d$dev$2d$runtime__$5b$external$5d$__$28$react$2f$jsx$2d$dev$2d$runtime$2c$__cjs$29$__["jsxDEV"])("br", {}, void 0, false, {
                                     fileName: "[project]/src/components/Welcome/Welcome.jsx",
                                     lineNumber: 23,
@@ -219,7 +219,7 @@ function Welcome() {
                                     lineNumber: 30,
                                     columnNumber: 19
                                 }, this),
-                                "Le cabinet est situé à côté de la piscine Aquaouest"
+                                "Le cabinet est situé à côté de la piscine Aquaouest."
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/components/Welcome/Welcome.jsx",

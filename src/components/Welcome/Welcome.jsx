@@ -18,8 +18,8 @@ function Welcome() {
             parcours de soins.
             <br /><br />
             Nous prenons en charge aussi bien les enfants que les adolescents et
-            les adultes, en proposant une large gamme d’appareils amovibles,
-            fixes (technique vestibulaire classique ou linguale) adaptées à chaque profil.
+            les adultes, en proposant une large gamme d’appareils amovibles ou
+            fixes (technique vestibulaire classique ou linguale) adaptés à chaque profil.
             <br /><br />
             Lors de votre première visite, nous recueillerons les informations
             nécessaires à un diagnostic précis afin d’élaborer un plan de
@@ -28,7 +28,7 @@ function Welcome() {
             Au cabinet, nous accordons une grande importance à la relation
             patient-parent-praticien.
             <br /><br />
-            Le cabinet est situé à côté de la piscine Aquaouest
+            Le cabinet est situé à côté de la piscine Aquaouest.
           </p>
 
           <Button
