@@ -50,13 +50,13 @@ function Team() {
         {/* Assistante */}
         <div className={styles.teamMember}>
           <img
-            src="/images/placeholder.jpg"
-            alt="Assistante dentaire"
+            src="/images/Geraldine_Brexel.jpeg"
+            alt="Géraldine Brexel, assistante dentaire"
             className={styles.teamPhoto}
           />
-          <h3>Assistante dentaire</h3>
+          <h3>Géraldine Brexel</h3>
           <p className={styles.teamRole}>
-            Une assistante dentaire est actuellement en cours de recrutement
+            Assistante dentaire
           </p>
         </div>
       </div>

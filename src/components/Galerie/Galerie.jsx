@@ -2,9 +2,10 @@ import React from "react";
 import styles from "./Galerie.module.css";
 
 const images = [
-  "/images/Galerie/Accueil.jpg",
   "/images/Galerie/Parcours_Patient.png",
-  "/images/Galerie/Salle_Attente.jpg",
+  "/images/Galerie/Salle_Attente.jpeg",
+  "/images/Galerie/Toilettes.jpeg",
+  "/images/Galerie/Accueil.jpeg",
   "/images/Galerie/Salle_De_Soins.jpg",
   "/images/Galerie/Salle_Radio.jpg",
   "/images/Galerie/Sterilisation.jpg",

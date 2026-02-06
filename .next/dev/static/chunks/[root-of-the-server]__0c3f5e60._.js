@@ -695,8 +695,8 @@ function Team() {
                         className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Team$2f$Team$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].teamMember,
                         children: [
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                src: "/images/placeholder.jpg",
-                                alt: "Assistante dentaire",
+                                src: "/images/Geraldine_Brexel.jpeg",
+                                alt: "Géraldine Brexel, assistante dentaire",
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Team$2f$Team$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].teamPhoto
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
@@ -704,7 +704,7 @@ function Team() {
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
-                                children: "Assistante dentaire"
+                                children: "Géraldine Brexel"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
                                 lineNumber: 57,
@@ -712,7 +712,7 @@ function Team() {
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
                                 className: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Team$2f$Team$2e$module$2e$css__$5b$client$5d$__$28$css__module$29$__["default"].teamRole,
-                                children: "Une assistante dentaire est actuellement en cours de recrutement"
+                                children: "Assistante dentaire"
                             }, void 0, false, {
                                 fileName: "[project]/src/components/Team/Team.jsx",
                                 lineNumber: 58,
@@ -774,9 +774,10 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$components$2f$Galerie
 ;
 ;
 const images = [
-    "/images/Galerie/Accueil.jpg",
     "/images/Galerie/Parcours_Patient.png",
-    "/images/Galerie/Salle_Attente.jpg",
+    "/images/Galerie/Salle_Attente.jpeg",
+    "/images/Galerie/Toilettes.jpeg",
+    "/images/Galerie/Accueil.jpeg",
     "/images/Galerie/Salle_De_Soins.jpg",
     "/images/Galerie/Salle_Radio.jpg",
     "/images/Galerie/Sterilisation.jpg",
@@ -791,7 +792,7 @@ function Galerie() {
                 children: "Galerie du cabinet"
             }, void 0, false, {
                 fileName: "[project]/src/components/Galerie/Galerie.jsx",
-                lineNumber: 17,
+                lineNumber: 18,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -804,23 +805,23 @@ function Galerie() {
                             loading: "lazy"
                         }, void 0, false, {
                             fileName: "[project]/src/components/Galerie/Galerie.jsx",
-                            lineNumber: 25,
+                            lineNumber: 26,
                             columnNumber: 13
                         }, this)
                     }, index, false, {
                         fileName: "[project]/src/components/Galerie/Galerie.jsx",
-                        lineNumber: 21,
+                        lineNumber: 22,
                         columnNumber: 11
                     }, this))
             }, void 0, false, {
                 fileName: "[project]/src/components/Galerie/Galerie.jsx",
-                lineNumber: 19,
+                lineNumber: 20,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/src/components/Galerie/Galerie.jsx",
-        lineNumber: 16,
+        lineNumber: 17,
         columnNumber: 5
     }, this);
 }
